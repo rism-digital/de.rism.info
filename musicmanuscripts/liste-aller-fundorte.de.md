@@ -155,7 +155,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1">Bad Homburg auf der Höhe, Stadtarchiv</td>
+         <td valign="top" width="51%" rowspan="1">Bad Homburg vor der Höhe, Stadtarchiv</td>
          <td valign="top" width="13%" rowspan="1">D-BDHsta</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
