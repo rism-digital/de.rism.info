@@ -199,6 +199,31 @@ Literatur:&nbsp;
 
 [To top](#)
 
+images/projects/neuwied.jpg
+
+# Neuwied (D-NEUW)
+
+<div style="float: left; width: 44%">
+   <figure class="figure">
+      <div class="float-left">
+         <img src="/images/projects/neuwied.jpg">
+      </div>
+      <figcaption class="figcaption">
+         Partiturseite eines Werkes von Johann Gottfried Gebhard von 1785, D-NEUW, Musikarchiv Nr. 61
+      </figcaption>
+   </figure>
+</div>
+
+Archiv der Brüdergemeine
+
+Die ersten Mitglieder der noch heute bestehenden Herrnhuter Brüdergemeine zogen 1750 auf Einladung des Grafen Johann Friedrich Alexander zu Wied in die 1653 gegründete Residenzstadt am Rhein. Das Archiv besitzt eine umfangreiche Musikaliensammlung mit Aufführungsmaterialen für den Gemeindechor, überwiegend von bekannten Herrnhuter Komponisten wie Christian Friedrich Gregor, Johann Christian Geisler oder dem später nach Nordamerika ausgewanderten Johannes Herbst, sie reicht von der Gründungszeit bis weit ins 20. Jahrhundert hinein und belegt dadurch eine kontinuierliche kirchenmusikalische Tradition bis in die heutige Zeit. Von dem Komponisten Johann Soerensen (1767-1831), der seine letzten Lebensjahre in Neuwied verbrachte, besitzt das Archiv einige Werke in autographer Überlieferung. 
+
+Bei Fragen zur Erschließung dieses Bestandes durch RISM wenden Sie sich bitte an Dr. Steffen Voss, RISM-Arbeitsstelle München (e-mail: [Steffen.Voss@bsb-muenchen.de](mailto:Steffen.Voss@bsb-muenchen.de "Opens window for sending email")); Telefon: 089/28638-2553
+Kontakt: Rainer Raillard (e-mail: [archiv@ebg-neuwied.de](mailto:archiv@ebg-neuwied.de "Opens window for sending email"))
+[Brüdergemeine Neuwied](http://www.bruedergemeine-neuwied.de)/{blank}
+
+(Steffen Voss 2022)
+
 # Nürnberg, Bibliothek beim Landeskirchlichen Archiv (D-Nla)
 
 <div style="float: right; width: 44%">
