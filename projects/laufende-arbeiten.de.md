@@ -80,7 +80,7 @@ Im Jahr 2018 wurde der Bestand aus Neunkirchen am Brand erfasst und im Laufe des
 
 Sächsische Landesbibliothek – Staats- und Universitätsbibliothek
 
-Die [Musikabteilung](https://www.slub-dresden.de/sammlungen/musik/ "Opens external link in new window")&nbsp;hat einen Bestand von ca. 19.000 Musikhandschriften, von denen bislang nur ein Teil von der RISM-Arbeitsstelle Dresden erfasst wurde. In der RISM-Datenbank finden sich die handschriftlich überlieferten Kompositionen von Georg Philipp Telemann, Christian Gottlob August Bergt, Joseph Haydn, König Anton von Sachsen, Francesco Morlacchi und Joseph Schuster .
+Die [Musikabteilung](https://www.slub-dresden.de/sammlungen/musik/ "Opens external link in new window")&nbsp;hat einen Bestand von ca. 19.000 Musikhandschriften, von denen bislang nur ein Teil von der RISM-Arbeitsstelle Dresden erfasst wurde. In der RISM-Datenbank vollständig nachgewiesen sind die Musikhandschriften mit Kompositionen von Georg Philipp Telemann, Christian Gottlob August Bergt, Joseph Haydn, König Anton von Sachsen, Francesco Morlacchi, Giovanni Agostino und Giovanni Domenico Perotti, sowie Joseph Schuster.
 
 Die Kompositionen von Johann Adolf Hasse wurden in Zusammenarbeit mit der SLUB und der Hasse-Gesellschaft katalogisiert, das Dresdner Opernarchiv wurde mit Unterstützung von SLUB und DFG erfasst. Die Arbeitsergebnisse sind jeweils auf einer im Saur-Verlag erschienenen CD-ROM veröffentlicht (Ortrun Landmann: _Katalog der Dresdener Hasse-Musikhandschriften,_ hrsg. von der RISM-Arbeitsgruppe Deutschland e.V., München 1999&nbsp;und Ortrun Landmann: _Das Dresdner Opernarchiv in der Sächsischen Landesbibliothek - Staats- und Universitätsbibliothek Dresden_, München 2002). Sie sind aber auch in rism-online nachgewiesen.
 
