@@ -114,6 +114,19 @@ Im Archiv finden sich einige Sammelhandschriften des 19. Jahrhundert, darunter L
 
 [To top](#)
 
+# Köln (D-KNa)
+Historisches Archiv der Stadt Köln
+
+Nach dem Einsturz des Archivs im Jahr 2009 waren die Bestände für lange Zeit nicht benutzbar. Inzwischen sind große Teile der Sammlungen und Nachlässe wieder geordnet und an dem im September 2021 eröffneten Neubau am Eifelwall einsehbar. Das Archiv verwahrt unter anderem den Nachlass des Komponisten Ferdinand von Hiller (1811-1885), mit dessen Autographenalbum, und einen großen, durch sukzessive Ankäufe erweiterten Sammelbestand mit Autographen und Erstdrucken von Werken des Kölner Operettenkomponisten Jacques Offenbach (1819-1880).  
+
+Bei Fragen zur Erschließung dieses Bestandes durch RISM wenden Sie sich bitte an &nbsp;[Dr. Steffen Voss](mailto:steffen.voss@bsb-muenchen.de "Opens window for sending email")&nbsp;, RISM-Arbeitsstelle München; Telefon: 089/28638-2395
+
+Für weitere Informationen wenden Sie sich bitte an das Historische Archiv der Stadt Köln, Herrn [Niclas Esser](mailto:Niclas.Esser@STADT-KOELN.DE "Opens window for sending email")
+
+(Steffen Voss, Juni 2022)
+
+[To top](#)
+
 # Leipzig (D-LEu)
 Universitätsbibliothek
 
@@ -191,17 +204,13 @@ Franziskanerkloster, Bibliothek
 
 Die Bibliothek des Franziskanerklosters des Niederbayerischen Wallfahrtortes besitzt insgesamt 17 Folianten mit liturgischen Kompositionen aus der 2. Hälfte des 18. Jahrhunderts, die ein typisches Beispiel für das Repertoire süddeutscher und österreichischer Franziskanerklöster dieser Epoche darstellen. Die Bestände werden zur Zeit in der Münchener RISM-Arbeitsstelle in der Bayerischen Staatsbibliothek katalogisiert. Bei Fragen zur Katalogisierung und zum Bestand wenden Sie sich bitte an die RISM-Arbeitsstelle München,&nbsp;[Dr. Steffen Voss](mailto:steffen.voss@bsb-muenchen.de "Opens window for sending email")
 
-&nbsp;
-
-Literatur:&nbsp;
+Literatur: Steffen Voss, _Katalog der Musikhandschriften der Bibliothek des Franziskanerklosters Neukirchen beim Heiligen Blut (D-NKf)_; Thematischer Katalog. Herausgegeben von der RISM-Arbeitsgruppe Deutschland e.V. und der RISM-Zentralredaktion, München und Frankfurt a.M. 2020
 
 (Steffen Voss, Dezember 2018)
 
 [To top](#)
 
-images/projects/neuwied.jpg
-
-# Neuwied (D-NEUW)
+# Neuwied, Archiv der Brüdergemeine (D-NEUW)
 
 <div style="float: left; width: 44%">
    <figure class="figure">
@@ -209,18 +218,17 @@ images/projects/neuwied.jpg
          <img src="/images/projects/neuwied.jpg">
       </div>
       <figcaption class="figcaption">
-         Partiturseite eines Werkes von Johann Gottfried Gebhard von 1785, D-NEUW, Musikarchiv Nr. 61
+         Erste Partiturseite eines Werkes von Johann Gottfried Gebhard, Musikarchiv Nr. 61
       </figcaption>
    </figure>
 </div>
 
-Archiv der Brüdergemeine
-
 Die ersten Mitglieder der noch heute bestehenden Herrnhuter Brüdergemeine zogen 1750 auf Einladung des Grafen Johann Friedrich Alexander zu Wied in die 1653 gegründete Residenzstadt am Rhein. Das Archiv besitzt eine umfangreiche Musikaliensammlung mit Aufführungsmaterialen für den Gemeindechor, überwiegend von bekannten Herrnhuter Komponisten wie Christian Friedrich Gregor, Johann Christian Geisler oder dem später nach Nordamerika ausgewanderten Johannes Herbst, sie reicht von der Gründungszeit bis weit ins 20. Jahrhundert hinein und belegt dadurch eine kontinuierliche kirchenmusikalische Tradition bis in die heutige Zeit. Von dem Komponisten Johann Soerensen (1767-1831), der seine letzten Lebensjahre in Neuwied verbrachte, besitzt das Archiv einige Werke in autographer Überlieferung. 
 
-Bei Fragen zur Erschließung dieses Bestandes durch RISM wenden Sie sich bitte an Dr. Steffen Voss, RISM-Arbeitsstelle München (e-mail: [Steffen.Voss@bsb-muenchen.de](mailto:Steffen.Voss@bsb-muenchen.de "Opens window for sending email")); Telefon: 089/28638-2553
+Bei Fragen zur Erschließung dieses Bestandes durch RISM wenden Sie sich bitte an &nbsp;[Dr. Steffen Voss](mailto:steffen.voss@bsb-muenchen.de "Opens window for sending email")&nbsp;, RISM-Arbeitsstelle München; Telefon: 089/28638-2395
+
 Kontakt: Rainer Raillard (e-mail: [archiv@ebg-neuwied.de](mailto:archiv@ebg-neuwied.de "Opens window for sending email"))
-[Brüdergemeine Neuwied](http://www.bruedergemeine-neuwied.de)/{blank}
+[Brüdergemeine Neuwied](http://www.bruedergemeine-neuwied.de)/
 
 (Steffen Voss 2022)
 
