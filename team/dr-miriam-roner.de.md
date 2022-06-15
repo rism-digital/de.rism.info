@@ -12,11 +12,6 @@ permalink: team/dr-miriam-roner.html
 
 ## Kontakt
 
-Telefon: +49 351 4677 396
-
-E‑Mail: Miriam.Roner(at)slub‑dresden.de
-
-
 <div style="float: right; width: 40%">
    <figure class="figure">
       <div class="float-left">
@@ -24,6 +19,12 @@ E‑Mail: Miriam.Roner(at)slub‑dresden.de
       </div>
    </figure>
 </div>
+
+
+Telefon: +49 351 4677 396
+
+E‑Mail: Miriam.Roner(at)slub‑dresden.de
+
 
 
 
