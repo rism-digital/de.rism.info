@@ -14,7 +14,13 @@ permalink: team/dr-andrea-hartmann.html
 
 
 {% include image file="/images/old/Andrea_200x200_100KB.jpg" pos="right" %}
-
+<div style="float: right; width: 25%">
+   <figure class="figure">
+      <div class="float-left">
+         <img src="/images/old/Andrea_200x200_100KB.jpg">
+      </div>
+   </figure>
+</div>
 
 Telefon: +49 351 4677398
 
