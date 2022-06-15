@@ -230,9 +230,11 @@ Die ersten Mitglieder der noch heute bestehenden Herrnhuter Brüdergemeine zogen
 Bei Fragen zur Erschließung dieses Bestandes durch RISM wenden Sie sich bitte an &nbsp;[Dr. Steffen Voss](mailto:steffen.voss@bsb-muenchen.de "Opens window for sending email")&nbsp;, RISM-Arbeitsstelle München; Telefon: 089/28638-2395
 
 Kontakt: Rainer Raillard (e-mail: [archiv@ebg-neuwied.de](mailto:archiv@ebg-neuwied.de "Opens window for sending email"))
-[Brüdergemeine Neuwied](http://www.bruedergemeine-neuwied.de)/
+[Brüdergemeine Neuwied](http://www.bruedergemeine-neuwied.de)
 
 (Steffen Voss 2022)
+
+[To top](#)
 
 # Nürnberg, Bibliothek beim Landeskirchlichen Archiv (D-Nla)
 
