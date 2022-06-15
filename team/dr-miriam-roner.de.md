@@ -13,6 +13,8 @@ permalink: team/dr-miriam-roner.html
 
 ## Kontakt
 
+
+
 <div style="float: right; width: 25%">
    <figure class="figure">
       <div class="float-left">
@@ -20,6 +22,8 @@ permalink: team/dr-miriam-roner.html
       </div>
    </figure>
 </div>
+
+
 
 
 Telefon: +49 351 4677 396
