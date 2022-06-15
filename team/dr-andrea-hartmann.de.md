@@ -9,7 +9,7 @@ permalink: team/dr-andrea-hartmann.html
 
 # Dr. Andrea Hartmann
 
-<div style="float: right; width: 25%">
+<div style="float: right; width: 30%">
    <figure class="figure">
       <div class="float-left">
          <img src="/images/old/Andrea_200x200_100KB.jpg">
