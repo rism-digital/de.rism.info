@@ -30,7 +30,7 @@ Miriam Roner, geb. 1986 in Bozen (Italien), absolvierte ein pädagogisches und e
 
 - Online-Bestandsverzeichnisse für das Schweizerische Literaturarchiv (Nachlass Frederick Charles Hay) und die SLUB Dresden (Nachlass Paul Hartig, Nachlass Günter Pistorius, Nachlass Siegfried Geißler; Sammlung Matthias Drude, Sammlung Walter Thomas Heyn)
 
-<div style="float: right; width: 30%">
+<div style="float: right; width: 40%">
    <figure class="figure">
       <div class="float-left">
          <img src="/images/old/fileadmin/Dresden_MRoner.jpg">
