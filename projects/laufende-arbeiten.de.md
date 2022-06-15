@@ -187,7 +187,9 @@ Es ist geplant, in den kommenden Jahren, den gesamten Bestand der älteren Musik
 
 Mit Hilfe der [Einspielung der RISM-Daten der Musikhandschriften der Bayerischen Staatsbibliothek&nbsp;in den Bayerischen&nbsp;Verbundkatalog](/fileadmin/content/workgroups/munich/AIBM_2014.pptx "Initiates file download")&nbsp;(BVK), wie auch&nbsp;dem geplanten gemeinsamen Katalog von BVK und KOBV (Kooperativer Bibliotheksverbund Berlin-Brandenburg) dem projektierten B3KAT, ist es gelungen, die qualitativ hochwertigen RISM-Titelaufnahmen direkt&nbsp;für die Bibliotheken nutzbar zu machen. Im Zuge dieser Arbeiten wurde eine Einspielroutine entwickelt, die auch kleineren Beständen des Verbunds zugute kommt.
 
-Außerdem werden mittlerweile die Nachlässe&nbsp;und die neu erworbenen Sonderbestände durch Mitarbeiter der BSB mit der Software von RISM erschlossen. Dabei übernehmen&nbsp;die Mitarbeiter von RISM das Coaching und die Pflege dieser Daten.
+Außerdem werden mittlerweile die Nachlässe&nbsp;und die neu erworbenen Sonderbestände durch Mitarbeiter der BSB mit der Software von RISM erschlossen. Dabei übernehmen die Mitarbeiter von RISM das Coaching und die Pflege dieser Daten.
+
+Auch die Musikhandschriften des [Schott-Archivs](/https://schottarchiv-digital.de/), die 2014 von der Bibliothek erworben wurden, und deren Erschließung im Rahmen eines DFG-Projektes erfolgt, werden in Zusammenarbeit mit der Münchener RISM-Arbeitsstelle katalogisiert 
 
 Mitte&nbsp;2018 sind über 56.000 Kompositionen aus dem Bestand der Bayerischen Staatsbibliothek im RISM-OPAC nachgewiesen.
 
@@ -204,7 +206,7 @@ Franziskanerkloster, Bibliothek
 
 Die Bibliothek des Franziskanerklosters des Niederbayerischen Wallfahrtortes besitzt insgesamt 17 Folianten mit liturgischen Kompositionen aus der 2. Hälfte des 18. Jahrhunderts, die ein typisches Beispiel für das Repertoire süddeutscher und österreichischer Franziskanerklöster dieser Epoche darstellen. Die Bestände werden zur Zeit in der Münchener RISM-Arbeitsstelle in der Bayerischen Staatsbibliothek katalogisiert. Bei Fragen zur Katalogisierung und zum Bestand wenden Sie sich bitte an die RISM-Arbeitsstelle München,&nbsp;[Dr. Steffen Voss](mailto:steffen.voss@bsb-muenchen.de "Opens window for sending email")
 
-Literatur: Steffen Voss, _Katalog der Musikhandschriften der Bibliothek des Franziskanerklosters Neukirchen beim Heiligen Blut (D-NKf)_; Thematischer Katalog. Herausgegeben von der RISM-Arbeitsgruppe Deutschland e.V. und der RISM-Zentralredaktion, München und Frankfurt a.M. 2020
+Literatur: Steffen Voss, _Katalog der Musikhandschriften der Bibliothek des Franziskanerklosters Neukirchen beim Heiligen Blut (D-NKf)_; Thematischer Katalog. Herausgegeben von der RISM-Arbeitsgruppe Deutschland e.V. und der RISM-Zentralredaktion, München und Frankfurt&nbsp;a.M.&nbsp;2020
 
 (Steffen Voss, Dezember 2018)
 
