@@ -189,7 +189,7 @@ Mit Hilfe der [Einspielung der RISM-Daten der Musikhandschriften der Bayerischen
 
 Außerdem werden mittlerweile die Nachlässe&nbsp;und die neu erworbenen Sonderbestände durch Mitarbeiter der BSB mit der Software von RISM erschlossen. Dabei übernehmen die Mitarbeiter von RISM das Coaching und die Pflege dieser Daten.
 
-Auch die Musikhandschriften des [Schott-Archivs](/https://schottarchiv-digital.de "Opens external link in new window"), die 2014 von der Bibliothek erworben wurden, und deren Erschließung im Rahmen eines DFG-Projektes erfolgt, werden in Zusammenarbeit mit der Münchener RISM-Arbeitsstelle katalogisiert 
+Auch die Musikhandschriften des [Schott-Archivs](https://schottarchiv-digital.de "Opens external link in new window"), die 2014 von der Bibliothek erworben wurden, und deren Erschließung im Rahmen eines DFG-Projektes erfolgt, werden in Zusammenarbeit mit der Münchener RISM-Arbeitsstelle katalogisiert 
 
 Mitte&nbsp;2018 sind über 56.000 Kompositionen aus dem Bestand der Bayerischen Staatsbibliothek im RISM-OPAC nachgewiesen.
 
