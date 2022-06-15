@@ -12,7 +12,7 @@ permalink: /team.html
 ## Arbeitsstelle Dresden
 - [Dr. Andrea Hartmann](team/dr-andrea-hartmann.html "Opens internal link in current window") (Leitung)
 - [Dr. Miriam Roner](team/dr-miriam-roner.html "Opens window for sending email")
-- Dr. Undine Wagner
+- [Dr. Undine Wagner](team/dr-undine-wagner.de.md "Opens internal link in current window")
 
 ## Arbeitsstelle München
 - [Dr. Gottfried Heinz-Kronberger](team/dr-gottfried-heinz-kronberger.html "Opens internal link in current window") (Leitung)
