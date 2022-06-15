@@ -9,7 +9,11 @@ permalink: team/dr-andrea-hartmann.html
 
 # Dr. Andrea Hartmann
 
+
+
 {% include image file="/images/old/Andrea_200x200_100KB.jpg" pos="right" %}
+
+
 
 ## Kontakt
 
