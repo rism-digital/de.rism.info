@@ -12,6 +12,10 @@ permalink: team/dr-undine-wagner.de.md
 
 ## Kontakt
 
+Telefon: +49 3643 555116
+
+E-Mail: undine.wagner(at)hfm-weimar.de; undine.wagner(at)t-online.de
+
 Dienstsitz:
 
 Hochschule für Musik FRANZ LISZT Weimar
@@ -22,10 +26,6 @@ Carl-Alexander-Platz 1
 
 99425 Weimar
 
-
-Telefon: +49 3643 555116
-
-E-Mail: undine.wagner(at)hfm-weimar.de; undine.wagner(at)t-online.de
 
 
 ## Vita
