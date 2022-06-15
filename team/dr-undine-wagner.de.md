@@ -3,7 +3,7 @@ layout: team
 title: Dr. Undine Wagner
 lang: de
 image:
-url: team/dr-undine-wagner.de.md
+old_url: team/dr-undine-wagner.html
 permalink: team/dr-undine-wagner.de.md
 ---
 
