@@ -16,6 +16,17 @@ Telefon: +49 351 4677 396
 
 E‑Mail: Miriam.Roner(at)slub‑dresden.de
 
+
+<div style="float: right; width: 40%">
+   <figure class="figure">
+      <div class="float-left">
+         <img src="/images/old/fileadmin/Dresden_MRoner.jpg">
+      </div>
+   </figure>
+</div>
+
+
+
 ## Vita
 
 Miriam Roner, geb. 1986 in Bozen (Italien), absolvierte ein pädagogisches und ein künstlerisches Instrumentalstudium in München und Trossingen und studierte Musikwissenschaft in Trossingen und Bern (Schweiz). Von 2013 bis 2015 war sie wissenschaftliche Mitarbeiterin an der Universität Bern, wo sie 2016 mit der Arbeit „Autonome Kunst als gesellschaftliche Praxis: Hans Georg Nägelis Theorie der Musik“ promoviert wurde. Nach einem Praktikum bei RISM Schweiz war sie von 2018-2020 an der Sächsischen Landesbibliothek – Staats- und Universitätsbibliothek Dresden beschäftigt und für das Archiv zeitgenössischer Komponisten und die Erschließung von Musikhandschriften und musikalischen Nachlässen zuständig. Seit 2020 ist sie wissenschaftliche Mitarbeiterin der Dresdner Arbeitsstelle von RISM Deutschland.
@@ -30,11 +41,5 @@ Miriam Roner, geb. 1986 in Bozen (Italien), absolvierte ein pädagogisches und e
 
 - Online-Bestandsverzeichnisse für das Schweizerische Literaturarchiv (Nachlass Frederick Charles Hay) und die SLUB Dresden (Nachlass Paul Hartig, Nachlass Günter Pistorius, Nachlass Siegfried Geißler; Sammlung Matthias Drude, Sammlung Walter Thomas Heyn)
 
-<div style="float: right; width: 40%">
-   <figure class="figure">
-      <div class="float-left">
-         <img src="/images/old/fileadmin/Dresden_MRoner.jpg">
-      </div>
-   </figure>
-</div>
+
 
