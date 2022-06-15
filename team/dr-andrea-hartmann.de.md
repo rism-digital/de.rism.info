@@ -10,19 +10,10 @@ permalink: team/dr-andrea-hartmann.html
 # Dr. Andrea Hartmann
 
 
-
-
-
+## Kontakt
 
 
 {% include image file="/images/old/Andrea_200x200_100KB.jpg" pos="right" %}
-
-
-
-
-
-
-## Kontakt
 
 Telefon: +49 351 4677398
 
