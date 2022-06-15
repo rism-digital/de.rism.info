@@ -11,15 +11,20 @@ permalink: team/dr-undine-wagner.de.md
 
 ## Kontakt
 
+Dienstsitz:
+
 Hochschule für Musik FRANZ LISZT Weimar
-Hochschularchiv/THÜRINGISCHES LANDESMUSIKARCHIV
+
+Hochschularchiv / THÜRINGISCHES LANDESMUSIKARCHIV
+
 Carl-Alexander-Platz 1
+
 99425 Weimar
 
 
 Telefon: +49 3643 555116
-E-Mail 1: undine.wagner(at)hfm-weimar.de
-E-Mail 2: undine.wagner(at)t-online.de
+
+E-Mail: undine.wagner(at)hfm-weimar.de; undine.wagner(at)t-online.de
 
 
 ## Vita
@@ -40,7 +45,7 @@ Musikgeschichte Mitteldeutschlands
 
 ## Publikationen
 
-Monographien
+### Monographien
 
 Das Wirken böhmischer Komponisten im Raum Berlin/Potsdam. Ein Beitrag zum Problem der sogenannten böhmischen Musiker-Emigration im 18. Jahrhundert. Phil.Diss., masch.schr., Halle 1988.
 
@@ -48,7 +53,7 @@ Torsten Fuchs, Undine Wagner, Michael Zock:
 Der mit den Bäumen sprach. Walter Hensel. Singmeister und Linguist zwischen Tradition und Erneuerung, Regensburg 2018 (neue wege – nové cesty, Schriftenreihe des Sudetendeutschen Musikinstituts, Bd. 15)
 
 
-Artikel in Periodika, Kongressberichten und Sammelbänden
+### Artikel in Periodika, Kongressberichten und Sammelbänden
 
 Konzertpodium – Museum – Forschungszentrum. Das Händel-Haus in Halle, in: Musik und Gesellschaft, 35. Jg. (1985), S. 76–78
 
