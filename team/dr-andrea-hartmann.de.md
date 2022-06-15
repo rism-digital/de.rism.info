@@ -12,8 +12,6 @@ permalink: team/dr-andrea-hartmann.html
 
 ## Kontakt
 
-
-{% include image file="/images/old/Andrea_200x200_100KB.jpg" pos="right" %}
 <div style="float: right; width: 25%">
    <figure class="figure">
       <div class="float-left">
