@@ -3,7 +3,7 @@ layout: team
 title: Dr. Undine Wagner
 lang: de
 image:
-old_url: http://de.rism.info/de/team/dr-undine-wagner.de.md
+old_url: http://de.rism.info/de/team/dr-undine-wagner.html
 permalink: team/dr-undine-wagner.de.md
 ---
 
