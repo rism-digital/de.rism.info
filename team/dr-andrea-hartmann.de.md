@@ -9,9 +9,6 @@ permalink: team/dr-andrea-hartmann.html
 
 # Dr. Andrea Hartmann
 
-
-## Kontakt
-
 <div style="float: right; width: 25%">
    <figure class="figure">
       <div class="float-left">
@@ -20,12 +17,11 @@ permalink: team/dr-andrea-hartmann.html
    </figure>
 </div>
 
+## Kontakt
+
 Telefon: +49 351 4677398
 
 E-Mail: Andrea.Hartmann(at)slub-dresden.de
-
-
-
 
 ## Kurzbiographie
 
