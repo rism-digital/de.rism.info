@@ -11,7 +11,14 @@ permalink: team/dr-andrea-hartmann.html
 
 
 
+
+
+
+
 {% include image file="/images/old/Andrea_200x200_100KB.jpg" pos="right" %}
+
+
+
 
 
 
