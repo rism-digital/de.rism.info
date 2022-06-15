@@ -75,8 +75,8 @@ Das Wirken von Josef Proksch (1794–1864) für die Händel-Rezeption in Prag im
 Zur Oratorienauffassung Friedrich Schneiders, in: Händel-Jahrbuch, 44. Jg. (1998), Kassel 1998, S. 64–75
 
 Prag als Brennpunkt nationaler Probleme im 19. Jahrhundert und die Herausbildung einer tschechischen und einer deutschen Musikkultur, in: Musikkonzepte – Konzepte der Musikwissenschaft, Bericht über den Internationalen Kongreß der Gesellschaft für Musikforschung Halle (Saale) 1998, hrsg. von Kathrin Eberl und Wolfgang Ruf, Bd. 2: Freie Referate, Kassel u. a. 2000, S. 122–128, 
-auch online, Url: https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-366896
-Link zum Volltext: https://musiconn.qucosa.de/api/qucosa%3A36689/attachment/ATT-0/ 
+[auch online](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-366896), 
+[Link zum Volltext](https://musiconn.qucosa.de/api/qucosa%3A36689/attachment/ATT-0/)
 
 Aufführungen Dittersdorfscher Singspiele in Weimar und in den Sommerspielstätten außerhalb Weimars zur Zeit Goethes, in: Carl Ditters von Dittersdorf. Beiträge zu seinem Leben und Werk, Bericht des Internationalen interdisziplinären Symposiums Neisse, 24.–26. September 1999, hrsg. von Piotr Tarlinski und Hubert Unverricht, Opole (Oppeln) 2000, S. 129–157 (Sympozja 40)
 
@@ -117,8 +117,8 @@ Die Prager Orgelschule – ihre Bedeutung für das Prager Musikleben im 19. Jahr
 Arien als austauschbare Gesangsnummern. Eingelegte, bearbeitete und gestrichene Arien bei Aufführungen Dittersdorfscher Singspiele durch die Weimarer Hofschauspiel-Gesellschaft, in: Aria. Eine Festschrift für Wolfgang Ruf, hrsg. von Wolfgang Hirschmann, Redaktion: Sebastian Biesold, Hildesheim u. a. 2011, S. 488–507 (Studien und Materialien zur Musikwissenschaft, No. 65)
 
 Auf der Suche nach nationaler Identität. Zur tschechischen Musik und Musikpublizistik im Protektorat Böhmen und Mähren, in: Musik und kulturelle Identität. Bericht über den XIII. Internationalen Kongress der Gesellschaft für Musikforschung Weimar 2004, hrsg. von Detlef Altenburg und Rainer Bayreuther, Bd. 3: Freie Referate und Forschungsberichte, Kassel u. a. 2012, S. 615–620
-auch online, Url: https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-720261 
-Link zum Volltext: https://musiconn.qucosa.de/api/qucosa%3A72026/attachment/ATT-0/
+[auch online](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-720261), 
+[Link zum Volltext](https://musiconn.qucosa.de/api/qucosa%3A72026/attachment/ATT-0/)
 
 Händels oratorische Werke im Prager Musikleben – Aufführungen und musikpublizistische Resonanz, in: Miscellanea z výroční konference České společnosti pro hudební vědu 2009. Händel – Haydn – Mendelssohn a jejich „druhý život“ v českých zemích a na Slovensku v 18. a 19. století (Praha 4.–5. prosince 2009) [Miscellanea von der Jahreskonferenz der Tschechischen Gesellschaft für Musikwissenschaft 2009. Händel – Haydn – Mendelssohn und ihr „zweites Dasein“ in den böhmischen Ländern und in der Slowakei im 18. und 19. Jahrhundert (Prag 4.–5. Dezember 2009), hrsg. von Michaela Freemanová, Prag 2012, S. 74–112
 
@@ -126,17 +126,16 @@ Von der Bühne in die Kirche. Geistliche Kontrafakturen aus italienischen Opern 
 
 Von der Musikerfamilie Bach bis zu Böhners Dreiherrnstein – Ein Streifzug durch die Notenhandschriften im Gothaer Schloss Friedenstein, in: Forum Musikbibliothek, Jg. 33, 2012, Heft 2, S. 23–29 
  
-Adjuvantenarchive als Zeugnisse der Kirchenmusikpraxis in Thüringen. Bestände im Thüringischen Landesmusikarchiv und deren Katalogisierung für RISM, Kurzreferat bei der Tagung: Musikdokumentation in Bibliothek, Wissenschaft und Praxis, Internationale Konferenz aus Anlass des 60-jährigen Bestehens des RISM, Akademie der Wissenschaften und der Literatur Mainz, 4. bis 6. Juni 2012, Link: www.rism.info/de/publikationen/konferenz-2012.html 
+Adjuvantenarchive als Zeugnisse der Kirchenmusikpraxis in Thüringen. Bestände im Thüringischen Landesmusikarchiv und deren Katalogisierung für RISM, Kurzreferat bei der Tagung: Musikdokumentation in Bibliothek, Wissenschaft und Praxis, Internationale Konferenz aus Anlass des 60-jährigen Bestehens des RISM, Akademie der Wissenschaften und der Literatur Mainz, 4. bis 6. Juni 2012, [Link](www.rism.info/de/publikationen/konferenz-2012.html)
 
-Polen – Sachsen – Preußen. Franz Benda und seine Beziehungen zu Mitgliedern der Dresdner Hofkapelle, in: Musiker-Migration und Musik-Transfer zwischen Böhmen und Sachsen im 18. Jahrhundert, Bericht über das Internationale Symposium vom 7. bis 9. November 2008, Dresden: Institut zur Erforschung und Erschließung der Alten Musik in Dresden, 2012, S. 110–125, Online-Veröffentlichung, Url: http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa-88299
-Link zum Volltext: https://slub.qucosa.de/api/qucosa%3A1112/attachment/ATT-0/
+Polen – Sachsen – Preußen. Franz Benda und seine Beziehungen zu Mitgliedern der Dresdner Hofkapelle, in: Musiker-Migration und Musik-Transfer zwischen Böhmen und Sachsen im 18. Jahrhundert, Bericht über das Internationale Symposium vom 7. bis 9. November 2008, Dresden: Institut zur Erforschung und Erschließung der Alten Musik in Dresden, 2012, S. 110–125, [Online-Veröffentlichung](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa-88299), 
+[Link zum Volltext](https://slub.qucosa.de/api/qucosa%3A1112/attachment/ATT-0/)
 
 Johann Georg Benda. Einer von vier Brüdern beim König, in: bach magazin, Heft 21, Frühjahr/Sommer 2013, S. 38–41 
 
 Das Wirken von Fidelio F. Finke in Prag, in: Zwischen Brücken und Gräben. Deutsch-tschechische Musikbeziehungen in der ČSR der Zwischenkriegszeit. Bericht der gleichnamigen internationalen musikwissenschaftlichen Konferenz in Prag, 3.–5. 11. 2011, hrsg. von Jitka Bajgarová und Andreas Wehrmeyer, Prag 2014, S. 187–204
 
-Vom Dramma per musica zur kirchenmusikalischen Praxis: Geistliche lateinische Kontrafakturen italienischer Opernarien in mährischen Klöstern und Kirchen, in: Musicologica brunensia 49 (2014), S. 139–167, auch online, Link: 
-https://digilib.phil.muni.cz/bitstream/handle/11222.digilib/132803/1_MusicologicaBrunensia_49-2014-2_11.pdf?sequence=1) 
+Vom Dramma per musica zur kirchenmusikalischen Praxis: Geistliche lateinische Kontrafakturen italienischer Opernarien in mährischen Klöstern und Kirchen, in: Musicologica brunensia 49 (2014), S. 139–167, auch online, [Link](https://digilib.phil.muni.cz/bitstream/handle/11222.digilib/132803/1_MusicologicaBrunensia_49-2014-2_11.pdf?sequence=1))
 
 Adjuvantenarchive als Zeugnisse der Kirchenmusikpflege in Thüringen, in: Musikgeschichte zwischen Ost und West: von der ,musica sacra‘ bis zur Kunstreligion. Festschrift für Helmut Loos zum 65. Geburtstag, hrsg. von Stefan Keym und Stephan Wünsche, Leipzig 2015, S. 57–67
 
