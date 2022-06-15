@@ -155,6 +155,11 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
+         <td valign="top" width="51%" rowspan="1">Bad Homburg vor der Höhe, Stadtarchiv</td>
+         <td valign="top" width="13%" rowspan="1">D-BDHsta</td>
+         <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
+      </tr>
+      <tr>
          <td valign="top" width="51%">Bad Königshofen (im Grabfeld), Katholische Pfarrei</td>
          <td valign="top" width="13%">D-BKH</td>
          <td valign="top" width="21%">RISM-OPAC</td>
@@ -1566,6 +1571,11 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
       <tr>
          <td valign="top" width="51%" rowspan="1">Saalfeld, Stadtmuseum**</td>
          <td valign="top" width="13%" rowspan="1">D-SAh</td>
+         <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
+      </tr>
+      <tr>
+         <td valign="top" width="51%" rowspan="1">Saarbrücken, Saarlandmuseum</td>
+         <td valign="top" width="13%" rowspan="1">D-SAAsm</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>

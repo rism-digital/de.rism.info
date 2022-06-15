@@ -114,6 +114,19 @@ Im Archiv finden sich einige Sammelhandschriften des 19. Jahrhundert, darunter L
 
 [To top](#)
 
+# Köln (D-KNa)
+Historisches Archiv der Stadt Köln
+
+Nach dem Einsturz des Archivs im Jahr 2009 waren die Bestände für lange Zeit nicht benutzbar. Inzwischen sind große Teile der Sammlungen und Nachlässe wieder geordnet und an dem im September 2021 eröffneten Neubau am Eifelwall einsehbar. Das Archiv verwahrt unter anderem den Nachlass des Komponisten Ferdinand von Hiller (1811-1885), mit dessen Autographenalbum, und einen großen, durch sukzessive Ankäufe erweiterten Sammelbestand mit Autographen und Erstdrucken von Werken des Kölner Operettenkomponisten Jacques Offenbach (1819-1880).  
+
+Bei Fragen zur Erschließung dieses Bestandes durch RISM wenden Sie sich bitte an &nbsp;[Dr. Steffen Voss](mailto:steffen.voss@bsb-muenchen.de "Opens window for sending email")&nbsp;, RISM-Arbeitsstelle München; Telefon: 089/28638-2395
+
+Für weitere Informationen wenden Sie sich bitte an das Historische Archiv der Stadt Köln, Herrn [Niclas Esser](mailto:Niclas.Esser@STADT-KOELN.DE "Opens window for sending email")
+
+(Steffen Voss, Juni 2022)
+
+[To top](#)
+
 # Leipzig (D-LEu)
 Universitätsbibliothek
 
@@ -174,7 +187,9 @@ Es ist geplant, in den kommenden Jahren, den gesamten Bestand der älteren Musik
 
 Mit Hilfe der [Einspielung der RISM-Daten der Musikhandschriften der Bayerischen Staatsbibliothek&nbsp;in den Bayerischen&nbsp;Verbundkatalog](/fileadmin/content/workgroups/munich/AIBM_2014.pptx "Initiates file download")&nbsp;(BVK), wie auch&nbsp;dem geplanten gemeinsamen Katalog von BVK und KOBV (Kooperativer Bibliotheksverbund Berlin-Brandenburg) dem projektierten B3KAT, ist es gelungen, die qualitativ hochwertigen RISM-Titelaufnahmen direkt&nbsp;für die Bibliotheken nutzbar zu machen. Im Zuge dieser Arbeiten wurde eine Einspielroutine entwickelt, die auch kleineren Beständen des Verbunds zugute kommt.
 
-Außerdem werden mittlerweile die Nachlässe&nbsp;und die neu erworbenen Sonderbestände durch Mitarbeiter der BSB mit der Software von RISM erschlossen. Dabei übernehmen&nbsp;die Mitarbeiter von RISM das Coaching und die Pflege dieser Daten.
+Außerdem werden mittlerweile die Nachlässe&nbsp;und die neu erworbenen Sonderbestände durch Mitarbeiter der BSB mit der Software von RISM erschlossen. Dabei übernehmen die Mitarbeiter von RISM das Coaching und die Pflege dieser Daten.
+
+Auch die Musikhandschriften des [Schott-Archivs](/https://schottarchiv-digital.de "Opens external link in new window"), die 2014 von der Bibliothek erworben wurden, und deren Erschließung im Rahmen eines DFG-Projektes erfolgt, werden in Zusammenarbeit mit der Münchener RISM-Arbeitsstelle katalogisiert 
 
 Mitte&nbsp;2018 sind über 56.000 Kompositionen aus dem Bestand der Bayerischen Staatsbibliothek im RISM-OPAC nachgewiesen.
 
@@ -191,17 +206,13 @@ Franziskanerkloster, Bibliothek
 
 Die Bibliothek des Franziskanerklosters des Niederbayerischen Wallfahrtortes besitzt insgesamt 17 Folianten mit liturgischen Kompositionen aus der 2. Hälfte des 18. Jahrhunderts, die ein typisches Beispiel für das Repertoire süddeutscher und österreichischer Franziskanerklöster dieser Epoche darstellen. Die Bestände werden zur Zeit in der Münchener RISM-Arbeitsstelle in der Bayerischen Staatsbibliothek katalogisiert. Bei Fragen zur Katalogisierung und zum Bestand wenden Sie sich bitte an die RISM-Arbeitsstelle München,&nbsp;[Dr. Steffen Voss](mailto:steffen.voss@bsb-muenchen.de "Opens window for sending email")
 
-&nbsp;
-
-Literatur:&nbsp;
+Literatur: Steffen Voss, _Katalog der Musikhandschriften der Bibliothek des Franziskanerklosters Neukirchen beim Heiligen Blut (D-NKf)_; Thematischer Katalog. Herausgegeben von der RISM-Arbeitsgruppe Deutschland e.V. und der RISM-Zentralredaktion, München und Frankfurt&nbsp;a.M.&nbsp;2020
 
 (Steffen Voss, Dezember 2018)
 
 [To top](#)
 
-images/projects/neuwied.jpg
-
-# Neuwied (D-NEUW)
+# Neuwied, Archiv der Brüdergemeine (D-NEUW)
 
 <div style="float: left; width: 44%">
    <figure class="figure">
@@ -209,20 +220,21 @@ images/projects/neuwied.jpg
          <img src="/images/projects/neuwied.jpg">
       </div>
       <figcaption class="figcaption">
-         Partiturseite eines Werkes von Johann Gottfried Gebhard von 1785, D-NEUW, Musikarchiv Nr. 61
+         Erste Partiturseite eines Werkes von Johann Gottfried Gebhard, Musikarchiv Nr. 61
       </figcaption>
    </figure>
 </div>
 
-Archiv der Brüdergemeine
-
 Die ersten Mitglieder der noch heute bestehenden Herrnhuter Brüdergemeine zogen 1750 auf Einladung des Grafen Johann Friedrich Alexander zu Wied in die 1653 gegründete Residenzstadt am Rhein. Das Archiv besitzt eine umfangreiche Musikaliensammlung mit Aufführungsmaterialen für den Gemeindechor, überwiegend von bekannten Herrnhuter Komponisten wie Christian Friedrich Gregor, Johann Christian Geisler oder dem später nach Nordamerika ausgewanderten Johannes Herbst, sie reicht von der Gründungszeit bis weit ins 20. Jahrhundert hinein und belegt dadurch eine kontinuierliche kirchenmusikalische Tradition bis in die heutige Zeit. Von dem Komponisten Johann Soerensen (1767-1831), der seine letzten Lebensjahre in Neuwied verbrachte, besitzt das Archiv einige Werke in autographer Überlieferung. 
 
-Bei Fragen zur Erschließung dieses Bestandes durch RISM wenden Sie sich bitte an Dr. Steffen Voss, RISM-Arbeitsstelle München (e-mail: [Steffen.Voss@bsb-muenchen.de](mailto:Steffen.Voss@bsb-muenchen.de "Opens window for sending email")); Telefon: 089/28638-2553
+Bei Fragen zur Erschließung dieses Bestandes durch RISM wenden Sie sich bitte an &nbsp;[Dr. Steffen Voss](mailto:steffen.voss@bsb-muenchen.de "Opens window for sending email")&nbsp;, RISM-Arbeitsstelle München; Telefon: 089/28638-2395
+
 Kontakt: Rainer Raillard (e-mail: [archiv@ebg-neuwied.de](mailto:archiv@ebg-neuwied.de "Opens window for sending email"))
-[Brüdergemeine Neuwied](http://www.bruedergemeine-neuwied.de)/{blank}
+[Brüdergemeine Neuwied](http://www.bruedergemeine-neuwied.de)
 
 (Steffen Voss 2022)
+
+[To top](#)
 
 # Nürnberg, Bibliothek beim Landeskirchlichen Archiv (D-Nla)
 
@@ -252,3 +264,15 @@ Bei allen anderen Fragen wenden Sie sich bitte direkt an das [Landeskirchliche A
 
 [To top](#)
 
+# Rostock, Universitätsbibliothek (D-ROu)
+
+Im Dezember 2020 startete an der RISM-Arbeitsstelle Dresden ein Projekt zur Katalogisierung der Musikhandschriften der Universitätsbibliothek Rostock. Der Bestand umfasst ca. 950 Handschriften vom 16. bis zum 19. Jahrhundert und soll bis Ende des Jahres 2025 vollständig erschlossen sein.
+
+Die ersten zwei Arbeitspakete enthalten die Musikaliensammlungen des Erbprinzen Friedrich Ludwig von Württemberg-Stuttgart (1698-1731) und seiner Tochter, der Herzogin Luise Friederike von Mecklenburg-Schwerin (1722-1791).
+
+Auf die Sammeltätigkeit des Erbprinzen selbst gehen Stimmabschriften instrumentaler Kammermusikwerke von Komponisten wie Sebastian Bodinus, Giuseppe Brescianello, Johann Jacob Krebs, Johann Christoph Pez, Theodor Schwartzkopff, Johann Friedrich Fasch, Johann Joseph Fux, Johann Adolph Hasse, Johann David Heinichen und Georg Philipp Telemann zurück. Sie sind großteils in und um Stuttgart entstanden. Die Sammlung der Herzogin umfasst neben einer größeren Anzahl an Lautentabulaturen vor allem zeitgenössische italienische, französische und deutsche Gesangsliteratur und wurde unter anderem in Stuttgart, Schwerin und Ludwigslust zusammengetragen.
+In einem dritten Arbeitspaket (voraussichtlich ab Januar 2024) werden die aus dem 16. Jahrhundert datierenden, überwiegend geistlichen Vokalkompositionen aus der Bibliothek des Herzogs Johann Albrecht I. (1525-1576) bearbeitet werden, sowie eine kleine Gruppe von Musikalien aus dem 19. Jahrhundert, die aus Nachlässen Rostocker Familien und aus der Rostocker Singakademie stammen.
+
+Kontakt: [Dr. Miriam Roner](mailto:miriam.roner@slub-dresden.de)
+
+(Stand: Mai 2022)
