@@ -18,7 +18,7 @@ E-Mail: undine.wagner(at)hfm-weimar.de; undine.wagner(at)t-online.de
 
 Dienstsitz:
 
-Hochschule für Musik FRANZ LISZT Weimar  
+Hochschule für Musik FRANZ LISZT Weimar   
 Hochschularchiv / THÜRINGISCHES LANDESMUSIKARCHIV   
 Carl-Alexander-Platz 1   
 99425 Weimar
