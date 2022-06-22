@@ -15,7 +15,7 @@ Eine erste Erfassung erfolgte 1962/1967 durch Ortrun Landmann konventionell (auf
 
 • Zuständig: [RISM-Arbeitsstelle Dresden](mailto:andrea.hartmann@slub-dresden.de "Opens window for sending email").
 
-• Website: [Domstiftsbibliothek Bautzen](http://www.katholische-archive.de/Di%C3%B6zesanarchive/Dresden-Mei%C3%9Fen "Opens external link in new window")
+• Website: [Domstiftsbibliothek Bautzen](https://www.bistum-dresden-meissen.de/vielseitig-engagiert/dioezesanarchiv/dioezesan-und-domstiftsbibliothek/diozesan-und-domstiftsbibliothek "Opens external link in new window")
 
 &nbsp;
 
