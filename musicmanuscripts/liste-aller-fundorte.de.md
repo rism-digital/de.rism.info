@@ -1544,7 +1544,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1">Rostock, Universitätsbibliothek**</td>
+         <td valign="top" width="51%" rowspan="1">Rostock, Universitätsbibliothek*</td>
          <td valign="top" width="13%" rowspan="1">D-ROu</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
@@ -1946,33 +1946,13 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
 </table>
 
 
-
-**Anmerkungen:**
-
-* Katalogisierung des Bestandes ist noch nicht abgeschlossen.
-
-** Bestand unvollständig erfasst; Kurztitelaufnahmen. Die Ländergruppe der DDR hatte in den 1960er Jahren Titelkarten an die RISM-Zentralredaktion geschickt, die zum Teil noch nicht den heutigen Standard erreichten (beispielsweise wurden prinzipiell keine Notenincipits vermerkt). Die Titelkarten wurden in der RISM-Zentralredaktion in ein Alphabet (nach Komponisten) geordnet und in die Datenbank eingearbeitet. Diese Arbeit wurden beim Buchstaben "I" abgebrochen. Deshalb sind von zahlreichen Bibliotheken/Archiven der neuen Bundesländer Teilbestände (eben bis zum Buchstaben "I") enthalten. Weil in der RISM-Arbeitsstelle Dresden diese alten Karteien noch vorhanden sind (mit manchmal klareren und ausführlicheren Angaben als in der Datenbank), lohnt immer auch eine Rückfrage
-
-3)
-Eric Gross: Music Manuscripts in the Library of St. Bonifaz, Munich. A preliminary Catalogue, in: Miscellanea Musicologica, vol. 8, Adelaide 1976, S. 82-114\. Dort nur die ersten 97 Handschriftennummern enthalten. Neukatalogisierung aller 455 Musikhandschriftennummern 2011 (siehe RISM-OPAC). Handschriftennummern.
-
-**Abkürzung:** KBM = Kataloge Bayerischer Musiksammlungen
-
-</div>
-
-[Nach oben](#)
-
-</div>
-
-
 **Anmerkungen:**
 
 \* Katalogisierung des Bestandes ist noch nicht abgeschlossen.
 
 \*\* Bestand unvollständig erfasst; Kurztitelaufnahmen. Die Ländergruppe der DDR hatte in den 1960er Jahren Titelkarten an die RISM-Zentralredaktion geschickt, die zum Teil noch nicht den heutigen Standard erreichten (beispielsweise wurden prinzipiell keine Notenincipits vermerkt). Die Titelkarten wurden in der RISM-Zentralredaktion in ein Alphabet (nach Komponisten) geordnet und in die Datenbank eingearbeitet. Diese Arbeit wurden beim Buchstaben "I" abgebrochen. Deshalb sind von zahlreichen Bibliotheken/Archiven der neuen Bundesländer Teilbestände (eben bis zum Buchstaben "I") enthalten. Weil in der RISM-Arbeitsstelle Dresden diese alten Karteien noch vorhanden sind (mit manchmal klareren und ausführlicheren Angaben als in der Datenbank), lohnt immer auch eine Rückfrage
 
-3)
-Eric Gross: Music Manuscripts in the Library of St. Bonifaz, Munich. A preliminary Catalogue, in: Miscellanea Musicologica, vol. 8, Adelaide 1976, S. 82-114. Dort nur die ersten 97 Handschriftennummern enthalten. Neukatalogisierung aller 455 Musikhandschriftennummern 2011 (siehe RISM-OPAC). Handschriftennummern.
+3\) Eric Gross: Music Manuscripts in the Library of St. Bonifaz, Munich. A preliminary Catalogue, in: Miscellanea Musicologica, vol. 8, Adelaide 1976, S. 82-114. Dort nur die ersten 97 Handschriftennummern enthalten. Neukatalogisierung aller 455 Musikhandschriftennummern 2011 (siehe RISM-OPAC). Handschriftennummern.
 
 **Abkürzung:** KBM = Kataloge Bayerischer Musiksammlungen
 
