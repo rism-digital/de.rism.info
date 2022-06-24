@@ -16,7 +16,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/dresden-saechsische-landesbib
          <img src="/images/projects/Hasse_CajoFabricio_Bearb.jpg">
       </div>
       <figcaption class="figcaption">
-         Cajo Fabricio. Dramma per musica in drei Akten von Johann Adolf Hasse; Einzelstimmen in Prachteinbänden, Dresden, 1734. D-Dl Mus.2477-F-11a. Bildnachweis: SLUB / Deutsche Fotothek / Richter, Regine 
+          Johann Adolf Hasse: Cajo Fabricio; Einzelstimmen, Dresden, 1734. D-Dl Mus.2477-F-11a. Bildnachweis: SLUB / Deutsche Fotothek / Richter, Regine 
       </figcaption>
    </figure>
 </div>
