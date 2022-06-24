@@ -10,6 +10,15 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/dresden-saechsische-landesbib
 
 # Dresden, Sächsische Landesbibliothek - Staats- und Universitätsbibliothek (D-Dl)
 
+<div style="width: 80%; margin: 0 auto;">
+<figure class="figure">
+{% include image file="de.rism.info/projects/Hasse_CajoFabricio_Bearb.jpg" pos="left" title="caption for image" %}
+<figcaption class="figcaption">
+  Cajo Fabricio. Dramma per musica in drei Akten von Johann Adolf Hasse; Einzelstimmen in Prachteinbänden, Dresden, 1734. D-Dl Mus.2477-F-11a. Bildnachweis: SLUB / Deutsche Fotothek / Richter, Regine 
+</figcaption>
+</figure>
+</div>
+
 
 Die [Musikabteilung&nbsp;](http://www.slub-dresden.de/sammlungen/musik/ "Opens external link in new window")hat einen historischen Bestand von ungefähr 30.500 Musica practica, darunter 19.000 Musikhandschriften, sowie 2.000 Musica theoretica und Libretti. Bislang ist nur ein Teil der Musikhandschriften in rism-online nachgewiesen, an der weiteren Erschließung wird ständig gearbeitet.
 
