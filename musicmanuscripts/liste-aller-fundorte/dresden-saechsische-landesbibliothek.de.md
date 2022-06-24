@@ -16,7 +16,8 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/dresden-saechsische-landesbib
          <img src="/images/projects/Hasse_CajoFabricio_Bearb.jpg">
       </div>
       <figcaption class="figcaption">
-          J. A. Hasse: Cajo Fabricio; Einzelstimmen, 1734. D-Dl Mus.2477-F-11a. Bildnachweis: SLUB / Deutsche Fotothek / Richter, Regine 
+          J. A. Hasse: Cajo Fabricio, 1734. D-Dl Mus.2477-F-11a. 
+         Bildnachweis: SLUB / Deutsche Fotothek / Richter, Regine 
       </figcaption>
    </figure>
 </div>
