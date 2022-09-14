@@ -13,3 +13,4 @@ Die Überblickskarte zeigt die Lage der Bestände an. Über das Kontextmenü kan
 
 Stand der RISM-Deutschlandkarte: September 2022
 
+
