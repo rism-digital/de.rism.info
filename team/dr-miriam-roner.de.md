@@ -30,7 +30,7 @@ Miriam Roner, geb. 1986 in Bozen (Italien), absolvierte ein pädagogisches und e
 
 ## Publikationen
 
-- Autonome Kunst als gesellschaftliche Praxis: Hans Georg Nägelis Theorie der Musik (=Beihefte zum Archiv für Musikwissenschaft, Bd. 84), Stuttgart 2020
+- [Autonome Kunst als gesellschaftliche Praxis: Hans Georg Nägelis Theorie der Musik] (https://doi.org/10.25162/9783515127059)(=Beihefte zum Archiv für Musikwissenschaft, Bd. 84), Stuttgart 2020
 
 - Carl Dahlhaus als Musikkritiker. Über die Funktionalität des musikalischen Werkbegriffs für die Besprechung von Konzertereignissen, in: Die Musikforschung 1/2017
 
