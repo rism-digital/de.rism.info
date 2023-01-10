@@ -30,13 +30,13 @@ Miriam Roner, geb. 1986 in Bozen (Italien), absolvierte ein pädagogisches und e
 
 ## Publikationen
 
-- [Autonome Kunst als gesellschaftliche Praxis: Hans Georg Nägelis Theorie der Musik (=Beihefte zum Archiv für Musikwissenschaft, Bd. 84), Stuttgart 2020](https://doi.org/10.25162/9783515127059)
+- [Autonome Kunst als gesellschaftliche Praxis: Hans Georg Nägelis Theorie der Musik](https://doi.org/10.25162/9783515127059) (=Beihefte zum Archiv für Musikwissenschaft, Bd. 84), Stuttgart 2020
 
-- [Carl Dahlhaus als Musikkritiker. Über die Funktionalität des musikalischen Werkbegriffs für die Besprechung von Konzertereignissen, in: Die Musikforschung 1/2017](https://journals.qucosa.de/mf/article/download/365/3025)
+- [Carl Dahlhaus als Musikkritiker. Über die Funktionalität des musikalischen Werkbegriffs für die Besprechung von Konzertereignissen](https://journals.qucosa.de/mf/article/download/365/3025), in: Die Musikforschung 1/2017
 
-- [„Nationalheiligthum soll die Tonkunst unter uns werden.“ Hans Georg Nägelis Sicht auf die Schweiz in seinen musikalischen Schriften, in: „Die Schweiz“ im Klang: Repräsentation, Konstruktion und Verhandlung (trans)-nationaler Identität über akustische Medien, hrsg. v. Fanny Gutsche und Karoline Oehme-Jüngling, Basel 2014](https://edoc.unibas.ch/34225/1/20141016143614_543fbbbe8eaf8.pdf)
+- [„Nationalheiligthum soll die Tonkunst unter uns werden.“ Hans Georg Nägelis Sicht auf die Schweiz in seinen musikalischen Schriften](https://edoc.unibas.ch/34225/1/20141016143614_543fbbbe8eaf8.pdf), in: „Die Schweiz“ im Klang: Repräsentation, Konstruktion und Verhandlung (trans)-nationaler Identität über akustische Medien, hrsg. v. Fanny Gutsche und Karoline Oehme-Jüngling, Basel 2014
 
-- Online-Bestandsverzeichnisse für das Schweizerische Literaturarchiv [(Nachlass Frederick Charles Hay)](https://ead.nb.admin.ch/pdf/hay.pdf) und die SLUB Dresden (Nachlass [Paul Hartig](urn:nbn:de:bsz:14-qucosa2-727434), Nachlass [Günter Pistorius](urn:nbn:de:bsz:14-qucosa2-724952), Nachlass [Siegfried Geißler](urn:nbn:de:bsz:14-qucosa2-727434); Sammlung [Matthias Drude](urn:nbn:de:bsz:14-qucosa2-709784), Sammlung [Walter Thomas Heyn](urn:nbn:de:bsz:14-qucosa2-724967))
+- Online-Bestandsverzeichnisse für das Schweizerische Literaturarchiv (Nachlass [Frederick Charles Hay)](https://ead.nb.admin.ch/pdf/hay.pdf) und die SLUB Dresden (Nachlass [Paul Hartig](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-727434), Nachlass [Günter Pistorius](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-724952), Nachlass [Siegfried Geißler](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-708727), Sammlung [Matthias Drude](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-709784), Sammlung [Walter Thomas Heyn](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-724967))
 
 
 
