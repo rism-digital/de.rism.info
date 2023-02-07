@@ -49,8 +49,8 @@ permalink: 'publications/musikhandschriften-in-deutschland.html'
 
 - Band 18&nbsp; &nbsp; [Katalog der Musikhandschriften und Musikdrucke der Stiftskirche Altötting nach Arbeiten von Nicole Schwindt-Gross (1993) erweitert beschrieben von Gottfried Heinz-Kronberger, München und Frankfurt a.M. 2019](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-358400 "Opens external link in new window")
 
-- Band 19&nbsp; &nbsp; [Katalog der Musikhandschriften der Bibliothek des Franziskanerklosters Neukirchen beim heiligen Blut (D-NKf), beschrieben von Steffen Voss, München und Frankfurt a.M. 2020](https://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa2-390311)
+- Band 19&nbsp; &nbsp; [Katalog der Musikhandschriften der Bibliothek des Franziskanerklosters Neukirchen beim heiligen Blut (D-NKf), beschrieben von Steffen Voss, München und Frankfurt a.M. 2020](https://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa2-390311 "Opens external link in new window")
 
-[
-](https://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa2-390311 "Opens external link in new window")
+- Band 20&nbsp; &nbsp; [Katalog der Musikhandschriften der evang.-luth. Dreieinigkeitskirche in Sennfeld (D-SEN), beschrieben von Gottfried Heinz-Kronberger, München und Frankfurt a.M. 2022](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-833657 "Opens external link in new window")
+
 
