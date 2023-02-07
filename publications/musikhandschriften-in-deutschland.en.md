@@ -29,7 +29,7 @@ permalink: 'publications/musikhandschriften-in-deutschland.html'
 
 - Band 8 &nbsp; &nbsp; &nbsp;[Katalog der Musikhandschriften und Musikdrucke Franziskanerkonvent bei Maria Loreto, Landshut, beschrieben von Gottfried Heinz-Kronberger, München und Frankfurt a.M. 2013](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa-125771 "Opens external link in new window")
 
-- Band 9 &nbsp; &nbsp; &nbsp;[Katalog der Musikhandschriften und Musikdrucke Pfarrkirche St. Johann Baptist, München-Haidhausen, beschrieben von Dr. Gottfried Heinz-Kronberger, München und Frankfurt a.M. 2013](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa-125785 "Opens external link in new window")&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+- Band 9 &nbsp; &nbsp; &nbsp;[Katalog der Musikhandschriften und Musikdrucke Pfarrkirche St. Johann Baptist, München-Haidhausen, beschrieben von Dr. Gottfried Heinz-Kronberger, München und Frankfurt a.M. 2013](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa-125785 "Opens external link in new window")
 
 - Band 10 &nbsp; &nbsp;[Katalog der Musikhandschriften des Evangelisch-lutherischen Pfarramts St. Georg, Nördlingen, beschrieben von Helmut Lauterwasser, München und Frankfurt a.M. 2013](http://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa-127209 "Opens external link in new window")
 
