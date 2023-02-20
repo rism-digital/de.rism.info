@@ -16,7 +16,7 @@ Tel.: +49 351 4677-398, -396\
 \
 **Arbeitsstelle München**
 
-Répertoire International des Sources Musicales, Arbeitsgruppe Deutschland e.V.\
+Répertoire International des Sources Musicales, Arbeitsgruppe Deutschland\
 Arbeitsstelle München\
 Bayerische Staatsbibliothek\
 D-80328 München\
