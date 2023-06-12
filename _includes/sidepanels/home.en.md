@@ -7,7 +7,7 @@ Arbeitsstelle Dresden\
 Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden\
 D-01054 Dresden\
 \
-Project leader: Dr. Barbara Wiermann
+Project leader: Prof. Dr. Barbara Wiermann
 
 [Dr. Andrea Hartmann (Head)](mailto:andrea.hartmann@slub-dresden.de)\
 [Dr. Miriam Roner](mailto:miriam.roner@slub-dresden.de)\
