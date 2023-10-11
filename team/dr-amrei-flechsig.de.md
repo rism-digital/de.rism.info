@@ -10,7 +10,7 @@ permalink: team/dr-amrei-flechsig.html
 
 # Dr. Amrei Flechsig
 
-<div style="float: right; width: 40%">
+<div style="float: right; width: 35%">
    <figure class="figure">
       <div class="float-left">
          <img src="/images/team/Amrei Flechsig_2022 Kleinformat.jpg">
