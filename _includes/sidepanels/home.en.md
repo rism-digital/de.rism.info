@@ -10,7 +10,7 @@ D-01054 Dresden\
 Project leader: Prof. Dr. Barbara Wiermann
 
 [Dr. Andrea Hartmann (Head)](mailto:andrea.hartmann@slub-dresden.de)\
-[Dr. Miriam Roner](mailto:miriam.roner@slub-dresden.de)\
+[Dr. Amrei Flechsig](mailto:amrei.flechsig@slub-dresden.de)\
 [Dr. Undine Wagner](mailto:undine.wagner@t-online.de)  \
 Phone: +49 351 4677-398, -396\
 \
