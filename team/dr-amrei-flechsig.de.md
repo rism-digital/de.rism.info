@@ -13,9 +13,9 @@ permalink: team/dr-amrei-flechsig.html
 <div style="float: right; width: 35%">
    <figure class="figure">
       <div class="float-left">
-         <img src="images/team/Amrei Flechsig_2022 Kleinformat.jpg">
+         <img src="/images/team/Amrei Flechsig_2022 Kleinformat.jpg">
       </div>
-   </figure>
+     </figure>
 </div>
 
 ## Kontakt
