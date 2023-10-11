@@ -2,7 +2,7 @@
 layout: team
 title: Dr. Amrei Flechsig
 lang: de
-image: /fileadmin/content/Amrei Flechsig_2022 klein.jpg
+image: /fileadmin/content/Amrei Flechsig_2022 Kleinformat.jpg
 old_url: http://de.rism.info/de/team/dr-amrei-flechsig.html
 permalink: team/dr-amrei-flechsig.html
 ---
@@ -13,7 +13,7 @@ permalink: team/dr-amrei-flechsig.html
 <div style="float: right; width: 35%">
    <figure class="figure">
       <div class="float-left">
-         <img src="images/old/Amrei Flechsig_2022 klein.jpg">
+         <img src="images/team/Amrei Flechsig_2022 Kleinformat.jpg">
       </div>
    </figure>
 </div>
