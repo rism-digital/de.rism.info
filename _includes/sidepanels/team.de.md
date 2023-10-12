@@ -1,7 +1,7 @@
 # Kontaktinformationen
 
 **[Sächsische Landesbibliothek – Staats- und Universitätsbibliothek
-Dresden](http://www.slub-dresden.de/startseite/)**
+Dresden](https://www.slub-dresden.de/)**
 (mit Außenstelle Weimar)
 
 **[Bayerische Staatsbibliothek München](http://www.bsb-muenchen.de/index.php)**
