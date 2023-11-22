@@ -22,3 +22,4 @@ Helmut Lauterwasser: Zur Geschichte der Militärmusik im Königreich Hannover �
 
 Helmut Lauterwasser: Johann Michael Closner (1786–1860) und die historischen Musikhandschriften und Musikdrucke im Stadtmuseum Trostberg, Online-Publikation, 12.04.2021
 
+Gottfried Heinz-Kronberger: Die Musikhandschriftenerschließung des Répertoire International des Sources Musicales an der Bayerischen Staatsbibliothek, in: Bibliothek und Wissenschaft: BuW 55 (2022), S. 121-134
