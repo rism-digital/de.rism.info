@@ -272,8 +272,6 @@ Hauptbestandteil sind die Musikaliensammlungen des Erbprinzen Friedrich Ludwig v
 
 Außerdem enthalten sind einige aus dem 16. Jahrhundert datierende, überwiegend geistliche Vokalkompositionen aus der Bibliothek des Herzogs Johann Albrecht I. (1525-1576) sowie eine kleine Gruppe von Musikalien aus dem 19. Jahrhundert, die aus Nachlässen Rostocker Familien und aus der Rostocker Singakademie stammen.
 
-
-
 Kontakt: [Dr. Amrei Flechsig](mailto:amrei.flechsig@slub-dresden.de)
 
 (Stand: Mai 2024)
