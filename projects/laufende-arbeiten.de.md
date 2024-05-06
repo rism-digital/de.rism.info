@@ -266,14 +266,12 @@ Bei allen anderen Fragen wenden Sie sich bitte direkt an das [Landeskirchliche A
 
 # Rostock, Universitätsbibliothek (D-ROu)
 
-Im Dezember 2020 startete an der RISM-Arbeitsstelle Dresden ein Projekt zur Katalogisierung der Musikhandschriften der Universitätsbibliothek Rostock. Der Bestand umfasst ca. 950 Handschriften vom 16. bis zum 19. Jahrhundert und soll bis Ende des Jahres 2025 vollständig erschlossen sein.
+Im Dezember 2020 startete an der RISM-Arbeitsstelle Dresden ein Projekt zur Katalogisierung der Musikhandschriften der Universitätsbibliothek Rostock. Der Bestand umfasst ca. 950 Handschriften vom 16. bis zum 19. Jahrhundert und soll bis Ende des Jahres 2025 vollständig erschlossen sein. Die Erschließung erfolgt in drei Arbeitspaketen; das dritte wurde im Februar 2024 begonnen.
 
-Die ersten zwei Arbeitspakete enthalten die Musikaliensammlungen des Erbprinzen Friedrich Ludwig von Württemberg-Stuttgart (1698-1731) und seiner Tochter, der Herzogin Luise Friederike von Mecklenburg-Schwerin (1722-1791).
+Hauptbestandteil sind die Musikaliensammlungen des Erbprinzen Friedrich Ludwig von Württemberg-Stuttgart (1698-1731) und seiner Tochter, der Herzogin Luise Friederike von Mecklenburg-Schwerin (1722-1791). Auf die Sammeltätigkeit des Erbprinzen selbst gehen Stimmabschriften instrumentaler Kammermusikwerke von Komponisten wie Sebastian Bodinus, Giuseppe Brescianello, Johann Jacob Krebs, Johann Christoph Pez, Theodor Schwartzkopff, Johann Friedrich Fasch, Johann Joseph Fux, Johann Adolph Hasse, Johann David Heinichen und Georg Philipp Telemann zurück. Sie sind großteils in und um Stuttgart entstanden. Die Sammlung der Herzogin umfasst neben einer größeren Anzahl an Lautentabulaturen vor allem zeitgenössische italienische, französische und deutsche Gesangsliteratur und wurde unter anderem in Stuttgart, Schwerin und Ludwigslust zusammengetragen.
 
-Auf die Sammeltätigkeit des Erbprinzen selbst gehen Stimmabschriften instrumentaler Kammermusikwerke von Komponisten wie Sebastian Bodinus, Giuseppe Brescianello, Johann Jacob Krebs, Johann Christoph Pez, Theodor Schwartzkopff, Johann Friedrich Fasch, Johann Joseph Fux, Johann Adolph Hasse, Johann David Heinichen und Georg Philipp Telemann zurück. Sie sind großteils in und um Stuttgart entstanden. Die Sammlung der Herzogin umfasst neben einer größeren Anzahl an Lautentabulaturen vor allem zeitgenössische italienische, französische und deutsche Gesangsliteratur und wurde unter anderem in Stuttgart, Schwerin und Ludwigslust zusammengetragen.
+Außerdem enthalten sind einige aus dem 16. Jahrhundert datierende, überwiegend geistliche Vokalkompositionen aus der Bibliothek des Herzogs Johann Albrecht I. (1525-1576) sowie eine kleine Gruppe von Musikalien aus dem 19. Jahrhundert, die aus Nachlässen Rostocker Familien und aus der Rostocker Singakademie stammen.
 
-In einem dritten Arbeitspaket (voraussichtlich ab Januar 2024) werden die aus dem 16. Jahrhundert datierenden, überwiegend geistlichen Vokalkompositionen aus der Bibliothek des Herzogs Johann Albrecht I. (1525-1576) bearbeitet werden, sowie eine kleine Gruppe von Musikalien aus dem 19. Jahrhundert, die aus Nachlässen Rostocker Familien und aus der Rostocker Singakademie stammen.
+Kontakt: [Dr. Amrei Flechsig](mailto:amrei.flechsig@slub-dresden.de)
 
-Kontakt: [Dr. Miriam Roner](mailto:miriam.roner@slub-dresden.de)
-
-(Stand: Mai 2022)
+(Stand: Mai 2024)
