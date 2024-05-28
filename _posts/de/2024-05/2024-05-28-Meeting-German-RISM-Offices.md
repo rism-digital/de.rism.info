@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Perspektiven zur Erschließung von Musikdrucken: Arbeitstreffen der deutschen RISM-Arbeitsstellen"
+title: "Perspektiven zur Erschließung von Musikdrucken: Treffen der deutschen RISM-Arbeitsstellen"
 date: 2024-05-28
 lang: de
 post: true
