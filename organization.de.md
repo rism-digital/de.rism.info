@@ -11,7 +11,7 @@ permalink: /organization.html
 
 Die RISM Arbeitsgruppe in Deutschland unterhält zwei Arbeitsstellen, die sich die Quellenerfassung regional teilen. Die Münchner Arbeitsstelle ist an der Bayerischen Staatsbibliothek angesiedelt und die Dresdner Arbeitsstelle an der Sächsischen Landesbibliothek – Staats- und Universitätsbibliothek untergebracht. Das Hauptaugenmerk der deutschen Arbeitsgruppe liegt auf der wissenschaftlichen Erschließung und Katalogisierung von älteren Musikdrucken, Musikhandschriften, Theoretika und Libretti von etwa 1600 bis Mitte des 19. Jahrhunderts in deutschen Sammlungen.
 
-Seit 1979 werden auch Beispiele von Musik, die auf dem ikonographischen Feld der Schönen Künste abgebildet sind, gesammelt und an der Münchner Arbeitsstelle durch das Répertoire International d’Iconographie Musicale [(RIdIM)](https://ridim.org/) {:target=”_blank”} aufgenommen.
+Seit 1979 werden auch Beispiele von Musik, die auf dem ikonographischen Feld der Schönen Künste abgebildet sind, gesammelt und an der Münchner Arbeitsstelle durch das Répertoire International d’Iconographie Musicale [(RIdIM)](https://ridim.org/ "Öffnet externen Link in neuem Fenster") aufgenommen.
 
 Die Projekte RISM und RIdIM werden von der Union der Akademien der Wissenschaften unter Federführung der&nbsp;[Akademie der Wissenschaften und Literatur in Mainz](http://www.adwmainz.de/projekte/musikwissenschaftliche-editionen.html "Öffnet externen Link in neuem Fenster")&nbsp;finanziert. Die Arbeitsberichte der deutschen Arbeitsgruppe werden jährlich online im Jahrbuch der Akademie der Wissenschaften und Literatur Mainz veröffentlicht, siehe seit 2003&nbsp;[**Jahresberichte&nbsp;**](publications/jahresberichte.html "Öffnet externen Link in neuem Fenster")(in deutsch).
 
