@@ -20,6 +20,7 @@ Der Bestand wurde seit 2019 inhaltlich von KMD Jörg Wöltche untersucht. Seine 
 Nach der Erfassung durch RISM wird nun die Digitalisierung des Bestandes angestrebt.
 
 • Zuständig: RISM-Arbeitsstelle München
+
 • Website: [Evangelisch-Lutherische Dreieinigkeitskirche](https://www.sennfeld-evangelisch.de/ "Opens external link in new window")
 
 Gottfried-Heinz Kronberger, Juni 2024
