@@ -13,10 +13,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/aschaffenburg-bibliothek-der-
 <div style="float: right">
 <figure class="figure">
   {% include image file="/images/old/fileadmin/csm_001_66d24495df.jpg" pos="left" title="caption for image" %}
-
-<figcaption class="figcaption">
-Concertino für Oboe und Orchester von Eduard Rommel (Zugangsnummer 1634)
-</figcaption>
+  <figcaption>Concertino für Oboe und Orchester von Eduard Rommel (Zugangsnummer 1634)</figcaption>
 </figure>
 </div>
 
@@ -24,7 +21,9 @@ Die 1810 gegründete&nbsp;Musikschule Aschaffenburg ist die älteste heute noch 
 
 • Zuständig: RISM-Arbeitsstelle München
 
-**Literatur**
+&nbsp;
+
+Literatur:
 
 Burkard Fleckenstein: "Zur Geschichte der Aschaffenburger Musikschule", in: _200 Jahre Musikschule Aschaffenburg_, Aschaffenburg 2010, S. 10-36
 
