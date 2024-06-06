@@ -13,7 +13,9 @@ Die Titelaufnahmen zu 9 Musikhandschriften wurden von der Bibliothek selbst erst
 
 • Zuständig: RISM-Arbeitsstelle München
 
-**Literatur**
+&nbsp;
+
+Literatur:
 
 Sigrid von der Gönna: _Die neuzeitlichen Handschriften, Autographen und Musikalien der Hofbibliothek Aschaffenburg_, in: Aschaffenburger Jahrbuch 13 (1990), S. 89-197
 

@@ -9,8 +9,11 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/amorbach.html'
 
 # Amorbach, Fürstlich Leiningische Bibliothek (D-AB)
 
-Der von Herrn Dr. Fritz Kaiser, dem 2008 verstorbenen langjährigen Betreuer der Bibliothek, in Abstimmung mit der Münchner RISM Arbeitsstelle erarbeitete Katalog, wurde 2009 in die RISM-Datenbank überführt. Die Hessische Landesbibliothek Darmstadt stellte hierzu Kopien aus dem Nachlass zur Verfügung. Einige noch erforderliche Überprüfungen anhand der Originale mussten zurückgestellt werden, da noch ungeklärt ist,wie die Sammlung künftig zugänglich sein wird.
+Der von Fritz Kaiser, dem 2008 verstorbenen langjährigen Betreuer der Bibliothek, in Abstimmung mit der Münchner RISM Arbeitsstelle erarbeitete Katalog wurde 2009 in die RISM-Datenbank überführt. Die Hessische Landesbibliothek Darmstadt stellte hierzu Kopien aus dem Nachlass zur Verfügung. Einige noch erforderliche Überprüfungen anhand der Originale mussten allerdings zunächst noch zurückgestellt werden.
 
+• Zuständig: RISM-Arbeitsstelle München
 
-Gottfried Heinz-Kronberger, 2011.
+• Website: [Fürstlich Leiningische Bibliothek](https://fuerst-leiningen.de/sehenswert/fuerstliche-abtei/#bibliothek "Opens external link in new window"){:blank}
+
+(Gottfried Heinz-Kronberger, 2011)
 
