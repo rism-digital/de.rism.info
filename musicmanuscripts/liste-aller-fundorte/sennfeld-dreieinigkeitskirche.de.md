@@ -20,6 +20,6 @@ Nach der Erfassung durch RISM wird nun die Digitalisierung des Bestandes angestr
 
 • Zuständig: RISM-Arbeitsstelle München
 
-• Website: [Evangelisch-Lutherische Dreieinigkeitskirche](https://www.sennfeld-evangelisch.de/ "Opens external link in new window")
+• Website: [Evangelisch-Lutherische Dreieinigkeitskirche](https://www.sennfeld-evangelisch.de/ "Opens external link in new window"){:blank}
 
-Gottfried-Heinz Kronberger, Juni 2024
+(Gottfried-Heinz Kronberger, Juni 2024)
