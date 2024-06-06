@@ -1,0 +1,22 @@
+---
+layout: liste-aller-fundorte
+title: 'Sennfeld, Evangelisch-Lutherische Dreieinigkeitskirche (D-SEN)'
+lang: de
+image: ''
+old_url: 'http://de.rism.info/de/liste-aller-fundorte/sennfeld-dreieinigkeitskirche.html'
+permalink: '/musicmanuscripts/liste-aller-fundorte/sennfeld-dreieinigkeitskirche.html'
+---
+
+
+# Sennfeld, Evangelisch-Lutherische Dreieinigkeitskirche (D-SEN)
+
+Der Notenbestand in Sennfeld wurde erst 2011 aus dem Kirchenkeller der Dreieinigkeitskirche gehoben. In der Folge wurde er mittels gemeinsamer Anstrengungen von Pfarr- und politischer Gemeinde gereinigt und sortiert; diese Vorarbeiten konnten durch RISM genutzt werden. Eingriffe in konservatorischer Hinsicht wurden durch RISM unternommen, indem nun auch jedes einzelne Werk mit Schutzumschlägen versehen wurde.
+
+Der Bestand wurde seit 2019 inhaltlich von KMD Jörg Wöltche untersucht. Seine Vorarbeiten zusammen mit denen des Heimatforschers Douglas Dashwood-Howard lieferten schon zahlreiche wertvolle Informationen zu dem Bestand, z.B dass er sich aus 154 Werken zusammensetzt und davon 25 Abschriften von anderer Hand als der des Hauptschreibers Johann Leonhardt Ludwig (1768-1812) stammen.
+
+Nach der Erfassung durch RISM wird nun die Digitalisierung des Bestandes angestrebt.
+
+• Zuständig: RISM-Arbeitsstelle München
+• Website: [Evangelisch-Lutherische Dreieinigkeitskirche](https://www.sennfeld-evangelisch.de/ "Opens external link in new window")
+
+Gottfried-Heinz Kronberger, Juni 2024
