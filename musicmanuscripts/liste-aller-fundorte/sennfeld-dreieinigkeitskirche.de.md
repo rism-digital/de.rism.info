@@ -2,7 +2,7 @@
 layout: liste-aller-fundorte
 title: 'Sennfeld, Evangelisch-Lutherische Dreieinigkeitskirche (D-SEN)'
 lang: de
-image: ''
+image: '/images/old/uploads/pics/csm_Sennfeld_Handschrift_SoliDeoGloria.jpg'
 old_url: 'http://de.rism.info/de/liste-aller-fundorte/sennfeld-dreieinigkeitskirche.html'
 permalink: '/musicmanuscripts/liste-aller-fundorte/sennfeld-dreieinigkeitskirche.html'
 ---
