@@ -13,6 +13,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/aschaffenburg-bibliothek-der-
 <div style="float: right">
 <figure class="figure">
   {% include image file="/images/old/fileadmin/csm_001_66d24495df.jpg" pos="left" title="caption for image" %}
+  
   <figcaption>Concertino für Oboe und Orchester von Eduard Rommel (Zugangsnummer 1634)</figcaption>
 </figure>
 </div>
