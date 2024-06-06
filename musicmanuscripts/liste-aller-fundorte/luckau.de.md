@@ -10,13 +10,14 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/luckau.html'
 
 # Luckau, St.-Nikolai-Kirche (D-LUC)
 
-{% include image file="//images/old/fileadmin/csm_Luckau_Bild3_216b1be9c9.jpg" pos="right" %}
+{% include image file="/images/old/fileadmin/csm_Luckau_Bild3_216b1be9c9.jpg" pos="right" %}
 
 Die über 500 Handschriften überwiegend aus dem 18. Jahrhundert dokumentieren die reiche Musikpflege der Stadt, die zwar Hauptstadt des Markgrafentums Niederlausitz, aber nie fürstliche Residenz war. Werke der Luckauer Organisten und Cantoren sind Grundlage für die regionale Musikgeschichtsschreibung. Besonderen Wert erhält die Sammlung durch einige singulär überlieferte Cantaten-Abschriften, darunter Kompositionen von G. P. Telemann und dem Kreuzkantor G. A. Homilius.
 
 • Zuständig: RISM-Arbeitsstelle Dresden
 
 • Website: [Nikolaikirche Luckau.](http://www.kirche-luckau.de/ "Öffnet externen Link in neuem Fenster"){:blank}
+
 
 
 Literatur
