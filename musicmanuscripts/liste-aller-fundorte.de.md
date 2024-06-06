@@ -1636,7 +1636,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%">Sennfeld, Evangelisch-Lutherische Dreieinigkeitskirche</td>
+         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/sennfeld-dreieinigkeitskirche.html" title="Opens internal link in current window" target="_self">Sennfeld, Evangelisch-Lutherische Dreieinigkeitskirche</a></td>
          <td valign="top" width="13%">D-SEN</td>
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
