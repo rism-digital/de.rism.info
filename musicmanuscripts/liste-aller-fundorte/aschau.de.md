@@ -13,6 +13,8 @@ Diese Musikhandschriften sind in einem gedruckten Katalog verzeichnet und bislan
 
 Die Originalhandschriften werden heute in der [Dombibliothek Freising](http://www.erzbistum-muenchen.de/Dioezesanbibliothek "Opens external link in new window"){:blank} verwahrt.
 
+• Zuständig: RISM-Arbeitsstelle München
+
 &nbsp;
 
 Literatur:
