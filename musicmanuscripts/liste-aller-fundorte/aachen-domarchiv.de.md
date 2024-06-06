@@ -10,9 +10,9 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/aachen-domarchiv.html'
 
 # Aachen, Domarchiv (D-AAm)
 
-<div style="width: 80%; margin: 0 auto;">
+<div style="width: 60%; margin: 0 auto;">
 <figure>
-{% include image file="/images/old/fileadmin/csm_zimmers_002_a63137e7db.jpg" pos="left" %}
+{% include image file="/images/old/fileadmin/csm_zimmers_002_a63137e7db.jpg" pos="right" %}
    <figcaption>T. N. Zimmers, Te Deum D-Dur, Autograph</figcaption>
 </figure>
 </div>
