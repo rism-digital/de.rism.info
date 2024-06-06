@@ -17,11 +17,11 @@ Darüber hinaus ergab die Erfassung der Manuskripte zahlreiche Datierungen zur B
 
 Das Papier stammt zum Großteil aus der regionalen Papierproduktion um Altötting und dabei vor allem aus Raitenhaslach, aus einer Papiermühle, die durch Johann Ernst Trexler Senior (fl. 1790-1819) und wohl auch Junior betrieben wurde. Darüber hinaus sind ältere Quellen auch aus dem Umkreis von Salzburg zu ermitteln, diese benutzen vornehmlich italienisches Papier und schließlich Papier aus der Gegend um Braunau am Inn. Wasserzeichen der 2019 neu aufgenommenen Handschriften sind an die Titel im RISM-OPAC angehängt, ebenso wie die Daten zu den ermittelten Papiermühlen.
 
-Mikrofilme der Musikhandschriften sind in der Bayerischen Staatsbibliothek vorhanden und können dort in der [Musikabteilung](https://www.bsb-muenchen.de/sammlungen/musik/ "Opens external link in new window") eingesehen werden.
+Mikrofilme der Musikhandschriften sind in der Bayerischen Staatsbibliothek vorhanden und können dort in der [Musikabteilung](https://www.bsb-muenchen.de/sammlungen/musik/ "Opens external link in new window"){:blank} eingesehen werden.
 
 • Zuständig: RISM-Arbeitsstelle München
 
-• Aktueller Gesamtkatalog: [https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-358400](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-358400)
+• Aktueller Gesamtkatalog: [https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-358400](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-358400){:blank}
 
 &nbsp;
 
