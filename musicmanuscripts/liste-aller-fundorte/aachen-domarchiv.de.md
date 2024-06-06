@@ -22,7 +22,7 @@ Das Archiv verwahrt nicht nur die berühmten Chorbücher des Johannes Mangon (�
 
 <figure>
 {% include image file="/images/old/fileadmin/csm_zimmers_002_a63137e7db.jpg" pos="left" %}
-   <figcaption>T. N. Zimmers, Te Deum D-Dur, Autograph</figcaption>
+   <figcaption>*T. N. Zimmers, Te Deum D-Dur, Autograph*</figcaption>
 </figure>
 
 
