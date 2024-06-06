@@ -15,9 +15,9 @@ Ein kleinerer Teil von rund 180 Musikhandschriften, wiederum primär Abschriften
 
 Der Bestand N.I. wurde in den Jahren 2007 bis 2009 durch Annegret Rosenmüller erfasst und ist in rism-online recherchierbar.
 
-• Zuständig: [RISM-Arbeitsstelle Dresden](mailto:andrea.hartmann@slub-dresden.de "Opens window for sending email").
+• Zuständig: RISM-Arbeitsstelle Dresden
 
-• Website: [Universitätsbibliothek Leipzig](http://www.ub.uni-leipzig.de/ "Opens external link in new window")
+• Website: [Universitätsbibliothek Leipzig](http://www.ub.uni-leipzig.de/ "Opens external link in new window"){:blank}
 
 &nbsp;
 
