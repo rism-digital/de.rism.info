@@ -18,7 +18,7 @@ Die über 500 Handschriften überwiegend aus dem 18. Jahrhundert dokumentieren d
 
 • Website: [Nikolaikirche Luckau.](http://www.kirche-luckau.de/ "Öffnet externen Link in neuem Fenster"){:blank}
 
-
+&nbsp;
 
 Literatur
 
