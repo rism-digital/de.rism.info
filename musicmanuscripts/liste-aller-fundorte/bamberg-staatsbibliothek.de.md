@@ -10,7 +10,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/bamberg-staatsbibliothek.html
 
 # Bamberg, Staatsbibliothek (D-BAs)
 
-<div style="float: right; width: 60%">
+<div style="float: right; width: 50%">
    <figure class="figure">
       <div class="float-left">
          <img src="/images/old/fileadmin/csm_MscAdd157_Undine_f.1r_800x800_500KB_88f6ee4c0c.jpg">
