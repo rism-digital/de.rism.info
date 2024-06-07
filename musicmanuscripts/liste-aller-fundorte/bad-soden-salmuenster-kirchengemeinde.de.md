@@ -23,13 +23,13 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/bad-soden-salmuenster-katholi
    </figure>
 </div>
 
-2007 wurde bei archivalischen Arbeiten des Diözesanarchivs Fulda im Stifts- und Pfarrarchiv der katholischen Kirchengemeinde St. Peter und Paul in Salmünster eine Kiste mit „alten Noten“ gefunden. Neben dreizehn Drucken befanden sich in der Mehrzahl Handschriften unter diesen Musikalien, die nahezu alle aus der zweiten Hälfte des 18. Jahrhunderts stammten. Ein Drittel der 158 Handschriften (64 Titel) sind anonym. Dieser Fund stellt heutzutage sowohl der Anzahl der Musikhandschriften nach als auch in der Geschlossenheit des Zeitrahmens eine Ausnahme dar. Er enthält qualitativ wertvolle Stücke und gibt außerdem einen Hinweis auf die außerordentlich hochstehende Musizierpraxis, die in Salmünster geherrscht haben muss. 
+2007 wurde bei archivalischen Arbeiten des Diözesanarchivs Fulda im Stifts- und Pfarrarchiv der katholischen Kirchengemeinde St. Peter und Paul in Salmünster eine Kiste mit „alten Noten“ gefunden. Neben dreizehn Drucken befanden sich in der Mehrzahl Handschriften unter diesen Musikalien, die nahezu alle aus der zweiten Hälfte des 18. Jahrhunderts stammten. Ein Drittel der 158 Handschriften (64 Titel) sind anonym. Dieser Fund stellt heutzutage sowohl in der Anzahl der Musikhandschriften als auch in der Geschlossenheit des Zeitrahmens eine Ausnahme dar. Er enthält qualitativ wertvolle Stücke und gibt außerdem einen Hinweis auf die außerordentlich hochstehende Musizierpraxis, die in Salmünster geherrscht haben muss. 
 
 Die Handschriften befanden sich unsortiert in einer Pappkiste. Zahlreichen Manuskripten, bzw. Stimmensätzen fehlten die Titelblätter, teilweise waren die verschiedenen Teile und Stimmen der Werke voneinander getrennt. Im Laufe der Katalogisierung und der Sichtung der Einzelstimmen ergaben sich viele Zuordnungen von verstreut aufgefundenen Blättern. Neben Schreibervergleichen dienten vor allem die Wasserzeichen der Zuordnung, schließlich – nach eingehender Kenntnis der Werke – auch die musikalische Faktur der Einzelwerke.
 
 Neben der zeitlichen Geschlossenheit des überlieferten Repertoires ist ein überragendes Kennzeichen der Salmünsterer Handschriften die Konzentration der Provenienzen auf die Familie Zahn: Insgesamt stammen 95 der 158 Handschriften aus dem direkten Besitz der Familie Zahn. Hinzu kommen eine Handschrift aus dem Besitz des Konzertmeisters Kaspar Staab, des Vaters der Schwägerin Franz Rudolph Zahns (Maria Theresia Zahn, geb. Staab) und eine Handschrift aus dem Besitz Michael Henkels, der nacheinander mit zwei Töchtern Johann Anton Sebastian Zahns, Maria Caritas Barbara und ihrer Schwester Maria Barbara Josepha Zahn verheiratet war.
 
-• Zuständig: RISM-Arbeitsstelle Dresden
+• Zuständig: RISM-Arbeitsstelle München
 
 &nbsp;
 
