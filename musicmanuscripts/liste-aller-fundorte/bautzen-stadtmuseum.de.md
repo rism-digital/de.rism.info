@@ -13,9 +13,9 @@ Im Stadtmuseum werden ca. 190 Handschriften und 43 Drucke überwiegend aus der e
 
 Der Bestand wurde 1994 von Andrea Hartmann katalogisiert.
 
-• Zuständig: [RISM-Arbeitsstelle Dresden](mailto:andrea.hartmann@slub-dresden.de "Opens window for sending email").
+• Zuständig: RISM-Arbeitsstelle Dresden
 
-• Website: [Stadtmuseum Bautzen](http://www.bautzen.de/stadtmuseum.asp "Opens external link in new window")
+• Website: [Stadtmuseum Bautzen](http://www.bautzen.de/stadtmuseum.asp "Opens external link in new window"){:blank}
 
 (Andrea Hartmann, 2011)
 
