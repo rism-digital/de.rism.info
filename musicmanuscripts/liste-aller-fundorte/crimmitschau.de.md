@@ -13,7 +13,7 @@ Aus dem Bestand der Kantorei sind 125 Musikhandschriften und 18 Drucke erhalten.
 
 • Zuständig: RISM-Arbeitsstelle Dresden
 
-• Website: [Crimmitschau](http://www.kgv-crimmitschau.de/nachrichten/laurentius.php3 "Opens external link in new window"){:blank}
+• Website: [Crimmitschauer Kirche](https://www.kirche-crimmitschau.de/ "Opens external link in new window"){:blank}
 
 (Andrea Hartmann, 2011)
 
