@@ -170,7 +170,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/bad-soden-salmuenster-katholische-kirchengemeinde-st-peter-und-paul-stifts-und-pfarrarchiv-salmuenster-d-bssp.html" title="Opens internal link in current window" target="_self">Bad Soden-Salmünster, Katholische Kirchengemeinde<br>St. Peter und Paul Salmünster, Stifts- und Pfarrarchiv</a></td>
+         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/bad-soden-salmuenster-kirchengemeinde.html" title="Opens internal link in current window" target="_self">Bad Soden-Salmünster, Katholische Kirchengemeinde<br>St. Peter und Paul Salmünster, Stifts- und Pfarrarchiv</a></td>
          <td valign="top" width="13%">D-BSSp</td>
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
