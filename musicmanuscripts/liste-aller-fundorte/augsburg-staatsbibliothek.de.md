@@ -17,14 +17,14 @@ In RISM sind diese Musikhandschriften bislang nicht nachgewiesen. Da Gottwalds K
 
 • Zuständig: RISM-Arbeitsstelle München
 
-• Website: [Staats- und Stadtbibliothek Augsburg](http://www.sustb.augsburg.de/ "Opens external link in new window"){blank}
+• Website: [Staats- und Stadtbibliothek Augsburg](http://www.sustb.augsburg.de/ "Opens external link in new window"){:blank}
 
 &nbsp;
 
 Literatur:
 
 Clytus Gottwald: _Die Musikhandschriften der Staats- und Stadtbibliothek Augsburg_, Wiesbaden 1974 (Handschriftenkataloge der Stats- und Stadtbibliothek Augsburg, Bd. 1
-(Online-Version verfügbar auf [Manuscripta Mediaevalia](http://www.manuscripta-mediaevalia.de/hsk0003.html "Opens external link in new window"){blank})_._
+(Online-Version verfügbar auf [Manuscripta Mediaevalia](http://www.manuscripta-mediaevalia.de/hsk0003.html "Opens external link in new window"){:blank})_._
 
 Josef Mančal: _Mozart-Schätze in Augsburg_, Augsburg 1995 (Beiträge zur Leopold-Mozart-Forschung, Bd. 3)
 
