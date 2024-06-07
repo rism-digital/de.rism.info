@@ -11,16 +11,15 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/berlin-singakademie.html'
 
 Das Archiv der Singakademie wurde im Rahmen eines Forschungsprojekts katalogisiert. Die Ergebnisse sind über den RISM OPAC zugänglich.
 
-
 Der gesamte Bestand befindet sich heute als Depositum in der Staatsbibliothek zu Berlin.
+
+• Zuständig: RISM-Arbeitsstelle München
 
 Websites:
 
-• [Staatsbibliothek zu Berlin](http://staatsbibliothek-berlin.de/die-staatsbibliothek/abteilungen/musik/projekte/dfg-projekt-singakademie/ "Opens external link in new window")
+• [Staatsbibliothek zu Berlin](http://staatsbibliothek-berlin.de/die-staatsbibliothek/abteilungen/musik/projekte/dfg-projekt-singakademie/ "Opens external link in new window"){:blank}
 
-• [Singakademie zu Berlin](http://www.sing-akademie.de/ "Opens external link in new window")
-
-&nbsp;
+• [Singakademie zu Berlin](http://www.sing-akademie.de/ "Opens external link in new window"){:blank}
 
 (Armin Brinzing, Mai 2011)
 
