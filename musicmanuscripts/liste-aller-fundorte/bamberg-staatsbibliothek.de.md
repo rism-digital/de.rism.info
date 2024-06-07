@@ -3,8 +3,8 @@ layout: liste-aller-fundorte
 title: 'Bamberg, Staatsbibliothek (D-BAs)'
 lang: de
 image: '/images/old/fileadmin/csm_MscAdd157_Undine_f.1r_800x800_500KB_88f6ee4c0c.jpg'
-old_url: 'http://de.rism.info/de/liste-aller-fundorte/bamberg-staatsbibliothek-d-bas.html'
-permalink: '/musicmanuscripts/liste-aller-fundorte/bamberg-staatsbibliothek-d-bas.html'
+old_url: 'http://de.rism.info/de/liste-aller-fundorte/bamberg-staatsbibliothek.html'
+permalink: '/musicmanuscripts/liste-aller-fundorte/bamberg-staatsbibliothek.html'
 ---
 
 
