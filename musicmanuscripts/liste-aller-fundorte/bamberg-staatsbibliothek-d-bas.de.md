@@ -10,20 +10,24 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/bamberg-staatsbibliothek-d-ba
 
 # Bamberg, Staatsbibliothek (D-BAs)
 
-<div style="float: right;">
+<div style="float: right; width: 60%">
    <figure class="figure">
       <div class="float-left">
          <img src="/images/old/fileadmin/csm_MscAdd157_Undine_f.1r_800x800_500KB_88f6ee4c0c.jpg">
       </div>
       <figcaption class="figcaption">
-         Msc Add157 Undine f.1r
+         E.T. A. Hoffmann: Undine, Abschrift Max Regers (Msc Add157)
       </figcaption>
    </figure>
 </div>
 
-In der Staatsbibliothek Bamberg (D-BAs) wurden 20 Handschriften katalogisiert, die teilweise aus dem ehemaligen herzoglichen Bestand in Zweibrücken stammten. Daneben wurden Autographe von E.T. A Hofmann aufgenommen. Die bereits bestehenden Digitalisate der Staatsbibliothek wurden mit den Titelaufnahmen verknüpft.Besonders interessant die abgebildete Abschrift Max Regers von E.T.A. Hoffmanns Undine.
+In der Staatsbibliothek Bamberg wurden 20 Handschriften katalogisiert, die teilweise aus dem ehemaligen herzoglichen Bestand in Zweibrücken stammten. Daneben wurden Autographe von E.T. A Hofmann aufgenommen. Die bereits bestehenden Digitalisate der Staatsbibliothek wurden mit den Titelaufnahmen verknüpft. Als besonders interessant kann eine Abschrift Max Regers von E.T.A. Hoffmanns Oper "Undine" hervorgehoben werden (siehe Abbildung).
 
-Eine große Signaturengruppe Mus. A (exakt 1.273 Signaturen) und Mus. B (schätzungsweise 700 Signaturen) umfasst reine handschriftliche Gebrauchskopien nach gedruckten Vorlagen. Eine Sichtung des Materials wurde angesichts des immensen Arbeitsaufwands vertagt.
+Eine große Signaturengruppe, bestehend aus Mus. A (1.273 Signaturen) und Mus. B (ca. 700 Signaturen), umfasst rein handschriftliche Gebrauchskopien nach gedruckten Vorlagen. Eine Sichtung des Materials wurde angesichts des immensen Arbeitsaufwands noch nicht vorgenommen.
 
-Gottfried Heinz-Kronberger, 2013.
+• Zuständig: RISM-Arbeitsstelle München
+
+• Website: [Staatsbibliothek Bamberg](https://www.staatsbibliothek-bamberg.de/ "Opens external link in new window"){:blank}
+
+(Gottfried Heinz-Kronberger, 2013)
 
