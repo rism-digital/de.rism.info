@@ -11,23 +11,25 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/donaueschingen.html'
 # Donaueschingen, Fürstlich Fürstenbergische Hofbibliothek (D-DO)
 
 
-Die Donaueschinger Musikhandschriften wurden zwischen 1977 und 1980 von Gertraut Haberkamp für RISM katalogisiert. Die Titelaufnahmen wurden dann&nbsp; von der RISM Zentralredaktion in die Datenbank eingegeben&nbsp;und sind über den RISM OPAC abrufbar.
+Die Donaueschinger Musikhandschriften wurden zwischen 1977 und 1980 von Gertraut Haberkamp für RISM katalogisiert. Die Titelaufnahmen wurden von der RISM Zentralredaktion in die Datenbank eingegeben und sind über den RISM OPAC abrufbar.
 
-Im Jahr 1999 wurden die Musikhandschriften und Musikdrucke der Donaueschinger Hofbibliothek vom Land Baden-Württemberg für die [Badische Landesbibliothek](http://www.blb-karlsruhe.de/sammlungen/musikalien/bestand/fuerstlich-fuerstenbergische-hofbibliothek-donaueschingen/ "Opens external link in new window") in Karlsruhe (D-KA) erworben.
+Im Jahr 1999 wurden die Musikhandschriften und Musikdrucke der Donaueschinger Hofbibliothek vom Land Baden-Württemberg für die [Badische Landesbibliothek](http://www.blb-karlsruhe.de/sammlungen/musikalien/bestand/fuerstlich-fuerstenbergische-hofbibliothek-donaueschingen/ "Opens external link in new window"){:blank} in Karlsruhe (D-KA) erworben. Den gesamten Bestand der ehemals Donaueschinger Musikhandschriften in Karlsruhe finden Sie im RISM-OPAC.
 
-Eine Handschrift (eine um 1580-1595 entstande Lautentabulatur, Signatur: Cod. Don. G I 4) kam allerdings nicht nach Karlsruhe, sondern an die [Württembergische Landesbibliothek](http://www.wlb-stuttgart.de/sammlungen/musik/bestand/zimelien/lautentabulatur-cod-don-g-i-4/ "Opens external link in new window") in Stuttgart.
+Während eine einzelne Handschrift (eine um 1580-1595 entstande Lautentabulatur, Signatur: Cod. Don. G I 4) an die [Württembergische Landesbibliothek](https://wlb.boss.bsz-bw.de/Record/1806303361?sid=14003088 "Opens external link in new window") in Stuttgart kam, sind auch mehrere Autographe in Donaueschingen verblieben, die von "Komponisten der Donaueschinger Kammermusikaufführungen" Maximilian Egon II., Fürst zu Fürstenberg, anlässlich dessen 60. Geburtstag am 13.10.1923 zum Geschenk gemacht wurden. Es handelt sich u.a. um Werke von Alban Berg, Paul Hindemith und Richard Strauß.
 
-In Donaueschingen verblieben sind mehrere Autographen, die von "[Komponisten der Donaueschinger Kammermusikaufführungen](http://opac.rism.info/metaopac/search.do?methodToCall=submitButtonCall&CSId=46643N2541Sb44b30959d14e8af0d192149729e1741298c7fbd&methodToCallParameter=submitSearch&refine=false&searchCategories%5B0%5D=-1&speedy=on&searchString%5B0%5D=%22Komponisten+der+Donaueschinger+Kammermusikauff%C3%BChrungen%22+&submitButtonCall_submitSearch=Suchen "Öffnet externen Link in neuem Fenster")" Maximilian Egon II., Fürst zu Fürstenberg, anlässlich dessen 60. Geburtstag am 13.10.1923 zum Geschenk gemacht wurden. Es handelt sich u.a. um Werke von Alban Berg, Paul Hindemith und Richard Strauß.
+Im Zuge der Katalogisierung der historischen Bestände der [Badischen Landesbibliothek Karlsruhe](/musicmanuscripts/liste-aller-fundorte/karlsruhe-blb.html "Opens internal link in current window") (Signaturen "Mus. Hs.") wurden noch einige Angaben zu den Donaueschinger Handschriften ergänzt, vor allem wurden auch mehrere Handschriften neu aufgefunden. Diese Ergänzungen sind ebenfalls über den RISM OPAC verfügbar (insgesamt ca. 1.400 zusätzliche Titelaufnahmen, die mit dem Bibliothekssigel "D-KA" aufgenommen und mit dem Vorbesitzer "Fürstlich Fürstenbergische Hofbibliothek" verzeichnet wurden).
 
-Im Zuge der Katalogisierung der historischen Bestände der [Badischen Landesbibliothek Karlsruhe](/../?id=325 "Opens internal link in current window") (Signaturen "Mus. Hs.") wurden noch einige Angaben zu den Donaueschinger Handschriften ergänzt, vor allem wurden auch mehrere Handschriften neu aufgefunden, die Gertraut Haberkamp seinerzeit nicht vorgelegen hatten. Diese Ergänzungen sind ebenfalls über den RISM OPAC verfügbar (insgesamt ca. 1.400 zusätzliche Titelaufnahmen, die mit dem Bibliothekssigel "D-KA" aufgenommen und mit dem Vorbesitzer "Fürstlich Fürstenbergische Hofbibliothek"&nbsp;verzeichnet wurden).
-
-Den **gesamten Bestand der ehemals Donaueschinger Musikhandschriften in Karlsruhe** finden Sie im RISM-OPAC.
-
-In Donaueschingen verblieben sind auch (zumindest zum größten Teil) die ebenfalls von RISM in den entsprechenden Publikationen verzeichneten musiktheoretischen Werke, Libretti und Gesangbücher sowie die (nicht von RISM aufgenommenen) Theaterzettel.
+In Donaueschingen verblieben sind auch größtenteils die ebenfalls von RISM in den entsprechenden Publikationen verzeichneten musiktheoretischen Werke, Libretti und Gesangbücher sowie die (nicht von RISM aufgenommenen) Theaterzettel.
 
 Zusätzlich wurden im Jahr 2000 noch mehrere hundert Theaterprogramme des Donaueschinger Hoftheaters von der Badischen Landesbibliothek aus dem Antiquariatshandel erworben, ebenso ein Musikalienverzeichnis der Prinzessin Amélie zu Fürstenberg von 1874 (Signatur: K 3194).
 
-**Literatur**
+• Zuständig: RISM-Arbeitsstelle München
+
+• Website
+
+&nbsp;
+
+Literatur:
 
 Gertraut Haberkamp: _Autographe Musikhandschriften des 19. und 20. Jahrhunderts in der F. Fürstenbergischen Hofbibliothek Donaueschingen_, in: Ars iocundissima. Festschrift Kurt Dorfmüller, Tutzing 1984, S. 97-113
 
