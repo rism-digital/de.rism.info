@@ -125,17 +125,17 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/augsburg.html" title="Opens internal link in current window" target="_self">Augsburg, Heilig-Kreuz-Kirche, Dominikanerkloster,<br>ehemals Augustinerchorherrenstift Hl. Kreuz</a><br>(Depositum in: D-As)</td>
+         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/augsburg-dominikanerkloster.html" title="Opens internal link in current window" target="_self">Augsburg, Heilig-Kreuz-Kirche, Dominikanerkloster,<br>ehemals Augustinerchorherrenstift Hl. Kreuz</a><br>(Depositum in: D-As)</td>
          <td valign="top" width="13%" rowspan="1">D-Ahk</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/augsburg.html#c1754" title="Opens internal link in current window" target="_self">Augsburg, Staats- und Stadtbibliothek</a></td>
+         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/augsburg-staatsbibliothek.html" title="Opens internal link in current window" target="_self">Augsburg, Staats- und Stadtbibliothek</a></td>
          <td valign="top" width="13%" rowspan="1">D-As</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/augsburg.html#c1754" title="Opens internal link in current window" target="_self">Augsburg, Stadtarchiv (mit Mozart-Gedenkstätte)</a><br>(jetzt in: D-As)</td>
+         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/augsburg-stadtarchiv.html" title="Opens internal link in current window" target="_self">Augsburg, Stadtarchiv (mit Mozart-Gedenkstätte)</a><br>(jetzt in: D-As)</td>
          <td valign="top" width="13%" rowspan="1">D-Asa</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
