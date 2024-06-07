@@ -10,7 +10,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/bad-wildungen-stadtarchiv-d-w
 
 # Bad Wildungen, Stadtarchiv (D-WILDs)
 
-<div style="float: right; width: 50%">
+<div style="float: right; width: 40%">
    <figure class="figure">
       <div class="float-left">
          <img src="/images/old/fileadmin/D-WILDs_Vulpius.jpg">
