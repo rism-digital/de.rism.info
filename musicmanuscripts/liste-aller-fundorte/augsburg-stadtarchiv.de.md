@@ -2,7 +2,7 @@
 layout: liste-aller-fundorte
 title: 'Augsburg, Stadtarchiv und Mozart-Gedenkstätte (D-Asa)'
 lang: de
-image: '/images/old/fileadmin/csm_D-Ahk_30_0069a1abb7.jpg'
+image: ''
 old_url: 'http://de.rism.info/de/liste-aller-fundorte/augsburg-stadtarchiv.html'
 permalink: '/musicmanuscripts/liste-aller-fundorte/augsburg-stadtarchiv.html'
 ---
