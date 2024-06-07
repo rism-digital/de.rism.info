@@ -21,7 +21,7 @@ Daneben verwahrt die Bibliothek verschiedene musikhistorisch relevante Nachläss
 
 Literatur:
 
-Magda Marx-Weber,&nbsp;_Katalog der Musikhandschriften im Besitz des Musikwissenschaftlichen Seminars der Rheinischen Friedrich-Wilhelms-Universität zu Bonn_, Köln 1971 (= Beiträge zur rhein. Musikgeschichte, Heft 89)
+Magda Marx-Weber, _Katalog der Musikhandschriften im Besitz des Musikwissenschaftlichen Seminars der Rheinischen Friedrich-Wilhelms-Universität zu Bonn_, Köln 1971 (= Beiträge zur rhein. Musikgeschichte, Heft 89)
 
 Friederike Grigat, _Die Musikalien-Sammelbände der "Prinz-Georg-Bibliothek" in der Universitätsbibliothek Bonn: ein Beitrag zur Datierung von Notendrucken des späten 18. und 19. Jahrhunderts_, Magisterarbeit Bonn 1992
 
