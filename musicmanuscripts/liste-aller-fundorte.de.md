@@ -78,12 +78,12 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a name="OLE_LINK2">Ansbach, Sing- und Orchesterverein </a>(jetzt: Ansbacher Kantorei), Archiv</td>
+         <td valign="top" width="51%" rowspan="1">Ansbach, Sing- und Orchesterverein<br>(jetzt: Ansbacher Kantorei), Archiv</td>
          <td valign="top" width="13%" rowspan="1">D-ANsv</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%"><a href="/projects/laufende-arbeiten.html#c703" title="Opens internal link in current window" target="_blank">Ansbach, Staatliche Bibliothek</a>*</td>
+         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/ansbach-staatliche-bibliothek.html" title="Opens internal link in current window" target="_blank">Ansbach, Staatliche Bibliothek</a></td>
          <td valign="top" width="13%">D-AN</td>
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
@@ -125,17 +125,17 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/augsburg.html" title="Opens internal link in current window" target="_self">Augsburg, Heilig-Kreuz-Kirche, Dominikanerkloster,<br>ehemals Augustinerchorherrenstift Hl. Kreuz</a><br>(Depositum in: D-As)</td>
+         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/augsburg-dominikanerkloster.html" title="Opens internal link in current window" target="_self">Augsburg, Heilig-Kreuz-Kirche, Dominikanerkloster,<br>ehemals Augustinerchorherrenstift Hl. Kreuz</a><br>(Depositum in: D-As)</td>
          <td valign="top" width="13%" rowspan="1">D-Ahk</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/augsburg.html#c1754" title="Opens internal link in current window" target="_self">Augsburg, Staats- und Stadtbibliothek</a></td>
+         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/augsburg-staatsbibliothek.html" title="Opens internal link in current window" target="_self">Augsburg, Staats- und Stadtbibliothek</a></td>
          <td valign="top" width="13%" rowspan="1">D-As</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/augsburg.html#c1754" title="Opens internal link in current window" target="_self">Augsburg, Stadtarchiv (mit Mozart-Gedenkstätte)</a><br>(jetzt in: D-As)</td>
+         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/augsburg-stadtarchiv.html" title="Opens internal link in current window" target="_self">Augsburg, Stadtarchiv (mit Mozart-Gedenkstätte)</a><br>(jetzt in: D-As)</td>
          <td valign="top" width="13%" rowspan="1">D-Asa</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
@@ -170,7 +170,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/bad-soden-salmuenster-katholische-kirchengemeinde-st-peter-und-paul-stifts-und-pfarrarchiv-salmuenster-d-bssp.html" title="Opens internal link in current window" target="_self">Bad Soden-Salmünster, Katholische Kirchengemeinde<br>St. Peter und Paul Salmünster, Stifts- und Pfarrarchiv</a></td>
+         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/bad-soden-salmuenster-kirchengemeinde.html" title="Opens internal link in current window" target="_self">Bad Soden-Salmünster, Katholische Kirchengemeinde<br>St. Peter und Paul Salmünster, Stifts- und Pfarrarchiv</a></td>
          <td valign="top" width="13%">D-BSSp</td>
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
@@ -190,12 +190,12 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a href="/projects/laufende-arbeiten.html" title="Opens internal link in current window" target="_self">Bamberg, Archiv der Erzdiözese*</a></td>
+         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/bamberg-erzdioezese.html" title="Opens internal link in current window" target="_self">Bamberg, Archiv der Erzdiözese</a></td>
          <td valign="top" width="13%" rowspan="1">D-BAd</td>
-         <td valign="top" width="21%" rowspan="1">in Arbeit</td>
+         <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/bamberg-staatsbibliothek-d-bas.html" title="Opens internal link in current window" target="_self">Bamberg, Staatsbibliothek</a></td>
+         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/bamberg-staatsbibliothek.html" title="Opens internal link in current window" target="_self">Bamberg, Staatsbibliothek</a></td>
          <td valign="top" width="13%" rowspan="1">D-BAs</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
@@ -285,7 +285,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/bonn-musikwiss-seminar-d-bnms.html" title="Opens internal link in current window" target="_self">Bonn, Musikwissenschaftliches Seminar der Rheinsichen Friedrich-Wilhelms-Universität</a></td>
+         <td valign="top" width="51%" rowspan="1">Bonn, Musikwissenschaftliches Seminar der Rheinischen Friedrich-Wilhelms-Universität<br>(siehe D-BNu)</td>
          <td valign="top" width="13%" rowspan="1">D-BNms</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>

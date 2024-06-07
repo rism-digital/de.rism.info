@@ -10,7 +10,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/bad-wildungen-stadtarchiv-d-w
 
 # Bad Wildungen, Stadtarchiv (D-WILDs)
 
-<div style="float: right; width: 70%">
+<div style="float: right; width: 40%">
    <figure class="figure">
       <div class="float-left">
          <img src="/images/old/fileadmin/D-WILDs_Vulpius.jpg">
@@ -21,7 +21,9 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/bad-wildungen-stadtarchiv-d-w
    </figure>
 </div>
 
-Im Stadtarchiv von Bad Wildungen sind derzeit nur zwei historische Musikhandschriften nachgewiesen. Zum Einen eine auf das Jahr 1627 zu datierende Intavolierung des vierstimmigen Vokalsatzes "Der Same ist das Wort Gottes" von Melchior Vulpius in neuer deutscher Orgeltabulatur (s. Abbildung), zum Anderen ein Stimmensatz zu dem vierstimmigen Gesang "Im Grabe ist Ruh' drum wanken zum tröstenden Ziele" von Johann Philipp August Mützel, Stadtpfarrer in Gaildorf, "gesungen am Grabe" des Fürsten Georg von Waldeck (1785-1826) am 20. Juni 1826 in Gaildorf.
+Im Stadtarchiv von Bad Wildungen sind derzeit nur zwei historische Musikhandschriften nachgewiesen. Zum einen eine auf das Jahr 1627 zu datierende Intavolierung des vierstimmigen Vokalsatzes "Der Same ist das Wort Gottes" von Melchior Vulpius in neuer deutscher Orgeltabulatur (s. Abbildung), zum anderen ein Stimmensatz zu dem vierstimmigen Gesang "Im Grabe ist Ruh' drum wanken zum tröstenden Ziele" von Johann Philipp August Mützel, Stadtpfarrer in Gaildorf, "gesungen am Grabe" des Fürsten Georg von Waldeck (1785-1826) am 20. Juni 1826 in Gaildorf.
 
-Helmut Lauterwasser, März 2019
+• Zuständig: RISM-Arbeitsstelle München
+
+(Helmut Lauterwasser, März 2019)
 
