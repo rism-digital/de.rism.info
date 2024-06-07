@@ -285,7 +285,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/bonn-musikwiss-seminar-d-bnms.html" title="Opens internal link in current window" target="_self">Bonn, Musikwissenschaftliches Seminar der Rheinsichen Friedrich-Wilhelms-Universität</a></td>
+         <td valign="top" width="51%" rowspan="1">Bonn, Musikwissenschaftliches Seminar der Rheinischen Friedrich-Wilhelms-Universität<br>(siehe D-BNu)</td>
          <td valign="top" width="13%" rowspan="1">D-BNms</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
