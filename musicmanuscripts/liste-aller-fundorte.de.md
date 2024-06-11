@@ -425,7 +425,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">KBM 15</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/dresden-saechsische-landesbibliothek.html" title="Opens internal link in current window" target="_self">***Dresden, Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden***</a>*</td>
+         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/dresden-saechsische-landesbibliothek.html" title="Opens internal link in current window" target="_self">Dresden, Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden</a>*</td>
          <td valign="top" width="13%" rowspan="1">D-Dl</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
@@ -1027,7 +1027,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">KBM 10</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1">***Leipzig, Bach-Archiv*****</td>
+         <td valign="top" width="51%" rowspan="1">Leipzig, Bach-Archiv**</td>
          <td valign="top" width="13%" rowspan="1">D-LEb</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
@@ -1222,7 +1222,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%"><a href="/projects/laufende-arbeiten.html#c1398" title="Opens internal link in current window" target="_top">***München, Bayerische Staatsbibliothek***</a>*</td>
+         <td valign="top" width="51%"><a href="/projects/laufende-arbeiten.html#c1398" title="Opens internal link in current window" target="_top">München, Bayerische Staatsbibliothek</a>*</td>
          <td valign="top" width="13%">D-Mbs</td>
          <td valign="top" width="21%">RISM-OPAC / KBM 5</td>
       </tr>
@@ -1544,7 +1544,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1">***Rostock, Universitätsbibliothek***</td>
+         <td valign="top" width="51%" rowspan="1">Rostock, Universitätsbibliothek</td>
          <td valign="top" width="13%" rowspan="1">D-ROu</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
