@@ -15,6 +15,6 @@ Der Bestand beinhaltet zwar nur wenige Musikhandschriften, darunter aber das bed
 
 • Zuständig: RISM-Arbeitsstelle München
 
-• Website: [Bomann-Museum](https://www.bomann-museum.de/ "Öffnet externen Link in neuem Fenster"){:blank}, (e-mail: [bomann-museum@celle.de](mailto:bomann-museum@celle.de "Öffnet ein Fenster zum Versenden der E-Mail")
+• Website: [Bomann-Museum](https://www.bomann-museum.de/ "Öffnet externen Link in neuem Fenster"){:blank}, (e-mail: [bomann-museum@celle.de](mailto:bomann-museum@celle.de "Öffnet ein Fenster zum Versenden der E-Mail") )
 
 Helmut Lauterwasser
