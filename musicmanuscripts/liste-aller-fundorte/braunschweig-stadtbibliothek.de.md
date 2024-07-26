@@ -28,8 +28,9 @@ Der Bestand wurde zwischen November 2016 und Februar 2017 von der Helmut Lauterw
 &nbsp;
 
 Literatur:
-Lauterwasser, Helmut: Ein musikalisches Stammbuch im Umfeld des Geistlichen Ministeriums zu Braunschweig aus dem 17. Jahrhundert; in: Schütz-Jahrbuch 39 (2017), Kassel 2018, S. 71–178.
-Kirsch, Dieter: [Eine bisher unbekannte Lautentabulatur](https://rism.info/de/rediscovered/2017/01/27/a-previously-unknown-lute-tablature.html "Opens external link in new window"){:blank}
+Lauterwasser, Helmut: Ein musikalisches Stammbuch im Umfeld des Geistlichen Ministeriums zu Braunschweig aus dem 17. Jahrhundert; in: Schütz-Jahrbuch 39 (2017), Kassel 2018, S. 71–178
+
+Kirsch, Dieter: [Eine bisher unbekannte Lautentabulatur, 2017](https://rism.info/de/rediscovered/2017/01/27/a-previously-unknown-lute-tablature.html "Opens external link in new window"){:blank}
 
 
 Helmut Lauterwasser, Februar 2017
