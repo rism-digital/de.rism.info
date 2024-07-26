@@ -21,5 +21,5 @@ Der Bestand wurde zwischen November 2016 und Sommer 2017 von Helmut Lauterwasser
 
 • Website: [Stadtarchiv Braunschweig](https://www.braunschweig.de/kultur/bibliotheken_archive/stadtarchiv/kontakt.html "Opens external link in new window"){:blank}
 
-Helmut Lauterwasser, August 2017
+(Helmut Lauterwasser, August 2017)
 
