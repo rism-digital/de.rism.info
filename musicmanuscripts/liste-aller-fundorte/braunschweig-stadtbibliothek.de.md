@@ -34,6 +34,6 @@ Lauterwasser, Helmut: Ein musikalisches Stammbuch im Umfeld des Geistlichen Mini
 Kirsch, Dieter: [Eine bisher unbekannte Lautentabulatur, 2017](https://rism.info/de/rediscovered/2017/01/27/a-previously-unknown-lute-tablature.html "Opens external link in new window"){:blank}
 
 
-Helmut Lauterwasser, Februar 2017
+(Helmut Lauterwasser, Februar 2017)
 
 
