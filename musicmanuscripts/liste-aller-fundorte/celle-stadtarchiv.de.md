@@ -27,4 +27,4 @@ Lauterwasser, Helmut: Neue Erkenntnisse über Heinrich Bokemeyer (1679-1751). Ei
 
 Lauterwasser, Helmut: "Von seinen Jugendstreichen bewahrt man nicht gern die sichtbaren Zeichen". Johannes Brahms' älteste erhaltene Kompositionen im Stadtarchiv Celle entdeckt; in: Brahms-Studien 16, Tutzing 2011, S. 101-112
 
-Helmut Lauterwasser
+(Helmut Lauterwasser)
