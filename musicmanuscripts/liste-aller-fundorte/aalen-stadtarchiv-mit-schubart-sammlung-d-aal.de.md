@@ -24,13 +24,15 @@ Das Stadtarchiv Aalen ist in der RISM-Datenbank mit nur 5 Druck- und 3 Handschri
 
 Außer den Schubartiana verwahrt das Stadtarchiv weitere Musikalien, die nicht ins RISM aufgenommen wurden, weil sie außerhalb des Zeitrahmens liegen, so z.B. einige Autographe des Komponisten Martin Gümbel (1923-1986) sowie Musikquellen und Archivalien von Aalener Musikvereinen und der Oratorien-Vereinigung.
 
-Sie können über den [RISM-OPAC](http://opac.rism.info/ "Opens external link in new window") gezielt im Bestand der Aalener Musikalien recherchieren (Bibliothekssigel D-AAL). Bei Fragen zur Erschließung dieses Bestandes durch RISM wenden Sie sich bitte an [Dr. Helmut Lauterwasser](mailto:helmut.lauterwasser@bsb-muenchen.de "Opens window for sending email"), RISM-Arbeitsstelle München; bei allen anderen Fragen (Benutzung, Bestellung von Reproduktionen usw.) wenden Sie sich bitte direkt an das [Stadtarchiv Aalen](mailto:archiv@aalen.de "Opens window for sending email").
 
-(Helmut Lauterwasser, 06.09.2017)
+• Zuständig: RISM-Arbeitsstelle München
 
-[zurück zur Übersicht](de/home.html#c648 "Opens internal link in current window")
-
-&nbsp;
+• E-Mail: [Stadtarchiv Aalen](mailto:archiv@aalen.de "Opens window for sending email")
 
 &nbsp;
+
+(Helmut Lauterwasser, September 2017)
+
+
+
 
