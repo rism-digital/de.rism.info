@@ -29,7 +29,6 @@ Außer den Schubartiana verwahrt das Stadtarchiv weitere Musikalien, die nicht i
 
 • E-Mail: [Stadtarchiv Aalen](mailto:archiv@aalen.de "Opens window for sending email")
 
-&nbsp;
 
 (Helmut Lauterwasser, September 2017)
 
