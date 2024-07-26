@@ -19,4 +19,4 @@ Abbildungen der Wasserzeichen liegen in der Münchener Arbeitsstelle von RISM in
 
 • Website: [Kirchenamt Celle](https://kirchenamt-celle.de/kontakt/ "Opens external link in new window"){:blank}
 
-Helmut Lauterwasser
+(Helmut Lauterwasser)
