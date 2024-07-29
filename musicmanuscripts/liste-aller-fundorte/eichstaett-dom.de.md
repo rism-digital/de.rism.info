@@ -15,7 +15,7 @@ Die Musikalien des Doms werden heute in der Universitätsbibliothek Eichstätt (
 
 • Zuständig: RISM-Arbeitsstelle München
 
-• Website: [Universitätsbibliothek Eichstätt](http://www.ku-eichstaett.de/bibliothek/allgemein/standorte/handschriftenabteilung/musikhandschriften/ "Opens external link in new window"){:blank}
+• Website: [Universitätsbibliothek Eichstätt](https://www.ku.de/bibliothek "Opens external link in new window"){:blank}
 
 &nbsp;
 
