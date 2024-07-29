@@ -460,17 +460,17 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%">Eichstätt, Benediktinerinnen-Abtei St. Walburg, Bibliothek</td>
+         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/eichstaett-walburg.html" title="Opens internal link in current window" target="_self">Eichstätt, Benediktinerinnen-Abtei St. Walburg, Bibliothek/a></td>
          <td valign="top" width="13%">D-Ew</td>
          <td valign="top" width="21%">KBM 11/1</td>
       </tr>
       <tr>
-         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/eichstaett.html#c1872" title="Opens internal link in current window" target="_self">Eichstätt, Dom</a> (Depositum in: D-Eu)</td>
+         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/eichstaett-dom.html" title="Opens internal link in current window" target="_self">Eichstätt, Dom</a> (Depositum in: D-Eu)</td>
          <td valign="top" width="13%">D-Ed</td>
          <td valign="top" width="21%">KBM 11/1</td>
       </tr>
       <tr>
-         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/eichstaett.html#c1886" title="Opens internal link in current window" target="_self">Eichstätt, Universitätsbibliothek (Slg. Schlecht)</a></td>
+         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/eichstaett-universitaetsbibliothek.html" title="Opens internal link in current window" target="_self">Eichstätt, Universitätsbibliothek (Slg. Schlecht)</a></td>
          <td valign="top" width="13%">D-Eu</td>
          <td valign="top" width="21%">KBM 11/2-3</td>
       </tr>
