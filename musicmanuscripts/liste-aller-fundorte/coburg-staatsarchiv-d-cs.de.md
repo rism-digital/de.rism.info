@@ -15,7 +15,7 @@ Fast alle Musikalien des ehemaligen Herzoghauses Sachsen-Coburg und Gotha befind
 
 • Zuständig: RISM-Arbeitsstelle München
 
-• Website: [Staatsarchiv Coburg](https://www.gda.bayern.de/service/findmitteldatenbank/Archiv/5)/ "Opens external link in new window"){:blank}, (e-mail: [poststelle@staco.bayern.de](mailto:poststelle@staco.bayern.de "Opens window for sending email"))
+• Website: [Staatsarchiv Coburg](https://www.gda.bayern.de/coburg)/ "Opens external link in new window"){:blank}, (e-mail: [poststelle@staco.bayern.de](mailto:poststelle@staco.bayern.de "Opens window for sending email"))
 
 (Helmut Lauterwasser, 26.05.2014)
 
