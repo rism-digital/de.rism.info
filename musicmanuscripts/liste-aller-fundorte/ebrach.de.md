@@ -13,11 +13,11 @@ Das katholische Pfarramt verwahrt die Musikhandschriften des ehemaligen Zisterzi
 
 • Zuständig: RISM-Arbeitsstelle München
 
-**Literatur**
+&nbsp;
+
+Literatur:
 
 Rudolf Laugg: _Studien zur Instrumentalmusik im Zisterzienserkloster Ebrach in der 2. Hälfte des 18. Jahrhundert_, Diss. Erlangen 1953
-
-&nbsp;
 
 (Armin Brinzing, Mai 2011)
 
