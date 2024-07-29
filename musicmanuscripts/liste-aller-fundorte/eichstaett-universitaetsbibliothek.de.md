@@ -13,7 +13,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/eichstaett-universitaetsbibli
 
 Die Universitätsbibliothek besitzt mehrere Bestände mit historischen Musikhandschriften, darunter als Depositum die Musikalien des [Eichstätter Doms](de/liste-aller-fundorte/eichstaett-dom.html "Opens internal link in current window"). Die Handschriften sind zum Teil in gedruckten Katalogen verzeichnet (siehe Literatur). 
 
-In den Jahren 2009-2012 wurden die Daten des Katalogs der "Sammlung Raymund Schlecht" (Christoph Großpietsch) in den RISM OPAC eingearbeitet udn sind dort recherchierbar. Die weiteren Handschriften sind nicht bei RISM verzeichnet.
+In den Jahren 2009-2012 wurden die Daten des Katalogs der "Sammlung Raymund Schlecht" (Christoph Großpietsch) in den RISM OPAC eingearbeitet und sind dort recherchierbar. Die weiteren Handschriften sind nicht bei RISM verzeichnet.
 
 • Zuständig: RISM-Arbeitsstelle München
 
