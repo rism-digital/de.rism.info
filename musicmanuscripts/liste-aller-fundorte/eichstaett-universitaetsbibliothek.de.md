@@ -17,7 +17,7 @@ In den Jahren 2009-2012 wurden die Daten des Katalogs der "Sammlung Raymund Schl
 
 • Zuständig: RISM-Arbeitsstelle München
 
-• Website: [Universitätsbibliothek Eichstätt](http://www.ku-eichstaett.de/bibliothek/allgemein/standorte/handschriftenabteilung/musikhandschriften/ "Opens external link in new window"){:blank}
+• Website: [Universitätsbibliothek Eichstätt](https://www.ku.de/bibliothek "Opens external link in new window"){:blank}
 
 &nbsp;
 

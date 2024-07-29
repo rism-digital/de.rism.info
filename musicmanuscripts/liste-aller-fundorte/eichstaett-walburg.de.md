@@ -15,7 +15,7 @@ Mikrofilme der Musikhandschriften sind in der Bayerischen Staatsbibliothek vorha
 
 • Zuständig: RISM-Arbeitsstelle München
 
-• Website: [Benediktinerinnen-Abtei St. Walburg](https://www.abtei-st-walburg.de/kloesterliches-leben/bibliothek/ "Opens external link in new window"){:blank}
+• Website: [Benediktinerinnen-Abtei St. Walburg](https://www.abtei-st-walburg.de/startseite/ "Opens external link in new window"){:blank}
 
 &nbsp;
 
