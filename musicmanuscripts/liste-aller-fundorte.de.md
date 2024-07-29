@@ -350,12 +350,12 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%">Coburg, Landesbibliothek</a><br>(mit D-Cm)</td>
+         <td valign="top" width="51%">Coburg, Landesbibliothek<br>(mit D-Cm)</td>
          <td valign="top" width="13%">D-Cl</td>
          <td valign="top" width="21%">KBM 20 / RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1">Coburg, Moritzkirche, Pfarrbibliothek</a><br>(in: D-Cl)</td>
+         <td valign="top" width="51%" rowspan="1">Coburg, Moritzkirche, Pfarrbibliothek<br>(in: D-Cl)</td>
          <td valign="top" width="13%" rowspan="1">D-Cm</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
