@@ -11,9 +11,11 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/dresden-saechsische-staatsope
 
 Die Noten aus dem historischen Bestand der Sächsischen Staatsoper wurden ab 1930 an die Sächsische Landesbibliothek (D-Dl) abgegeben. Dieser Vorgang konnte im Jahr 1979 mit der Übergabe von Uraufführungsstimmen der Werke Richard Wagners im wesentlichen abgeschlossen werden. Ein kleiner Teil von ca. 70 historischen Aufführungsmaterialien verblieb im Notenarchiv der Sächsischen Staatsoper und wurde im Rahmen des DFG-Projekts „Das Dresdner Opernarchiv“ für RISM durch Ortrun Landmann erfasst.
 
-• Zuständig: [RISM-Arbeitsstelle Dresden](mailto:andrea.hartmann@slub-dresden.de "Opens window for sending email").
+• Zuständig: RISM-Arbeitsstelle Dresden
 
 • Website: [Sächsische Staatsoper](http://www.semperoper.de/uslugi/kontakt/orkestr-drezdenskoi-opery-saksonskaja-gosudarstvennaja-kapella.html "Opens external link in new window")
+
+&nbsp;
 
 Literatur:
 
