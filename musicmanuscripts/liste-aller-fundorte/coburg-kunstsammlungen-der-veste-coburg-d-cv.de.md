@@ -17,7 +17,7 @@ Die Autographensammlung geht zurück auf die Brüder Albert und Ernst von Sachse
 
 • Zuständig: RISM-Arbeitsstelle München
 
-• Website:[Kunstsammlungen der Veste Coburg](http://www.kunstsammlungen-coburg.de/ "Opens external link in new window"){:blank} (e-mail: [sekretariat@kunstsammlungen-coburg.de](mailto:sekretariat@kunstsammlungen-coburg.de "Opens window for sending email")
+• Website: [Kunstsammlungen der Veste Coburg](http://www.kunstsammlungen-coburg.de/ "Opens external link in new window"){:blank} (e-mail: [sekretariat@kunstsammlungen-coburg.de](mailto:sekretariat@kunstsammlungen-coburg.de "Opens window for sending email"))
 
 &nbsp;
 
