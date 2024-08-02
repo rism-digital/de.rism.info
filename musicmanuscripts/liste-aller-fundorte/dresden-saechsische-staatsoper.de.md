@@ -13,7 +13,7 @@ Die Noten aus dem historischen Bestand der Sächsischen Staatsoper wurden ab 193
 
 • Zuständig: RISM-Arbeitsstelle Dresden
 
-• Website: [Sächsische Staatsoper](http://www.semperoper.de/uslugi/kontakt/orkestr-drezdenskoi-opery-saksonskaja-gosudarstvennaja-kapella.html "Opens external link in new window")
+• Website: [Sächsische Staatsoper](www.semperoper.de "Opens external link in new window"){:blank}
 
 &nbsp;
 
