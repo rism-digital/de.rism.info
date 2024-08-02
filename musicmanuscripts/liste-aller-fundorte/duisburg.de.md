@@ -13,7 +13,7 @@ Die Musikhandschriften der Stadtbibliothek Duisburg wurden 1975 von E. Thurmann 
 
 • Zuständig: RISM-Arbeitsstelle München
 
-• Website: [Stadtbibliothek Duisburg](http://www.duisburg.de/micro/stadtbibliothek/medienangebote/musikbibliothek.php "Opens external link in new window")
+• Website: [Stadtbibliothek Duisburg](https://www.duisburg.de/microsites/stadtbibliothek/standorte/musikbibliothek.php "Opens external link in new window"){:blank}
 
 (Armin Brinzing, Mai 2011)
 
