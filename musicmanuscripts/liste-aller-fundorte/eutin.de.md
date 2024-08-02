@@ -13,7 +13,7 @@ Die Musikhandschriften der Eutiner Landesbibliothek (früher "Kreisbibliothek") 
 
 • Zuständig: RISM-Arbeitsstelle München
 
-• Website: [Eutiner Landesbibliothek](http://www.lb-eutin.de/ "Opens external link in new window")
+• Website: [Eutiner Landesbibliothek](http://www.lb-eutin.de/ "Opens external link in new window"){:blank}
 
 &nbsp;
 

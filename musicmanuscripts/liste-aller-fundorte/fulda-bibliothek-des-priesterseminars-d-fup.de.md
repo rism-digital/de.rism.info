@@ -10,3 +10,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/fulda-bibliothek-des-priester
 # Fulda, Bibliothek des Priesterseminars (D-FUp)
 
 Die Musikhandschriften der Bibliothek des Priesterseminars in Fulda wurden im Jahr 2003 erfasst. Sie sind im RISM-OPAC recherchierbar (38 Musikhandschriften mit insgesamt 919 Titeln). Zugleich wurden auch die Drucke vor 1800 erfasst (39 Titel).
+
+• Zuständig: RISM-Arbeitsstelle München
+
+• Website: [Bibliothek des Bischöflichen Priesterseminars](https://www.thf-fulda.de/bib.html "Opens external link in new window"){:blank}

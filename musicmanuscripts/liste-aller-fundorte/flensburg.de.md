@@ -13,15 +13,15 @@ Im Archiv finden sich einige Sammelhandschriften des 19. Jahrhundert, darunter L
 
 Die Bibliothek ist heute Teil der "Leihverkehrs- und Ergänzungsbibliothek" der Büchereizentrale Schleswig-Holstein.
 
-• Zuständig: &nbsp;RISM-Arbeitsstelle München
+• Zuständig: RISM-Arbeitsstelle München
 
-• Website: [Büchereizentrale Schleswig-Holstein](http://www.bz-sh.de/index.php?option=com_content&view=article&id=140:historische-bestaende&catid=21:allgemeines&Itemid=209 "Opens external link in new window")
-
-**Literatur**
-
-Gerhard Kraack: _Die St. Nikolai-Bibliothek zu Flensburg_, Flensburg 1984
+• Website: [Büchereizentrale Schleswig-Holstein](http://www.bz-sh.de/index.php?option=com_content&view=article&id=140:historische-bestaende&catid=21:allgemeines&Itemid=209 "Opens external link in new window"){:blank}
 
 &nbsp;
+
+Literatur:
+
+Gerhard Kraack: _Die St. Nikolai-Bibliothek zu Flensburg_, Flensburg 1984
 
 (Armin Brinzing, Juni 2011)
 
