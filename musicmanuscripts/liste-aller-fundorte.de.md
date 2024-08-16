@@ -530,7 +530,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a href="/projects/laufende-arbeiten.html#c3731" title="Opens internal link in current window" target="_self">Flensburg, Stadtarchiv</a></td>
+         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/flensburg-stadtarchiv.html" title="Opens internal link in current window" target="_self">Flensburg, Stadtarchiv</a></td>
          <td valign="top" width="13%" rowspan="1">D-FLa</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
