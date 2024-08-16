@@ -20,7 +20,7 @@ Der Bestand wurde 2016/2017 von Undine Wagner für RISM katalogisiert.
 
 • Zuständig: RISM-Arbeitsstelle Dresden
 
-• Website: [Thüringisches Landesmusikarchiv](https://www.hfm-weimar.de/studierende/meine-hochschule/hochschularchiv-thueringisches-landesmusikarchiv.html "Opens external link in new window"){:blank}
+• Website: [Thüringisches Landesmusikarchiv](https://www.hfm-weimar.de/hochschule/hochschularchiv-landesmusikarchiv "Opens external link in new window"){:blank}
 
 &nbsp;
 
