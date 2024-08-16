@@ -919,24 +919,6 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
-         <td rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/koeln-d-knh.html#c2494" title="Opens internal link in current window" target="_self">Köln, Hochschule für Musik und Tanz, Bibliothek</a></td>
-         <td valign="top" width="51%" rowspan="1">D-KNh</td>
-         <td valign="top" width="13%" rowspan="1">RISM-OPAC</td>
-         <td valign="top" width="21%" rowspan="1"></td>
-      </tr>
-      <tr>
-         <td><a href="/musicmanuscripts/liste-aller-fundorte/koeln-d-knmi.html#c2521" title="Opens internal link in current window" target="_self">Köln, Musikwissenschaftliches Institut der Universität</a></td>
-         <td valign="top" width="51%" rowspan="1">D-KNmi</td>
-         <td valign="top" width="13%" rowspan="1">RISM-OPAC</td>
-         <td valign="top" width="21%" rowspan="1"></td>
-      </tr>
-      <tr>
-         <td rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/koeln-d-knu.html" title="Opens internal link in current window" target="_self">Köln, Universitäts- und Stadtbibliothek</a></td>
-         <td valign="top" width="51%" rowspan="1">D-KNu</td>
-         <td valign="top" width="13%" rowspan="1">RISM-OPAC</td>
-         <td valign="top" width="21%" rowspan="1"></td>
-      </tr>
-      <tr>
          <td valign="top" width="51%">Kempten (Allgäu), Evangelisch-lutherisches Pfarramt St. Mang, Kirchenbibliothek</td>
          <td valign="top" width="13%">D-KPk</td>
          <td valign="top" width="21%">RISM-OPAC</td>
@@ -965,6 +947,30 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="51%">Kleineibstadt, Katholische Pfarrei</td>
          <td valign="top" width="13%">D-KES</td>
          <td valign="top" width="21%">RISM-OPAC</td>
+      </tr>
+      <tr>
+         <td rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/koeln-archiv.html" title="Opens internal link in current window" target="_self">Köln, Historisches Archiv</a></td>
+         <td valign="top" width="51%" rowspan="1">D-KNa</td>
+         <td valign="top" width="13%" rowspan="1">RISM-OPAC</td>
+         <td valign="top" width="21%" rowspan="1"></td>
+      </tr>
+      <tr>
+         <td rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/koeln-d-knh.html#c2494" title="Opens internal link in current window" target="_self">Köln, Hochschule für Musik und Tanz, Bibliothek</a></td>
+         <td valign="top" width="51%" rowspan="1">D-KNh</td>
+         <td valign="top" width="13%" rowspan="1">RISM-OPAC</td>
+         <td valign="top" width="21%" rowspan="1"></td>
+      </tr>
+      <tr>
+         <td><a href="/musicmanuscripts/liste-aller-fundorte/koeln-d-knmi.html#c2521" title="Opens internal link in current window" target="_self">Köln, Musikwissenschaftliches Institut der Universität</a></td>
+         <td valign="top" width="51%" rowspan="1">D-KNmi</td>
+         <td valign="top" width="13%" rowspan="1">RISM-OPAC</td>
+         <td valign="top" width="21%" rowspan="1"></td>
+      </tr>
+      <tr>
+         <td rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/koeln-d-knu.html" title="Opens internal link in current window" target="_self">Köln, Universitäts- und Stadtbibliothek</a></td>
+         <td valign="top" width="51%" rowspan="1">D-KNu</td>
+         <td valign="top" width="13%" rowspan="1">RISM-OPAC</td>
+         <td valign="top" width="21%" rowspan="1"></td>
       </tr>
       <tr>
          <td valign="top" width="51%">Königheim, Katholischer Pfarrkirchenchor</td>
