@@ -89,7 +89,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
       </tr>
       <tr>
          <td valign="top" width="51%">
-            <p class="bodytext"><a href="/musicmanuscripts/liste-aller-fundorte/herdringen.html" title="Opens internal link in current window" target="_self">Arnsberg-Herdringen, Schloßbibliothek</a><br>(Bibliotheca Fürstenbergiana)</p>
+            <p class="bodytext"><a href="/musicmanuscripts/liste-aller-fundorte/herdringen.html" title="Opens internal link in current window" target="_self">Arnsberg-Herdringen, Schlossbibliothek</a><br>(Bibliotheca Fürstenbergiana)</p>
          </td>
          <td valign="top" width="13%">D-HRD</td>
          <td valign="top" width="21%">RISM-OPAC</td>
@@ -105,7 +105,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/aschaffenburg.html" title="Opens internal link in current window" target="_self">Aschaffenburg, Schloß Johannisburg, Hofbibliothek</a></td>
+         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/aschaffenburg.html" title="Opens internal link in current window" target="_self">Aschaffenburg, Schloss Johannisburg, Hofbibliothek</a></td>
          <td valign="top" width="13%">D-ASh</td>
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
@@ -714,7 +714,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/haltenbergstetten.html" title="Opens internal link in current window" target="_self">Haltenbergstetten, Schloß (über Niederstetten, Baden-Württemberg), Fürst zu Hohenlohe-Jagstberg'sche Bibliothek; jetzt in: D-Mbs</a></td>
+         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/haltenbergstetten.html" title="Opens internal link in current window" target="_self">Haltenbergstetten, Schloss (über Niederstetten, Baden-Württemberg), Fürst zu Hohenlohe-Jagstberg'sche Bibliothek; jetzt in: D-Mbs</a></td>
          <td valign="top" width="13%">D-HL</td>
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
@@ -799,7 +799,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/harburg.html" title="Opens internal link in current window" target="_self">Harburg (Schwaben), Fürstlich Öttingen-Wallerstein'sche Bibliothek, Schloß Harburg; jetzt in: D-Au</a></td>
+         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/harburg.html" title="Opens internal link in current window" target="_self">Harburg (Schwaben), Fürstlich Öttingen-Wallerstein'sche Bibliothek, Schloss Harburg; jetzt in: D-Au</a></td>
          <td valign="top" width="13%">D-HR</td>
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
@@ -1023,7 +1023,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%">Langenburg (Württemberg), Fürstlich Hohenlohe-Langenburg'sche Schloßbibliothek (in: D-NEhz)</td>
+         <td valign="top" width="51%">Langenburg (Württemberg), Fürstlich Hohenlohe-Langenburg'sche Schlossbibliothek (in: D-NEhz)</td>
          <td valign="top" width="13%">D-LB</td>
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
@@ -1483,7 +1483,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%">Pommersfelden, Graf von Schönbornsche Schloßbibliothek (siehe Wiesentheid)</td>
+         <td valign="top" width="51%">Pommersfelden, Graf von Schönbornsche Schlossbibliothek (siehe Wiesentheid)</td>
          <td valign="top" width="13%">D-PO</td>
          <td valign="top" width="21%">&nbsp;</td>
       </tr>
@@ -1692,7 +1692,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">(<a href="/musicmanuscripts/liste-aller-fundorte/stuttgart.html" title="Opens internal link in current window" target="_self">gedruckter Katalog</a>)</td>
       </tr>
       <tr>
-         <td valign="top" width="51%">Sünching, Schloß</td>
+         <td valign="top" width="51%">Sünching, Schloss</td>
          <td valign="top" width="13%">D-SÜN</td>
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
