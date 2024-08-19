@@ -784,7 +784,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1">Hannover, Gottfried Wilhelm Leibniz Bibliothek - Niedersächsische Landesbibliothe</td>
+         <td valign="top" width="51%" rowspan="1">Hannover, Gottfried Wilhelm Leibniz Bibliothek - Niedersächsische Landesbibliothek</td>
          <td valign="top" width="13%" rowspan="1">D-HVl</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
