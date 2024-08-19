@@ -774,13 +774,13 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/laufende-arbeiten.html#c3826" title="Opens external link in new window" target="_self">Hannover, Forschungszentrum Musik und Gender, Bibliothek</a></td>
-         <td valign="top" width="13%" rowspan="1">D-HVfmg</td>
+         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/hannover-hvh.html#c3141" title="Opens internal link in current window" target="_self">Hannover, Hochschule für Musik, Theater und Medien, Hochschulbibliothek</a> </td>
+         <td valign="top" width="13%" rowspan="1">D-HVh</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/hannover-hvh.html#c3141" title="Opens internal link in current window" target="_self">Hannover, Hochschule für Musik, Theater und Medien, Hochschulbibliothek</a> </td>
-         <td valign="top" width="13%" rowspan="1">D-HVh</td>
+         <td valign="top" width="51%" rowspan="1">Hannover, HMTMH, Forschungszentrum Musik und Gender</a></td>
+         <td valign="top" width="13%" rowspan="1">D-HVfmg</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
