@@ -15,7 +15,7 @@ Ein weiterer Katalog wurde nach der Übernahme eines Teils der Noten von Bartens
 
 Der Bestand wurde 1970 von Gertraut Haberkamp für RISM katalogisiert.
 
-Die Musikhandschriften der Hohenlohe-Jagstberg'sche Bibliothek auf Schloss Haltenbergstetten wurden 1975 von der Bayerischen Staatsbibliothek (D-Mbs) erworben. Sie erhielten dort neue Signaturen (Mus. Ms. 10416 bis 10631), sind aber über die Provenienz "[Schloss, Haltenbergstetten](https://opac.rism.info/search?View=rism&institution=Schloss, Haltenbergstetten "Opens external link in new window"){:blank}" gezielt zu ermitteln.
+Die Musikhandschriften der Hohenlohe-Jagstberg'sche Bibliothek auf Schloss Haltenbergstetten wurden 1975 von der Bayerischen Staatsbibliothek (D-Mbs) erworben. Sie erhielten dort neue Signaturen (Mus. Ms. 10416 bis 10631), sind aber über die Provenienz "[Schloss, Haltenbergstetten](https://opac.rism.info/search?View=rism&institution=Schloss "Opens external link in new window"){:blank}" gezielt zu ermitteln.
 
 Der Verbleib der an ein Antiquariat verkauften (und von RISM erfassten) Musikdrucke ist unbekannt.
 
