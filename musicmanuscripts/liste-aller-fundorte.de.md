@@ -779,12 +779,12 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1">Hannover, HMTMH, Forschungszentrum Musik und Gender</a></td>
+         <td valign="top" width="51%" rowspan="1">Hannover, HMTMH, Forschungszentrum Musik und Gender</td>
          <td valign="top" width="13%" rowspan="1">D-HVfmg</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1">Hannover, Gottfried Wilhelm Leibniz Bibliothek - Niedersächsische Landesbibliothek</a></td>
+         <td valign="top" width="51%" rowspan="1">Hannover, Gottfried Wilhelm Leibniz Bibliothek - Niedersächsische Landesbibliothe</td>
          <td valign="top" width="13%" rowspan="1">D-HVl</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
@@ -829,7 +829,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/herborn.html#c3027" title="Opens internal link in current window" target="_self">Herborn, Bibliothek des&nbsp;Theologischen Seminars der Evangelischen Kirche in Hessen und Nassau</a></td>
+         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/herborn.html#c3027" title="Opens internal link in current window" target="_self">Herborn, Bibliothek des Theologischen Seminars der Evangelischen Kirche in Hessen und Nassau</a></td>
          <td valign="top" width="13%" rowspan="1">D-HN</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
