@@ -20,6 +20,7 @@ Das Deutsche Musikgeschichtliche Archiv hat einen Kurz-Katalog der Sammlung eins
 &nbsp;
 
 Literatur:
+
 Jürgen Kindermann, _Die Musikalien der Bibliotheca Fürstenbergiana zu Herdringen_, Kassel usw. 1987/88 (Deutsches Musikgeschichtliches Archiv Kassel, Katalog der Filmsammlung, Bd. IV, Nrn. 2-3)
 
 (Armin Brinzing, Januar 2011)
