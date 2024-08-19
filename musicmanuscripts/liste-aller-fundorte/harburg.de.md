@@ -6,7 +6,6 @@ old_url: 'http://de.rism.info/de/liste-aller-fundorte/harburg.html'
 permalink: '/musicmanuscripts/liste-aller-fundorte/harburg.html'
 ---
 
-
 # Harburg, Fürstlich Öttingen-Wallerstein'sche Bibliothek (D-HR)
 
 Die Handschriften wurden 1970-1973 von Gertraut Haberkamp katalogisiert. Ein gedruckter Katalog wurde in der Reihe Kataloge Bayerischer Musiksammlungen veröffentlicht (mit einem Kurzverzeichnis der Drucke), die Daten wurden auch in den RISM OPAC übernommen.
