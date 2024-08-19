@@ -13,13 +13,13 @@ Die Musikhandschriften wurden zwischen 1994 und 2003 von Klaus Kindler katalogis
 
 • Zuständig: RISM-Arbeitsstelle München
 
-•Website: [Stadtbiblilothek Hannover](http://www.hannover.de/stabi/index.html "Opens external link in new window")
-
-**Literatur**
-
-Klaus Kindler: _Die Musikhandschriften mit Sammlung Kestner in der Stadtbibliothek Hannover, Thematischer Katalog, zusammengestellt für RISM und mit einer Einl. vers. von Klaus Kindler_, Hannover&nbsp; 2003 [Auszug aus RISM A/II] &nbsp;
-
-(Armin Brinzing, Mai 2011)
+• Website: [Stadtbibliothek Hannover](http://www.hannover.de/stabi/index.html "Opens external link in new window")
 
 &nbsp;
+
+Literatur:
+
+Klaus Kindler: _Die Musikhandschriften mit Sammlung Kestner in der Stadtbibliothek Hannover, Thematischer Katalog, zusammengestellt für RISM und mit einer Einl. vers. von Klaus Kindler_, Hannover 2003 [Auszug aus RISM A/II] 
+
+(Armin Brinzing, Mai 2011)
 

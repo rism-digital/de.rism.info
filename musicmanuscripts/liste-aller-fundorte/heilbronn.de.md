@@ -13,9 +13,11 @@ Die Musikhandschriften dieser bedeutenden Sammlung (überwiegend aus dem 16. Jah
 
 • Zuständig: RISM-Arbeitsstelle München
 
-• Website: [Stadtarchiv Heilbronn](http://www.stadtarchiv-heilbronn.de/information/ "Öffnet externen Link in neuem Fenster")
+• Website: [Stadtarchiv Heilbronn](https://stadtarchiv.heilbronn.de/startseite.html "Öffnet externen Link in neuem Fenster"):blank}
 
-**Literatur**
+&nbsp;
+
+Literatur:
 
 Ulrich Siegele: _Die Musiksammlung der Stadt Heilbronn_, Heilbronn 1967 (Veröffentlichungen des Archivs der Stadt Heilbronn, Bd. 13)
 

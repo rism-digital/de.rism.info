@@ -6,7 +6,6 @@ old_url: 'http://de.rism.info/de/liste-aller-fundorte/goldbach.html'
 permalink: '/musicmanuscripts/liste-aller-fundorte/goldbach.html'
 ---
 
-
 # Goldbach, Pfarrarchiv (D-GOL) – Depositum in D-WRha
 
 Ein beredtes Zeugnis über die Kirchenmusikpflege im thüringischen Nessetal vom 17. bis zum 19. Jahrhundert ist der reichhaltige Notenbestand aus dem Pfarrarchiv Goldbach, der sich seit 2012 als Depositum im Thüringischen Landesmusikarchiv Weimar befindet. Zu den ältesten Goldbacher Quellen gehört neben einigen Musikdrucken ein in der zweiten Hälfte des 17. Jahrhunderts erstellter Satz handschriftlicher Stimmbücher, von dem noch drei Stimmen als Konvolut erhalten sind: Discant, Tenor und Bass. Die darin enthaltene geistliche, meist mehrchörige Vokalmusik stammt u. a. von Heinrich Schütz, Samuel Scheidt, Andreas Hammerschmidt, Heinrich Hartmann, Johann Rudolph Ahle, Heinrich Grimm, Thomas Selle und Wolfgang Carl Briegel. In Ergänzung dazu kündet auch eine Inventarliste von 1657/58 bereits von einem reichen Notenfundus, der zwar verloren gegangen ist, aber ebenfalls das hohe Niveau der Goldbacher Adjuvantenmusik im 17. Jahrhundert belegt.
@@ -17,17 +16,19 @@ Mit teils noch im 18. Jahrhundert, teils zu Beginn des 19. Jahrhunderts angefert
 
 Unter den Notenkopisten, deren Namen in einigen Handschriften genannt sind, befinden sich Kantoren, die in Goldbach tätig waren, wie Chr. [Christian oder Christoph] Wilhelm Endert (Kantor in Goldbach 1770–1777), sein Nachfolger Heinrich Johann Daniel (im Amt 1777–1813) sowie dessen Sohn und Amtsnachfolger Julius Abel Friedrich Daniel (Kantor in Goldbach 1814–1860). Einige Kompositionen und mehrere Abschriften verschiedener Werke stammen von Johann Heinrich Reif (1769–1830), der im benachbarten Hochheim als Schullehrer und Organist gewirkt hatte.
 
-&nbsp;
-
 Der Bestand wurde 2016/2017 von Undine Wagner für RISM katalogisiert.
 
-• Zuständig: [RISM-Arbeitsstelle Dresden](mailto:undine.wagner@hfm-weimar.de "Opens window for sending email")
+• Zuständig: RISM-Arbeitsstelle Dresden
 
-• Website: [Thüringisches Landesmusikarchiv](https://www.hfm-weimar.de/studierende/meine-hochschule/hochschularchiv-thueringisches-landesmusikarchiv.html "Opens external link in new window")
+• Website: [Thüringisches Landesmusikarchiv](https://www.hfm-weimar.de/hochschule/hochschularchiv-landesmusikarchiv "Opens external link in new window"){:blank}
+
+&nbsp;
 
 Literatur:
 
 Hans Rudolf Jung, „Zur Pflege der Figuralmusik in Goldbach bei Gotha im 17. und 18. Jahrhundert“, in: Reinhard Szeskus (Hrsg.), _Johann Sebastian Bachs Traditionsraum_, Leipzig 1986 (Bach-Studien 9), p.111-141
 
 Undine Wagner, „Der Goldbacher Notenbestand – ein kleiner Einblick in einen großen Schatz“, in: 10. Thüringer Adjuvantentage 2017, Programmheft zu den 10. Thüringer Adjuvantentagen in Goldbach und Bufleben (8. – 10. 9. 2017), hrsg. von der Academia Musicalis Thuringiae e. V., Weimar und Erfurt 2017, p. 12f.
+
+(Undine Wagner, 2017)
 

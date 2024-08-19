@@ -13,21 +13,17 @@ Zum Bestand der Sondersammlungen der Universitäts- und Landesbibliothek Halle g
 
 RISM erfasste die Handschriften seit den 1970er Jahren, allerdings immer wieder mit Unterbrechungen, so dass die Arbeit erst im Jahr 2014 abgeschlossen werden konnte.
 
-In der Universitäts- und Landesbibliothek Halle werden zudem als Depositum&nbsp;die historischen Notenbestände aus dem Institut für Musikwissenschaft der Universität Halle (D-HAmi) aufbewahrt.
+In der Universitäts- und Landesbibliothek Halle werden zudem als Depositum die historischen Notenbestände aus dem Institut für Musikwissenschaft der Universität Halle (D-HAmi) aufbewahrt.
 
-• Zuständig: [RISM-Arbeitsstelle Dresden](mailto:andrea.hartmann@slub-dresden.de "Opens window for sending email")
+• Zuständig: RISM-Arbeitsstelle Dresden
 
-• Website:[Universitäts- und Landesbibliothek](http://bibliothek.uni-halle.de/sammlungen/sondersammlungen/ "Opens external link in new window")
+• Website: [Universitäts- und Landesbibliothek](http://bibliothek.uni-halle.de/sammlungen/sondersammlungen/ "Opens external link in new window"){:blank}
 
-Literatur
+&nbsp;
 
-Michael Maul: _Arno Werner zum Gedächtnis_, in: Musikgeschichte im Zeichen der Reformation : Magdeburg - ein kulturelles Zentrum in der mitteldeutschen Musiklandschft, hrsg. von Peter Wollny, Beeskow 2006 (Ständige Konferenz Mitteldeutsche Barockmusik, Jahrbuch 2005), S. 319-326
+Literatur:
+
+Michael Maul: _Arno Werner zum Gedächtnis_, in: Musikgeschichte im Zeichen der Reformation: Magdeburg - ein kulturelles Zentrum in der mitteldeutschen Musiklandschft, hrsg. von Peter Wollny, Beeskow 2006 (Ständige Konferenz Mitteldeutsche Barockmusik, Jahrbuch 2005), S. 319-326
 
 (Andrea Hartmann, 2014)
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 

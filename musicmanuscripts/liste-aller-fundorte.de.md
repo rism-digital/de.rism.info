@@ -89,7 +89,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
       </tr>
       <tr>
          <td valign="top" width="51%">
-            <p class="bodytext"><a href="/musicmanuscripts/liste-aller-fundorte/herdringen.html" title="Opens internal link in current window" target="_self">Arnsberg-Herdringen, Schloßbibliothek</a><br>(Bibliotheca Fürstenbergiana)</p>
+            <p class="bodytext"><a href="/musicmanuscripts/liste-aller-fundorte/herdringen.html" title="Opens internal link in current window" target="_self">Arnsberg-Herdringen, Schlossbibliothek</a><br>(Bibliotheca Fürstenbergiana)</p>
          </td>
          <td valign="top" width="13%">D-HRD</td>
          <td valign="top" width="21%">RISM-OPAC</td>
@@ -105,7 +105,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/aschaffenburg.html" title="Opens internal link in current window" target="_self">Aschaffenburg, Schloß Johannisburg, Hofbibliothek</a></td>
+         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/aschaffenburg.html" title="Opens internal link in current window" target="_self">Aschaffenburg, Schloss Johannisburg, Hofbibliothek</a></td>
          <td valign="top" width="13%">D-ASh</td>
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
@@ -530,7 +530,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a href="/projects/laufende-arbeiten.html#c3731" title="Opens internal link in current window" target="_self">Flensburg, Stadtarchiv</a></td>
+         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/flensburg-stadtarchiv.html" title="Opens internal link in current window" target="_self">Flensburg, Stadtarchiv</a></td>
          <td valign="top" width="13%" rowspan="1">D-FLa</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
@@ -714,7 +714,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/haltenbergstetten.html" title="Opens internal link in current window" target="_self">Haltenbergstetten, Schloß (über Niederstetten, Baden-Württemberg), Fürst zu Hohenlohe-Jagstberg'sche Bibliothek; jetzt in: D-Mbs</a></td>
+         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/haltenbergstetten.html" title="Opens internal link in current window" target="_self">Haltenbergstetten, Schloss (über Niederstetten, Baden-Württemberg), Fürst zu Hohenlohe-Jagstberg'sche Bibliothek; jetzt in: D-Mbs</a></td>
          <td valign="top" width="13%">D-HL</td>
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
@@ -774,17 +774,17 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/laufende-arbeiten.html#c3826" title="Opens external link in new window" target="_self">Hannover, Forschungszentrum Musik und Gender, Bibliothek</a></td>
-         <td valign="top" width="13%" rowspan="1">D-HVfmg</td>
-         <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
-      </tr>
-      <tr>
          <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/hannover-hvh.html#c3141" title="Opens internal link in current window" target="_self">Hannover, Hochschule für Musik, Theater und Medien, Hochschulbibliothek</a> </td>
          <td valign="top" width="13%" rowspan="1">D-HVh</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/laufende-arbeiten.html#c3350" title="Opens internal link in current window" target="_self">Hannover, Gottfried Wilhelm Leibniz Bibliothek - Niedersächsische Landesbibliothek</a></td>
+         <td valign="top" width="51%" rowspan="1">Hannover, HMTMH, Forschungszentrum Musik und Gender</td>
+         <td valign="top" width="13%" rowspan="1">D-HVfmg</td>
+         <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
+      </tr>
+      <tr>
+         <td valign="top" width="51%" rowspan="1">Hannover, Gottfried Wilhelm Leibniz Bibliothek - Niedersächsische Landesbibliothek</td>
          <td valign="top" width="13%" rowspan="1">D-HVl</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
@@ -799,7 +799,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/harburg.html" title="Opens internal link in current window" target="_self">Harburg (Schwaben), Fürstlich Öttingen-Wallerstein'sche Bibliothek, Schloß Harburg; jetzt in: D-Au</a></td>
+         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/harburg.html" title="Opens internal link in current window" target="_self">Harburg (Schwaben), Fürstlich Oettingen-Wallersteinsche Bibliothek, Schloss Harburg; jetzt in: D-Au</a></td>
          <td valign="top" width="13%">D-HR</td>
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
@@ -829,7 +829,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/herborn.html#c3027" title="Opens internal link in current window" target="_self">Herborn, Bibliothek des&nbsp;Theologischen Seminars der Evangelischen Kirche in Hessen und Nassau</a></td>
+         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/herborn.html#c3027" title="Opens internal link in current window" target="_self">Herborn, Bibliothek des Theologischen Seminars der Evangelischen Kirche in Hessen und Nassau</a></td>
          <td valign="top" width="13%" rowspan="1">D-HN</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
@@ -919,24 +919,6 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
-         <td rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/koeln-d-knh.html#c2494" title="Opens internal link in current window" target="_self">Köln, Hochschule für Musik und Tanz, Bibliothek</a></td>
-         <td valign="top" width="51%" rowspan="1">D-KNh</td>
-         <td valign="top" width="13%" rowspan="1">RISM-OPAC</td>
-         <td valign="top" width="21%" rowspan="1"></td>
-      </tr>
-      <tr>
-         <td><a href="/musicmanuscripts/liste-aller-fundorte/koeln-d-knmi.html#c2521" title="Opens internal link in current window" target="_self">Köln, Musikwissenschaftliches Institut der Universität</a></td>
-         <td valign="top" width="51%" rowspan="1">D-KNmi</td>
-         <td valign="top" width="13%" rowspan="1">RISM-OPAC</td>
-         <td valign="top" width="21%" rowspan="1"></td>
-      </tr>
-      <tr>
-         <td rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/koeln-d-knu.html" title="Opens internal link in current window" target="_self">Köln, Universitäts- und Stadtbibliothek</a></td>
-         <td valign="top" width="51%" rowspan="1">D-KNu</td>
-         <td valign="top" width="13%" rowspan="1">RISM-OPAC</td>
-         <td valign="top" width="21%" rowspan="1"></td>
-      </tr>
-      <tr>
          <td valign="top" width="51%">Kempten (Allgäu), Evangelisch-lutherisches Pfarramt St. Mang, Kirchenbibliothek</td>
          <td valign="top" width="13%">D-KPk</td>
          <td valign="top" width="21%">RISM-OPAC</td>
@@ -965,6 +947,30 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="51%">Kleineibstadt, Katholische Pfarrei</td>
          <td valign="top" width="13%">D-KES</td>
          <td valign="top" width="21%">RISM-OPAC</td>
+      </tr>
+      <tr>
+         <td rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/koeln-archiv.html" title="Opens internal link in current window" target="_self">Köln, Historisches Archiv</a></td>
+         <td valign="top" width="51%" rowspan="1">D-KNa</td>
+         <td valign="top" width="13%" rowspan="1">RISM-OPAC</td>
+         <td valign="top" width="21%" rowspan="1"></td>
+      </tr>
+      <tr>
+         <td rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/koeln-d-knh.html#c2494" title="Opens internal link in current window" target="_self">Köln, Hochschule für Musik und Tanz, Bibliothek</a></td>
+         <td valign="top" width="51%" rowspan="1">D-KNh</td>
+         <td valign="top" width="13%" rowspan="1">RISM-OPAC</td>
+         <td valign="top" width="21%" rowspan="1"></td>
+      </tr>
+      <tr>
+         <td><a href="/musicmanuscripts/liste-aller-fundorte/koeln-d-knmi.html#c2521" title="Opens internal link in current window" target="_self">Köln, Musikwissenschaftliches Institut der Universität</a></td>
+         <td valign="top" width="51%" rowspan="1">D-KNmi</td>
+         <td valign="top" width="13%" rowspan="1">RISM-OPAC</td>
+         <td valign="top" width="21%" rowspan="1"></td>
+      </tr>
+      <tr>
+         <td rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/koeln-d-knu.html" title="Opens internal link in current window" target="_self">Köln, Universitäts- und Stadtbibliothek</a></td>
+         <td valign="top" width="51%" rowspan="1">D-KNu</td>
+         <td valign="top" width="13%" rowspan="1">RISM-OPAC</td>
+         <td valign="top" width="21%" rowspan="1"></td>
       </tr>
       <tr>
          <td valign="top" width="51%">Königheim, Katholischer Pfarrkirchenchor</td>
@@ -1017,7 +1023,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%">Langenburg (Württemberg), Fürstlich Hohenlohe-Langenburg'sche Schloßbibliothek (in: D-NEhz)</td>
+         <td valign="top" width="51%">Langenburg (Württemberg), Fürstlich Hohenlohe-Langenburg'sche Schlossbibliothek (in: D-NEhz)</td>
          <td valign="top" width="13%">D-LB</td>
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
@@ -1167,7 +1173,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a href="/projects/laufende-arbeiten.html#c3151" title="Opens internal link in current window" target="_self">Marburg, Staatsarchiv und Archivschule</a>*</td>
+         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/marburg-staatsarchiv.html" title="Opens internal link in current window" target="_self">Marburg, Hessisches Staatsarchiv</a></td>
          <td valign="top" width="13%" rowspan="1">D-MGs</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
@@ -1477,7 +1483,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%">Pommersfelden, Graf von Schönbornsche Schloßbibliothek (siehe Wiesentheid)</td>
+         <td valign="top" width="51%">Pommersfelden, Graf von Schönbornsche Schlossbibliothek (siehe Wiesentheid)</td>
          <td valign="top" width="13%">D-PO</td>
          <td valign="top" width="21%">&nbsp;</td>
       </tr>
@@ -1686,7 +1692,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">(<a href="/musicmanuscripts/liste-aller-fundorte/stuttgart.html" title="Opens internal link in current window" target="_self">gedruckter Katalog</a>)</td>
       </tr>
       <tr>
-         <td valign="top" width="51%">Sünching, Schloß</td>
+         <td valign="top" width="51%">Sünching, Schloss</td>
          <td valign="top" width="13%">D-SÜN</td>
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
