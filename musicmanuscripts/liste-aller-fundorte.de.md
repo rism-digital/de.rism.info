@@ -799,7 +799,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/harburg.html" title="Opens internal link in current window" target="_self">Harburg (Schwaben), Fürstlich Öttingen-Wallerstein'sche Bibliothek, Schloss Harburg; jetzt in: D-Au</a></td>
+         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/harburg.html" title="Opens internal link in current window" target="_self">Harburg (Schwaben), Fürstlich Oettingen-Wallersteinsche Bibliothek, Schloss Harburg; jetzt in: D-Au</a></td>
          <td valign="top" width="13%">D-HR</td>
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
