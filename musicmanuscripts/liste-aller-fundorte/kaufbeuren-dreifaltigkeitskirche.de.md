@@ -13,3 +13,6 @@ Das Archiv der Kaufbeurer Dreifaltigkeitskirche verwahrt einen interessanten Bes
 
 Der Bestand wurde zwischen 2006 und 2010 von Armin Brinzing katalogisiert.
 
+• Zuständig: RISM-Arbeitsstelle München
+
+• Website: [Dreifaltigkeitskirche Kaufbeuren](https://www.dreifaltigkeitskirche-kaufbeuren.de/dreifaltigkeitskirche-kaufbeuren/kontakte/kirchenarchiv "Opens external link in new window"){:blank}
