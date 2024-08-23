@@ -12,5 +12,5 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/landshut-franziskaner-konvent
 
 Der Franziskanerkonvent bei Maria Loreto geht auf eine Klostergründung der Kapuzinerinnen aus dem Jahr 1627 zurück. Dieses Kapuzinerinnenkloster wurde 1802, im Zuge der Säkularisation aufgelöst. 1835 zogen dann Franziskaner (OFM) in die noch vorhandenen Klostergebäude ein. Die Klosterkirche und weite Teile der Anlage wurden im Zweiten Weltkrieg stark zerstört. Im Jahr 2002 zogen die Franziskaner aus. Seither wird die Kirche von der rumänisch-orthodoxen Kirche genutzt. Der Bestand an Musikalien stammt fast ausschließlich aus der Zeit des Franziskanerkonvents. Dabei sind Musikhandschriften und Drucke vermischt in Archivkartons aufbewahrt. Die ca. 220 Musikalien haben eine fortlaufende Nummernfolge, wobei aber zahlreiche Nummern fehlen. Aus Gründen der Vollständigkeit wurden alle Musikalien aufgenommen.
 
-[Nach oben](#)
+• Zuständig: RISM-Arbeitsstelle München
 
