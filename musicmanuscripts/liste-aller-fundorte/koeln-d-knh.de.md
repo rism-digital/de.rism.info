@@ -18,7 +18,7 @@ Die Katalogisierung der Sammlung wurde im Frühjahr 2014 abgeschlossen.
 
 • Zuständig: RISM-Arbeitsstelle München
 
-• Website: [Bibliothek der Hochschule für Musik und Tanz Köln](https://www.hfmt-koeln.de/bibliothek/) "Opens external link in new window"){:blank}
+• Website: [Bibliothek der Hochschule für Musik und Tanz Köln](https://www.hfmt-koeln.de/bibliothek/ "Opens external link in new window"){:blank}
 
 &nbsp;
 
