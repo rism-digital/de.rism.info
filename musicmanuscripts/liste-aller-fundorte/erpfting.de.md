@@ -9,9 +9,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/erpfting.html'
 
 # Landsberg am Lech-Erpfting, Katholische Pfarrkirche (D-ERP)
 
-Die Musikhandschriften der katholischen Pfarrkirche in Erpfting wurden 1978 im Rahmen eines von Robert Münster geleiteten Forschungsprojekts katalogisiert. Eine Veröffentlichung in Band 16 der Reihe Kataloge Bayerischer Musiksammlungen war geplant, wird aber voraussichtlich nicht realisiert werden können.
-
-Die im Rahmen des Projekts erstellten Katalogkarten befinden sich bei der RISM-Arbeitsstelle München, eine Kopie besitzt des Archiv des Bistums Augsburg.
+Die Musikhandschriften der katholischen Pfarrkirche in Erpfting wurden 1978 im Rahmen eines von Robert Münster geleiteten Forschungsprojekts katalogisiert. Die im Rahmen des Projekts erstellten Katalogkarten befinden sich bei der RISM-Arbeitsstelle München, eine Kopie besitzt des Archiv des Bistums Augsburg.
 
 Die Originalhandschriften befinden sich heute im Archiv des Bistums Augsburg (D-Aab), Mikrofilme der Handschriften sind in der Bayerischen Staatsbibliothek vorhanden und können dort in der [Musikabteilung](https://www.bsb-muenchen.de/sammlungen/musik/ "Öffnet externen Link in neuem Fenster"){:blank} eingesehen werden.
 
