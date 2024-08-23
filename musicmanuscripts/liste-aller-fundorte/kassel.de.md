@@ -7,9 +7,13 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/kassel.html'
 ---
 
 
-# Kassel, Gesamthochschul-Bibliothek, Landesbibliothek und Murhardsche Bibliothek (D-Kl)
+# Kassel, Universitätsbibliothek, Landesbibliothek und Murhardsche Bibliothek (D-Kl)
 
 Die Handschriften dieses Bestandes sind bei RISM bislang nicht nachgewiesen. Es liegt ein gedruckter Katalog von Clytus Gottwald vor. Auch von Musikdrucken der Kasseler Hofkapelle liegt ein gedruckter Katalog vor.
+
+• Zuständig: RISM-Arbeitsstelle München
+
+• Website: [Universitätsbibliothek Kassel](https://www.uni-kassel.de/ub/ "Opens external link in new window"){:blank}
 
 &nbsp;
 
