@@ -14,11 +14,11 @@ Die über 500 Handschriften überwiegend aus dem 18. Jahrhundert dokumentieren d
 
 • Zuständig: RISM-Arbeitsstelle Dresden
 
-• Website: [Nikolaikirche Luckau.](http://www.kirche-luckau.de/ "Öffnet externen Link in neuem Fenster"){:blank}
+• Website: [Nikolaikirche Luckau](http://www.kirche-luckau.de/ "Öffnet externen Link in neuem Fenster"){:blank}
 
 &nbsp;
 
-Literatur
+Literatur:
 
 Paulke, Karl: _Musikpflege in Luckau : Neue Beiträge zur Musikgeschichte der Niederlausitz_, in: Niederlausitzer Mitteilungen. Zeitschrift der Niederlausitzer Gesellschaft für Anthropologie und Altertumskunde, vol.14 1918/1919, Guben 1920, p.73-150.
 
