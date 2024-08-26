@@ -10,9 +10,17 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/lichtenberg-haus-marteau.html
 
 # Lichtenberg: Haus Marteau - D-LIBhm
 
-Die Notenhandschrift des Heinrich Nicol Philipp (1769-1840) ist im haus Marteau ausgestellt und erfreut sich großem Interesse. Die insgesamt 172 Stücke umfassende Handschrift enthält zu Beginn&nbsp;neben propädeutischen Bemerkungen zur Musiktheorie, wie Takt, Pausen, Notennamen auch die Stimmung einer Geige. Deshalb ist von einem Stimmbuch für eine Violine auszugehen, wenn auch ein anderes Instrumente die zahlreichen Tänze ebenso hätte spielen können. Nicht notiert, doch sicherlich mitgespielt haben dabei mindestens ein, wenn nicht weitere Begleitinstrumente. Die Sammlung ist ein wunderbarer Spiegel volksmusikalischer Ausübung und verdient mehr als&nbsp;Beachtung. In den Titeln der RISM-Aufnahmen wurden wegen der Vielzahl der Stücke und ihrer Praxisnähe die physischen Einheiten von Seiten gewahrt oder ganze Lesefelder zusammen aufgenommen und mit Abbildungen dokumentiert.
+Im Haus Marteau ist die Notenhandschrift des Heinrich Nicol Philipp (1769-1840) ausgestellt. Die insgesamt 172 Stücke umfassende Handschrift enthält zu Beginn neben propädeutischen Bemerkungen zur Musiktheorie auch die Stimmung einer Geige, weshalb von einem Stimmbuch für eine Violine auszugehen ist. Nicht notiert wurden weitere Begleitinstrumente, deren Beteiligung dennoch anzunehmen ist. Die Sammlung ist ein wunderbarer Spiegel volksmusikalischer Ausübung. In den Titeln der RISM-Aufnahmen wurden wegen der Vielzahl der Stücke und ihrer Praxisnähe die physischen Einheiten von Seiten gewahrt oder ganze Lesefelder zusammen aufgenommen und mit Abbildungen dokumentiert.
 
-Eine Besprechung der Handschrift erschien von Ulrich Wirz unter dem Titel "Die Notenhandschrift des Heinrich Nicol Philipp (1769-1840)" in&nbsp;"Volksmusik in Bayern" 2016, Heft 1, S. 3-11.
+• Zuständig: RISM-Arbeitsstelle München
+
+• Website: [Haus Marteau](https://haus-marteau.de/ "Opens external link in new window"){:blank}
+
+&nbsp;
+
+Literatur:
+
+Ulrich Wirz: _Die Notenhandschrift des Heinrich Nicol Philipp (1769-1840)_, in: Volksmusik in Bayern, 2016, Heft 1, S. 3-11
 
 (Dezember 2017, Gottfried Heinz-Kronberger)
 
