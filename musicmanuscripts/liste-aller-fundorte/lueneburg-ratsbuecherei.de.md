@@ -18,7 +18,7 @@ Der Bestand wurde 2008-2009 von Helmut Lauterwasser erfasst.
 
 • Zuständig: RISM-Arbeitsstelle München
 
-• Website: [Ratsbücherei Lüneburg](https://www.hansestadt-lueneburg.de/kultur-und-freizeit/kulturhaeuser-und-bibliotheken/ratsbuecherei.html "Opens external link in new window"){:blank} (e-mail: [ratsbuecherei@lueneburg.de](mailto:ratsbuecherei@lueneburg.de "Opens window for sending email")
+• Website: [Ratsbücherei Lüneburg](https://www.hansestadt-lueneburg.de/kultur-und-freizeit/kulturhaeuser-und-bibliotheken/ratsbuecherei.html "Opens external link in new window"){:blank} (e-mail: [ratsbuecherei@lueneburg.de](mailto:ratsbuecherei@lueneburg.de "Opens window for sending email"))
 
 (Helmut Lauterwasser, März 2011)
 
