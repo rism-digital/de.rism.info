@@ -23,3 +23,5 @@ Der Bestand wurde von Daniela Sadgorski im Jahr 2008 katalogisiert.
 
 • Zuständig: RISM-Arbeitsstelle München
 
+• Website: [Abtei Seligenthal](https://abtei.seligenthal.de/ "Opens external link in new window"){:blank}
+

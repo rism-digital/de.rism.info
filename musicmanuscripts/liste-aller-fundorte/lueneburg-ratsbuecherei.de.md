@@ -10,18 +10,16 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/lueneburg-ratsbuecherei.html'
 
 # Lüneburg, Ratsbücherei (D-Lr)
 
+Die musikalischen Handschriften der Ratsbücherei Lüneburg sind vor allem durch ihre Sammlungen aus dem 17. Jahrhundert, die in der sogenannten Neueren deutschen Orgeltabulatur niedergeschrieben sind, einzigartig. Einige dieser Unikate enthalten überwiegend intavolierte Vokalsätze, andere eine bunte Abfolge von kurzen Stücken, vor allem Tänze, aber auch geistliche und weltliche Liedsätze sowie einige Variationszyklen. Außerdem spiegeln zahlreiche Partituren und Stimmen das reichhaltige Musikleben der Hansestadt wider. Neben etlichen unbekannten Kleinmeistern sind darunter so berühmte Namen wie Bach, Haydn, Mozart, Beethoven, Weber oder Hummel vertreten.
 
-Die musikalischen Handschriften der Ratsbücherei Lüneburg sind vor allem durch ihre Sammlungen aus dem 17. Jahrhundert, die in der sogenannten Neueren deutschen Orgeltabulatur niedergeschrieben sind, einzigartig. Einige von ihnen enthalten überwiegend intavolierte Vokalsätze, andere eine bunte Abfolge von kurzen Stücken, vor allem Tänze aber auch geistliche und weltliche Liedsätze sowie einige Variationszyklen. Neben diesen Unikaten spiegeln zahlreiche Partituren und Stimmen das reichhaltige Musikleben der Hansestadt wider. Neben etlichen unbekannten Kleinmeistern sind darunter so berühmte Namen wie Bach, Haydn, Mozart, Beethoven, Weber oder Hummel vertreten.
+Abbildungen der Wasserzeichen liegen in der Münchener Arbeitsstelle von RISM in digitaler Form vor.
 
-Bei Fragen zur Erschließung dieses Bestandes durch RISM wenden Sie sich bitte an Dr. Helmut Lauterwasser, RISM-Arbeitsstelle München (e-mail: [Helmut.Lauterwasser@bsb-muenchen.de](mailto:Helmut.Lauterwasser@bsb-muenchen.de "Opens window for sending email"); Telefon: 089/28638-2884)
+Der Bestand wurde 2008-2009 von Helmut Lauterwasser erfasst.
 
-Bei allen anderen Fragen (Benutzung, Bestellung von Reproduktionen usw.) wenden Sie sich bitte direkt an die [Ratsbücherei Lüneburg](http://www.hansestadtlueneburg.de/Home-Hansestadt-Lueneburg/Gesellschaft-Soziales-und-Bildung/Bildung-hansestadt-lueneburg/Ratsbuecherei-hansestadt-lueneburg.aspx "Opens external link in new window") (e-mail: [ratsbuecherei@lueneburg.de](mailto:ratsbuecherei@lueneburg.de "Opens window for sending email"); Telefon: 04131 309-619)
+• Zuständig: RISM-Arbeitsstelle München
 
-Eine Übersicht aller vorkommenden Wasserzeichen in Tabellenform finden Sie [hier](/fileadmin/content/workgroups/munich/Wasserzeichen%20Lr-gekuerzt.xls "DATEN, Wasserzeichen Lr-gekürzt, Wasserzeichen Lr-gekürzt.xls, 58 KB"). Abbildungen der Wasserzeichen liegen in der Münchener Arbeitsstelle von RISM in digitaler Form vor.
-
-Der Bestand wurde 2008-2009 erfasst von Helmut Lauterwasser.
+• Website: [Ratsbücherei Lüneburg](https://www.hansestadt-lueneburg.de/kultur-und-freizeit/kulturhaeuser-und-bibliotheken/ratsbuecherei.html "Opens external link in new window"){:blank} (e-mail: [ratsbuecherei@lueneburg.de](mailto:ratsbuecherei@lueneburg.de "Opens window for sending email"))
 
 (Helmut Lauterwasser, März 2011)
 
-[Nach oben](#)
 
