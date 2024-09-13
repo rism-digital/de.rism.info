@@ -10,17 +10,21 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/muenchen-collegium-georgianum
 
 # München, Collegium Georgianum (D-Mcg)
 
-In dem 1494 von Herzog Georg dem Reichen von Bayern-Landshut gegründeten Collegium Georgianum spielte die Musik von Anfang an eine bedeutende Rolle. Von den Musikalien selbst ist aber nur wenig erhalten geblieben. Den älteren Bestand dokumentiert jedoch ein erhaltenes Musikalieninventar aus dem Jahr 1674. Darin sind unter anderem prächtige Chorbuchdrucke von Orlando di Lasso, aber auch aktuelle Werke aus Italien und Deutschland verzeichnet.
+In dem 1494 von Herzog Georg dem Reichen von Bayern-Landshut gegründeten Collegium Georgianum spielte die Musik von Anfang an eine bedeutende Rolle. Von den Musikalien selbst ist nur wenig erhalten geblieben, den älteren Bestand dokumentiert jedoch ein erhaltenes Musikalieninventar aus dem Jahr 1674. Darin sind unter anderem prächtige Chorbuchdrucke von Orlando di Lasso, aber auch aktuelle Werke aus Italien und Deutschland verzeichnet.
 
+Unter den erhaltenen Musikhandschriften stehen nur wenige in direkter Verbindung mit der Musikausübung des Collegiums, wie beispielsweise eigens für das Georgianum komponierte Werke von Franz Joseph Barraga (1825-1899). Die meisten der vorhandenen Musikalien kamen wohl im 19. und 20. Jahrhundert als Schenkungen oder Nachlässe an das Georgianum. Darunter befinden sich bedeutende Handschriften des 18. Jahrhunderts mit Werken von Joseph Haydn (aus dem Kloster Herrenchiemsee), Giovanni Battista Pergolesi und Paul Grua (beide aus der fürstbischöflichen Hofkapelle in Freising).
 
-Unter den erhaltenen Musikhandschriften stehen nur wenige in direkter Verbindung mit der Musikausübung des Collegiums. Darunter befinden sich eigens für das Georgianum komponierte Werke von Franz Joseph Barraga (1825-1899). Die meisten der vorhandenen Musikalien kamen wohl im 19. und 20. Jahrhundert als Schenkungen oder Nachlässe an das Georgianum. Darunter befinden sich bedeutende Handschriften des 18. Jahrhunderts mit Werken von Joseph Haydn (aus dem Kloster Herrenchiemsee), Giovanni Battista Pergolesi und Paul Grua (beide aus der fürstbischöflichen Hofkapelle in Freising).
+Die Musikhandschriften dieses Bestandes wurden 2002/03 von Armin Brinzing unter Mitarbeit von Daniela Sadgorski katalogisiert und können über den RISM OPAC recherchiert werden.
 
-Die Musikhandschriften dieses Bestandes wurden 2002/03 von Armin Brinzing unter Mitarbeit von Daniela Sadgorski katalogisiert und können über den [RISM OPAC](http://opac.rism.info/index.php?id=6&tx_bsbsearch_pi1%5Bsmode%5D=advanced&L=&tx_bsbsearch_pi1%5Bfield%5D%5B0%5D=ssiglum&tx_bsbsearch_pi1%5Bquery%5D%5B0%5D=D-Mcg&tx_bsbsearch_pi1%5Bfield%5D%5B1%5D=sauthor&tx_bsbsearch_pi1%5Bquery%5D%5B1%5D=&tx_bsbsearch_pi1%5Bfield%5D%5B2%5D=sauthorlink&tx_bsbsearch_pi1%5Bquery%5D%5B2%5D=&tx_bsbsearch_pi1%5Bsubmit_button%5D=Suche "Opens external link in new window") recherchiert werden.
+Seit 2008 werden die Musikhandschriften vom Archiv der Ludwig-Maximilians-Universität München betreut.
 
-Seit 2008 werden die Musikhandschriften vom [Archiv des Herzoglichen Georgianums](http://www.universitaetsarchiv.uni-muenchen.de/georgianum/index.html "Opens external link in new window") betreut.
+• Zuständig: RISM-Arbeitsstelle München
 
-**Literatur**
+• Website: [Collegium Georgianum im Universitätsarchiv](https://www.universitaetsarchiv.uni-muenchen.de/georgianum/index.html "Opens external link in new window"){:blank}
+
+&nbsp;
+
+Literatur:
 
 Armin Brinzing: _Die Musikpflege am Collegium Georgianum in Ingolstadt, Landshut und München_, in: Musik in Bayern 68 (2004), S. 63-93.
 
- ![](/fileadmin/_processed_/csm_Georgianum_Abb_431823089b.jpg "Georgianum Abb")
