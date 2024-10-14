@@ -26,8 +26,6 @@ Die Handschriften sind bislang nicht im RISM OPAC nachgewiesen.
 
 • Zuständig: RISM-Arbeitsstelle München
 
-• Website: [Universitätsbibliothek Augsburg](http://www.bibliothek.uni-augsburg.de/sondersammlungen/cassianeum/index.html "Opens external link in new window"){:blank}
-
 &nbsp;
 
 Literatur:
