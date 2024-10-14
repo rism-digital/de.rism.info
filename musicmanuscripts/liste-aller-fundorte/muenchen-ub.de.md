@@ -11,8 +11,13 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/muenchen-ub.html'
 
 Die Musikhandschriften der UB München sind bislang nicht bei RISM nachgewiesen. Es liegt ein gedruckter Katalog von Clytus Gottwald vor.
 
+• Zuständig: RISM-Arbeitsstelle München
 
- **Literatur**
+• Website: [Universitätsbibliothek der LMU München](https://www.ub.uni-muenchen.de/ "Opens external link in new window"){:blank}
+
+&nbsp;
+
+Literatur:
 
 Clytus Gottwald: _Die Musikhandschriften der Universitätsbibliothek München_, Wiesbaden 1968 (Die Handschriften der Universitätsbibliothek München, hrsg. von Gerhard Schott, Bd. 2)
 
