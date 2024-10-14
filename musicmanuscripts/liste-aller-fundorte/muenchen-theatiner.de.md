@@ -14,7 +14,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/muenchen-theatiner.html'
        <a href="/images/old/fileadmin/D-Mk_Chorbuch_900x900_700KB.jpg" target="_blank">  <img src="/images/old/fileadmin/D-Mk_Chorbuch_900x900_700KB.jpg"> </a>
       </div>
       <figcaption class="figcaption">
-         Chorbuch, 1. Hälfte 17. Jahrhundert (zum Vergrößern auf das Bild klicken)
+         Chorbuch, 1. Hälfte 17. Jahrhundert
       </figcaption>
    </figure>
 </div>
