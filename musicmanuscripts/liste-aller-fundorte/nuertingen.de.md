@@ -18,7 +18,7 @@ Die Handschriften wurden 2017/2018 für das RISM katalogisiert.
 
 • Zuständig: RISM-Arbeitsstelle München
 
-• Website: [Landeskirchliches Archiv Stuttgart](https://www.archiv.elk-wue.de/ "Opens external link in new window"){:blank}
+• Website: [Turmbibliothek der Nürtinger Stadtkirche](https://www.stadtkirche-nuertingen.de/ueber-uns/stadtkirche-st-laurentius/turmbibliothek "Opens external link in new window"){:blank}
 
 &nbsp;
 
