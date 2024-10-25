@@ -9,10 +9,15 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/oberschoenenfeld.html'
 
 # Oberschönenfeld, Zisterzienserinnenkloster (D-OBS)
 
-Der Bestand des Zisterzienserinnenklosters Oberschönenfeld konnte bislang nicht von RISM katalogisiert werden. Einen Katalog enthält die Dissertation von Jürgen Linsenmeyer.
+Der Bestand des Zisterzienserinnenklosters Oberschönenfeld konnte bislang nicht von RISM katalogisiert werden. Ein Katalog ist in der Dissertation von Jürgen Linsenmeyer enthalten.
 
+• Zuständig: RISM-Arbeitsstelle München
 
- **Literatur**
+• Website: [Zisterzienserinnenabtei Oberschönenfeld](https://abteioberschoenenfeld.de/ "Opens external link in new window"){:blank}
+
+&nbsp;
+
+ Literatur:
 
 Jürgen Linsenmeyer: _Studien zur Musiküberlieferung und Musikpflege im Zisterzienserinnenkloster Oberschönenfeld in der zweiten Hälfte des 18. Jahrhunderts_, Diss. Augsburg 1990
 
