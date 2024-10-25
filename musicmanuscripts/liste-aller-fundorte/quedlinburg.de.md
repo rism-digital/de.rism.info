@@ -13,13 +13,13 @@ Im Kantoreiarchiv St. Benedicti werden 39 Musikhandschriften (18./19. Jahrhunder
 
 Handschriften und Drucke wurden 1996 durch Andrea Hartmann signiert, eingepackt und katalogisiert.
 
-• Zuständig: [RISM-Arbeitsstelle Dresden](mailto:andrea.hartmann@slub-dresden.de "Opens window for sending email").
+• Zuständig: RISM-Arbeitsstelle Dresden
 
-• Website: [Quedlinburg, Stadtkirche](http://www.kirchequedlinburg.de/Menschen/mitarbeiter.php?navanchor=1010008 "Opens external link in new window")
+&nbsp;
 
-_Literatur:_
+Literatur:
 
-Dietz-Rüdiger Moser: 1000 Jahre Musik in Quedlinburg : ein kulturgeschichtlicher Grundriss, München 1994
+Dietz-Rüdiger Moser: _1000 Jahre Musik in Quedlinburg: ein kulturgeschichtlicher Grundriss_, München 1994
 
 (Andrea Hartmann, 2011)
 
