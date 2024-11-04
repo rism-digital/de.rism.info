@@ -23,5 +23,5 @@ Der Bestand wurde im Jahr 2020 von der Münchner RISM-Arbeitsstelle katalogisier
 
 Literatur:
 
-Helmut Lauterwasser: _Johann Michael Closner (1786–1860) und die historischen Musikhandschrif-ten und Musikdrucke im Stadtmuseum Trostberg_, Online-Publikation auf [musiconn](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-743830 "Öffnet externen Link in neuem Fenster"){:blank}.
+Helmut Lauterwasser: _Johann Michael Closner (1786–1860) und die historischen Musikhandschriften und Musikdrucke im Stadtmuseum Trostberg_, Online-Publikation auf [musiconn](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-743830 "Öffnet externen Link in neuem Fenster"){:blank}.
 
