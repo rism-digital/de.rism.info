@@ -10,7 +10,9 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/sachrang.html'
 
 # Sachrang, Müllner Peter Museum (D-SRmmp)
 
-Die Musikaliensammlung des Dorfes Sachrang im Chiemgau (bei Aschau) stammt zum größten Teil aus dem Besitz des Müllers und nebenamtlichen Kirchenmusikers Peter Huber (1766-1843). Seit 1938 liegen die&nbsp;Sachranger Musikalien in der Bayerischen Staatsbibliothek (D-Mbs). Wenige Restbestände, zum Teil von Huber selbst geschriebene Stimmen, verblieben jedoch aus unbekannten Gründen in der Sachranger Kirche, sie werden heute im Peter Huber und seiner Zeit gewidmeten Heimatmuseum des Dorfes, dem Müllner Peter Museum, aufbewahrt. Darunter finden sich auch Einzelstimmen, die in München unvollständig überlieferte Stimmensätze komplettieren. Der Bestand wurde im November 2017 von Steffen Voss katalogisiert.
+Die Musikaliensammlung des Dorfes Sachrang im Chiemgau (bei Aschau) stammt zum größten Teil aus dem Besitz des Müllers und nebenamtlichen Kirchenmusikers Peter Huber (1766-1843). Seit 1938 liegen die Sachranger Musikalien in der Bayerischen Staatsbibliothek (D-Mbs). Wenige Restbestände, zum Teil von Huber selbst geschriebene Stimmen, verblieben jedoch aus unbekannten Gründen in der Sachranger Kirche, sie werden heute im Peter Huber und seiner Zeit gewidmeten Heimatmuseum des Dorfes, dem Müllner Peter Museum, aufbewahrt. Darunter finden sich auch Einzelstimmen, die in München unvollständig überlieferte Stimmensätze komplettieren. Der Bestand wurde im November 2017 von Steffen Voss katalogisiert.
 
-(Steffen Voss, München, November 2017)
+• Zuständig: RISM-Arbeitsstelle München
+
+(Steffen Voss, November 2017)
 

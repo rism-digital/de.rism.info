@@ -11,9 +11,13 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/stuttgart.html'
 
 Die Stuttgarter Musikhandschriften wurden nicht von RISM, sondern im Rahmen von DFG-Projekten katalogisiert und sind daher nicht im RISM OPAC nachgewiesen. Es liegen gedruckte Kataloge von Clytus Gottwald vor.
 
-Weitere Informationen auf der Website der Bibliothek: [Württembergische Landesbibliothek](http://www.wlb-stuttgart.de/sammlungen/musik/literatursuche/handschriften-noten-und-tontraeger/musikhandschriften/ "Opens external link in new window").
+Weitere Informationen auf der Website der Bibliothek: [Württembergische Landesbibliothek](https://www.wlb-stuttgart.de/sammlungen/musik/bestand/musik-und-musikerhandschriften/ "Opens external link in new window"){:blank}.
 
-**Literatur**
+• Zuständig: RISM-Arbeitsstelle München
+
+&nbsp;
+
+Literatur:
 
 Clytus Gottwald: _Die Handschriften der Württembergischen Landesbibliothek, I. Reihe, 1. Band. Codices musici I_, Wiesbaden 1964.
 
