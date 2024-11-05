@@ -7,9 +7,9 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/quedlinburg.html'
 ---
 
 
-# Quedlinburg, Stadtkirche St. Blasii-Benedikti (D-Qbb)
+# Quedlinburg, Marktkirche St. Benedikti (D-Qbb)
 
-Im Kantoreiarchiv St. Benedicti werden 39 Musikhandschriften (18./19. Jahrhundert) und 153 Drucke (unter anderem Bergt, Haydn, Mozart, Schicht, Zumsteeg) aufbewahrt. Die Musikalien stammen in erster Linie aus dem Nachlass des Stadtkantors Johann Heinrich Göroldt (1773-1834).
+Im Kantoreiarchiv St. Benedikti werden 39 Musikhandschriften (18./19. Jahrhundert) und 153 Drucke (unter anderem Bergt, Haydn, Mozart, Schicht, Zumsteeg) aufbewahrt. Die Musikalien stammen in erster Linie aus dem Nachlass des Stadtkantors Johann Heinrich Göroldt (1773-1834).
 
 Handschriften und Drucke wurden 1996 durch Andrea Hartmann signiert, eingepackt und katalogisiert.
 
