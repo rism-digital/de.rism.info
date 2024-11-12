@@ -24,10 +24,9 @@ D-80328 München\
 Project leader: Dr. Reiner Nägele
 
 [Dr. Gottfried Heinz-Kronberger (Head)](mailto:Gottfried.Heinz-Kronberger@bsb-muenchen.de)\
-[Dr. Helmut Lauterwasser](mailto:helmut.lauterwasser@bsb-muenchen.de)\
 [Dr. Steffen Voss](mailto:Steffen.Voss@bsb-muenchen.de)\
 [Alan Dergal Rautenberg](mailto:alan.dergal-rautenberg@sbb.spk-berlin.de)\
-Phone: +49 89 28638-2110, -2884, -2395\
+Phone: +49 89 28638-2110, -2395\
 Fax: +49 89 28638-2479\
 \
 For RIdIM (Répertoire International d'Iconographie Musicale):\
