@@ -18,9 +18,7 @@ permalink: team/dr-helmut-lauterwasser.html
    </figure>
 </div>
 
-Telefon: +49 89 28638 2884
-
-E-Mail: helmut.lauterwasser(at)bsb-muenchen.de
+Seit 01.11.2024 im Ruhestand
 
 - [Vita](/team/vita.html)
 - [Publikationen](/publications/publications-lauterwasser.html)
