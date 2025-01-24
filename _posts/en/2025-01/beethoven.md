@@ -5,7 +5,7 @@ date: 2025-01-24
 lang: en
 post: true
 category: library_collections
-image: "/images/old/Mus.4193-T-608-p1.jpg"
+image: "/images/old/Mus.4193-T-608_p1_xs.jpg"
 email: ''
 author: "Amrei Flechsig"
 ---
