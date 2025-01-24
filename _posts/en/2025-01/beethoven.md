@@ -2,7 +2,7 @@
 layout: post
 title: "Unknown Beethoven sketch leaf acquired by the SLUB Dresden"
 date: 2025-01-24
-lang: de
+lang: en
 post: true
 category: new_at_rism
 image: "/images/old/Mus.4193-T-608_p1.jpg"
