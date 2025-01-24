@@ -10,7 +10,6 @@ email: ''
 author: "Amrei Flechsig"
 ---
 
-
 The Saxon State and University Library (SLUB) has acquired a privately owned Beethoven sketch leaf previously unknown to scholars. It forms part of a [small collection](https://opac.rism.info/rism/Search/Results?lookfor=B%C3%B6hme%2C+Carl+Otto "Opens external link in new window"){:blank} that once belonged to the Saxon music teacher Carl Otto Böhme (1807-1874). The Beethoven autograph [(D-Dl Mus.4193-T-608)](https://opac.rism.info/id/rismid/rism1001299908?sid=33310535 "Opens external link in new window"){:blank} contains sketches for the Piano Sonata op. 27 no. 2 (Sonata quasi una fantasia), better known as "Moonlight Sonata."
 
 Presumably, this single leaf originally belonged to the so-called Sauer sketchbook. The Viennese music dealer Ignaz Sauer (1759–1833) bought the sketchbook at an auction after the composer's death in 1827, apparently in the hope of making good money by cutting it all up and selling the individual leaves. To date it has proved possible to identify 22 of these leaves, some of which are now kept in Bonn, Berlin, Vienna, Cambridge, and Stockholm. As to the whereabouts of some other leaves, however, we are still in the dark.

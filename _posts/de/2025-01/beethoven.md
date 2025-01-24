@@ -20,6 +20,6 @@ Eines dieser fehlenden Skizzenblätter könnte nun wieder aufgetaucht sein: So s
 
 Auf den Bezug zur sogenannten "Mondschein-Sonate" weist auch ein Bleistiftkommentar hin, der unten auf der [Vorderseite des Blattes](http://digital.slub-dresden.de/id1907383972/1 "Opens external link in new window"){:blank} von einem "Jos. Doppler" ergänzt wurde. Vermutlich handelt es sich um Josef Doppler (1791-1869), der in Wien als Mitarbeiter des Verlags Anton Diabelli tätig war.
 
-Auf der [Rückseite des Blattes](http://digital.slub-dresden.de/id1907383972/2 "Opens external link in new window"){:blank} sind mehrere kurze skizzierte Abschnitte notiert, die noch nicht identifiziert werden konnten und möglicherweise verworfene Kompositionsideen sind. Aus den weiteren im Skizzenbuch enthaltenen Werken, wie der Klaviersonate op. 28, dem Streichquintett op. 29 oder der Bagatellen für Klavier op. 33 scheinen diese Takte jedenfalls nicht zu sein.
+Auf der [Rückseite des Blattes](http://digital.slub-dresden.de/id1907383972/2 "Opens external link in new window"){:blank} sind mehrere kurze skizzierte Abschnitte notiert, die noch nicht identifiziert werden konnten und möglicherweise verworfene Kompositionsideen sind. Aus den weiteren im Skizzenbuch enthaltenen Werken, wie der Klaviersonate op. 28, dem Streichquintett op. 29 oder den Bagatellen für Klavier op. 33, scheinen diese Takte jedenfalls nicht zu sein.
 
 *Abbildungen: Digitalisate der SLUB Dresden*
