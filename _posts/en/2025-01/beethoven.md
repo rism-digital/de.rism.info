@@ -4,7 +4,7 @@ title: "Unknown Beethoven sketch leaf acquired by the SLUB Dresden"
 date: 2025-01-24
 lang: en
 post: true
-category: new_at_rism
+category: library_collections
 image: "/images/old/Mus.4193-T-608-p1.jpg"
 email: ''
 author: "Amrei Flechsig"
