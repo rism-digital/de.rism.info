@@ -5,7 +5,7 @@ date: 2025-01-24
 lang: de
 post: true
 category: new_at_rism
-image: "/images/old/Mus.4193-T-608_p1.jpg"
+image: "/images/old/Mus.4193-T-608-p1.jpg"
 email: ''
 author: "Amrei Flechsig"
 ---
@@ -14,10 +14,12 @@ Die Sächsische Landesbibliothek – Staats- und Universitätsbibliothek (SLUB) 
 
 Vermutlich handelt es sich um ein Einzelblatt aus dem sogenannten Sauer-Skizzenbuch. Der Wiener Musikalienhändler Ignaz Sauer (1759-1833) ersteigerte das Skizzenbuch nach dem Tod des Komponisten 1827, allerdings mit der Absicht eines lukrativen Geschäfts: Er zerlegte und verkaufte es in Form von Einzelseiten weiter. Mittlerweile konnten 22 dieser Blätter lokalisiert werden, so befinden sich beispielsweise einzelne von ihnen in Bonn, Berlin, Wien, Cambridge und Stockholm. Doch von einigen Seiten fehlen weiterhin alle Spuren.
 
-{% include image file="/images/old/Mus.4193-T-608_Wasserzeichen.jpg" pos="right" %} 
+{% include image file="/images/old/Mus.4193-T-608-Wasserzeichen.jpg" pos="right" %} 
 
 Eines dieser fehlenden Skizzenblätter könnte nun wieder aufgetaucht sein: So stimmt nicht nur das Papierformat überein, sondern auch die Unregelmäßigkeiten des äußeren Randes der Rastrierung passen zu der Beschreibung des Sauer-Skizzenbuchs. Ein wichtiger Hinweis zu Identifizierung liefert außerdem das [Wasserzeichen](http://digital.slub-dresden.de/id1907383972/3 "Opens external link in new window"){:blank}: Der hier erkennbare siebenarmige Seestern ist Teil der Wasserzeichen des im Skizzenbuch verwendeten Papiers. Schließlich spricht auch der Inhalt für eine Zugehörigkeit zum Sauer-Skizzenbuch: So liegen zur Klaviersonate op. 27, 2, insbesondere zum dritten Satz, mehrere Skizzenblätter aus dem Sauer-Skizzenbuch vor. In diesem Fall handelt es sich um die Schlusstakte des dritten Satzes, wobei die letzten Takte in der Skizze anders verlaufen als in der später veröffentlichten Fassung.
 
 Auf den Bezug zur sogenannten "Mondschein-Sonate" weist auch ein Bleistiftkommentar hin, der unten auf der [Vorderseite des Blattes](http://digital.slub-dresden.de/id1907383972/1 "Opens external link in new window"){:blank} von einem "Jos. Doppler" ergänzt wurde. Vermutlich handelt es sich um Josef Doppler (1791-1869), der in Wien als Mitarbeiter des Verlags Anton Diabelli tätig war.
 
 Auf der [Rückseite des Blattes](http://digital.slub-dresden.de/id1907383972/2 "Opens external link in new window"){:blank} sind mehrere kurze skizzierte Abschnitte notiert, die noch nicht identifiziert werden konnten und möglicherweise verworfene Kompositionsideen sind. Aus den weiteren im Skizzenbuch enthaltenen Werken, wie der Klaviersonate op. 28, dem Streichquintett op. 29 oder der Bagatellen für Klavier op. 33 scheinen diese Takte jedenfalls nicht zu sein.
+
+*Abbildungen: Digitalisate der SLUB Dresden*
