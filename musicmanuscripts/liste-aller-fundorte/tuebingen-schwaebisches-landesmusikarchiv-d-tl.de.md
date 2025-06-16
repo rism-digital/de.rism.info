@@ -9,7 +9,9 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/tuebingen-schwaebisches-lande
 
 # Tübingen, Schwäbisches Landesmusikarchiv (D-Tl)
 
-Das Schwäbische Landesmusikarchiv mit dem RISM-Sigel D-Tl wurde in den Jahren 2005 bis 2007 von RISM, Arbeitsgruppe Deutschland, Arbeitsstelle München bearbeitet. Die Katalogisierung der mehrstimmigen Musikhandschriften stützte sich auf verschiedene Vorarbeiten. Ein Inventar war 1963 unter der Leitung von Walter Gerstenberg erstellt worden. Es fasste das Notenmaterial zusammen, welches von Ernst Fritz Schmid seit Oktober 1935 als Schwäbisches Landesmusikarchiv begründet und in verschiedenen Gemeinden gesammelt wurde. Von diesen Quellen wurden Teile von RISM bereits 1973-75 aufgenommen (1980 fand diese Arbeit eine Fortsetzung). Manfred Hermann Schmid, seit 1986 Ordinarius am Musikwissenschaftlichen Seminar in Tübingen war die Triebfeder, dass ein größerer und erheblicher Teil des Landesmusikarchivs durch Georg Günther katalogisiert und teilweise auch publiziert wurde. In den Jahren 1994ff. erschienen verschiedene Bestandskataloge als Einzelverzeichnisse. So die Bestände aus Weißenau,[1] aus dem Kloster und der Pfarrkirche Ochsenhausen,[2] aus den Klöstern Rot an der Rot und Isny,[3] sowie der Pfarrkirche in Ravensburg.[4] Auf die Katalogisierung dieser bereits publizierten Bestände durch RISM wurde vorerst verzichtet, obwohl in den Veröffentlichungen nur wenige Incipits angegeben wurden und nicht wie bei RISM üblich, für jeden Titel eigene Incipitangaben gemacht werden. Für den Bestand Weingarten ist eine Publikation vorgesehen, weshalb auf die Katalogisierung dieses Bestands ebenfalls verzichtet wurde. Für die Zukunft besteht aber durchaus der Wille, auch die bereits publizierten Kataloge in die Form des digitalen RISM-Katalogs zu übertragen.
+Das Schwäbische Landesmusikarchiv mit dem RISM-Sigel D-Tl wurde in den Jahren 2005 bis 2007 von RISM, Arbeitsgruppe Deutschland, Arbeitsstelle München bearbeitet. Die Katalogisierung der mehrstimmigen Musikhandschriften stützte sich auf verschiedene Vorarbeiten. Ein Inventar war 1963 unter der Leitung von Walter Gerstenberg erstellt worden. Es fasste das Notenmaterial zusammen, welches von Ernst Fritz Schmid seit Oktober 1935 als Schwäbisches Landesmusikarchiv begründet und in verschiedenen Gemeinden gesammelt wurde. 
+
+Manfred Hermann Schmid, seit 1986 Ordinarius am Musikwissenschaftlichen Seminar in Tübingen war die Triebfeder, dass ein größerer und erheblicher Teil des Landesmusikarchivs durch Georg Günther katalogisiert und teilweise auch publiziert wurde. In den Jahren 1994ff. erschienen verschiedene Bestandskataloge als Einzelverzeichnisse, und zwar zu den Beständen aus Weißenau, aus dem Kloster und der Pfarrkirche Ochsenhausen, aus den Klöstern Rot an der Rot und Isny, sowie der Pfarrkirche in Ravensburg. Auf die Katalogisierung dieser bereits publizierten Bestände durch RISM wurde vorerst verzichtet, obwohl in den Veröffentlichungen nur wenige Incipits angegeben wurden und nicht wie bei RISM üblich, für jeden Titel eigene Incipitangaben gemacht werden. Für den Bestand Weingarten ist eine Publikation vorgesehen, weshalb auf die Katalogisierung dieses Bestands ebenfalls verzichtet wurde. Für die Zukunft besteht aber durchaus der Wille, auch die bereits publizierten Kataloge in die Form des digitalen RISM-Katalogs zu übertragen.
 
 Im Folgenden soll eine Bestandsübersicht, dem Inventar von 1963 angelehnt, aufzeigen, welche Vorarbeiten weiter aufgefunden wurden. Teilweise wurden durch vorangegangene Projekte RISM-Daten in die RISM-Kartei aufgenommen, teilweise liegen wie oben erwähnt gedruckte Kataloge vor, und andernteils schließlich stellte Herr Günther freundlicherweise Dateien zur Verfügung, die er bei seiner Tätigkeit im Schwäbischen Landesmusikarchiv angelegt hatte, die aber nicht mehr zur Publikation kommen werden (meistenteils ebenfalls ohne Incipits). Diesen Anteil der Zugänglichmachung des Bestands übernimmt nun RISM, vor allem auch unter Hinzufügung aller Incipits. Das Dateiformat von Herrn Günthers Daten war eine einfache Word-Datei, so dass alle Daten übertragen werden mussten. Zweifelhafte Fälle wurden vor Ort noch einmal recherchiert, zweifelsfreie Daten aus der RISM-Kartei oder aus den Daten Georg Günthers wurden übernommen. Alle anonymen Werke wurden überprüft und es wurde versucht, sie zuzuordnen.
 
@@ -594,21 +596,17 @@ Im Folgenden soll eine Bestandsübersicht, dem Inventar von 1963 angelehnt, aufz
 
 <hr>
 
-[[1]](#_ftnref1) Günther, Georg: _Musikalien aus dem katholischen Pfarramt Weißenau im Schwäbischen Landesmusikarchiv (Tübingen) – Kirchenmusikalische Zeugnisse aus der 1. Hälfte des 19. Jahrhunderts_, in: Musik in Baden-Württemberg, Jahrbuch 1995, S. 193-210.
+Literatur: 
 
-&nbsp;
+Günther, Georg: _Musikalien aus dem katholischen Pfarramt Weißenau im Schwäbischen Landesmusikarchiv (Tübingen) – Kirchenmusikalische Zeugnisse aus der 1. Hälfte des 19. Jahrhunderts_, in: Musik in Baden-Württemberg, Jahrbuch 1995, S. 193-210.
 
-[[2]](#_ftnref2) Günther, Georg: _Musikalien des 18. und 19. Jahrhunderts aus Kloster und Pfarrkirche Ochsenhausen_ (=_Quellen und Studien zur Musik in Baden-Württemberg_, Bd. 1), Stuttgart 1995.
+Günther, Georg: _Musikalien des 18. und 19. Jahrhunderts aus Kloster und Pfarrkirche Ochsenhausen_ (=_Quellen und Studien zur Musik in Baden-Württemberg_, Bd. 1), Stuttgart 1995.
 
-&nbsp;
+Günther, Georg, _Musikalien des 18. Jahrhunderts aus den Klöstern Rot an der Rot und Isny_ (=_Quellen und Studien zur Musik in Baden-Württemberg_, Bd. 2), Stuttgart 1997.
 
-[[3]](#_ftnref3) Günther, Georg, _Musikalien des 18. Jahrhunderts aus den Klöstern Rot an der Rot und Isny_ (=_Quellen und Studien zur Musik in Baden-Württemberg_, Bd. 2), Stuttgart 1997.
+Günther, Georg: _Zwischen "Frühpredigt" und "Nachts im Gasthaus". Der Notenbestand aus dem evangelischen Pfarramt Ravensburg im Schwäbischen Landesmusikarchiv_, in: _Schriften des Vereins für Geschichte des Bodensees und seiner Umgebung_, Heft 118 (2000), S. 97-138.
 
-&nbsp;
-
-[[4]](#_ftnref4) Günther, Georg: _Zwischen "Frühpredigt" und "Nachts im Gasthaus". Der Notenbestand aus dem evangelischen Pfarramt Ravensburg im Schwäbischen Landesmusikarchiv_, in: _Schriften des Vereins für Geschichte des Bodensees und seiner Umgebung_, Heft 118 (2000), S. 97-138.
-
-Gottfried Heinz-Kronberger, 2011.
+(Gottfried Heinz-Kronberger, 2011)
 
 &nbsp;
 
