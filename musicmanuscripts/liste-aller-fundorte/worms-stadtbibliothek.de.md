@@ -11,16 +11,12 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/worms-stadtbibliothek.html'
 # Worms, Stadtbibliothek
 
 
+In der Stadtbibliothek von Worms waren ehemals nur die alten Drucke registriert. Dazwischen befanden sich auch zahlreiche Nummern mit Handschriften. Im Zuge der Neuerfassung wurde festgestellt, dass die vorliegende Liste der "Mus.ant."-Reihe unvollständig war. Außerdem stellte sich heraus, dass vor allem alle Drucke von Wolfgang Amadeus Mozart nicht mehr vorhanden waren. Daneben ergaben sich jedoch weitere Musikalien, die in den Reihenbestand aufgenommen wurden, unter anderem eine Sammlung mit Arien und Liedern französischer Provenienz.
 
-Aufarbeitung des Bestands der "Mus.ant."-Reihe
+Ein neu erstellter Katalog enthält alle Musikalien, sowohl Handschriften und Drucke als auch die vermissten Exemplare.
 
-&nbsp;
+• Zuständig: RISM-Arbeitsstelle München
 
-In der Stadtbibliothek von Worms waren bisher nur die alten Drucke registriert. Dazwischen befanden sich allerdings auch zahlreiche Nummern mit Handschriften. Im Zuge der Neuerfassung, weil es nur noch ein unvollständige Liste der "Mus.ant."-Reihe gab stellte sich heraus, dass vor allem alle Drucke von Wolfgang Amadeus Mozart nicht mehr vorhanden waren. Daneben ergaben sich jedoch weitere Musikalien die in den Reihenbestand aufgenommen wurden. Besonders eine Sammlung mit ausschließlich Arien und Lieder von französischer Provenienz. Wenn auch deren Zustand sehr schlecht ist.
+• Website: [Stadtbibliothek Worms](https://www.worms.de/neu-de/bildung-bieten/bibliotheken/Wissenschaftliche-Stadtbibliothek.php "Opens external link in new window"){:blank}
 
-Von allen Musikalien, also Handschriften und Drucke, sowie den vermissten wurde ein Katalog erstellt zur besseren Handhabung der besitzenden Bibliothek.
-
-&nbsp;
-
-Oktober 2017, Gottfried Heinz-Kronberger
-
+(Gottfried Heinz-Kronberger, Oktober 2017)
