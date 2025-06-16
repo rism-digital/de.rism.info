@@ -13,11 +13,11 @@ In der Zeit von April bis Juli 2007 wurden von der RISM Arbeitsstelle München d
 
 Von den 286 Musikhandschriften konnten dabei einige neu zugewiesen werden, unter anderem bei der Aufnahme von Einzeltiteln in den zuvor nur pauschal erfassten Sammlungen. Insgesamt ergaben sich etwas mehr als 1120 Einzeltitel aus den Musikhandschriften, die nun in dem Katalog vorgelegt werden.
 
-Innerhalb des Bestandes ist das Mozart-Autograph, welches als Teilautograph mit einer Handschrift in der Paul-Sacher-Stiftung, Basel gehört, natürlich herausragend. Aber auch die vielen Autographen Justin Heinrich Knechts sind durchaus einer großen Beachtung wert.
+Innerhalb des Bestandes kann ein Mozart-Autograph hervorgehoben werden: Von einer nicht im Köchelverzeichnis nachgewiesenen [Fuge](https://opac.rism.info/id/rismid/rism455017882 "Opens external link in new window"){:blank} liegt hier der Anfang vor; der fehlende Teil befindet sich in Privatbesitz, ist aber als Kopie in der Paul-Sacher-Stiftung einsehbar. Aber auch die vielen Autographen Justin Heinrich Knechts sind durchaus einer Beachtung wert.
 
 • Zuständig: RISM-Arbeitsstelle München
 
-• Website: [Universitätsbibliothek Tübingen] (https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/ "Opens external link in new window"){:blank}
+• Website: [Universitätsbibliothek Tübingen](https://uni-tuebingen.de/einrichtungen/universitaetsbibliothek/ "Opens external link in new window"){:blank}
 
 &nbsp;
 
