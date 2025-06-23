@@ -12,5 +12,9 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/ulm-stadtarchiv-d-ua.html'
 
 Unter den Archivalien und Nachlässen, die im Archiv im historischen Schwörhaus der Stadt Ulm aufbewahrt werden, finden sich auch einige Musikhandschriften des 17.-19. Jahrhunderts. Hervorzuheben sind drei geistliche Gelegenheitswerke von Johann Phengius (ca. 1605 - nach 1653) und 2 Choralbücher der als Musikpädagogin und Organistin wirkenden Stiftsfrau Barbara Kluntz (1661-1730). Daneben werden in dem Archiv mehrere Sammelbände (Klavierbücher) mit Liedern, Opernarien und kurzen Klavierstücken aus dem letzten Jahrzehnt des 18. Jahrhunderts verwahrt, die dem Ulmer Philosophen und Musikschriftsteller Johann Jakob Wagner (1775-1841) gehörten und die zahlreiche Werke von Vertretern der schwäbischen Liederschule enthalten, darunter Christian Friedrich Daniel Schubart und Ludwig Abeille.
 
-Steffen Voss, Mai 2017
+• Zuständig: RISM-Arbeitsstelle München
+
+• Website: [Haus der Stadtgeschichte – Stadtarchiv Ulm](https://stadtarchiv.ulm.de/ "Opens external link in new window"){:blank}
+
+(Steffen Voss, Mai 2017)
 
