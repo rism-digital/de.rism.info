@@ -15,7 +15,7 @@ Die Originalhandschriften werden heute in der Dombibliothek Freising verwahrt. D
 
 • Zuständig: RISM-Arbeitsstelle München
 
-• Website: [Dombibliothek Freising](https://www.erzbistum-muenchen.de/archiv-und-bibliothek "Opens external link in new window")
+• Website: [Dombibliothek Freising](https://www.erzbistum-muenchen.de/archiv-und-bibliothek "Opens external link in new window"){:blank}
 
 &nbsp;
 
