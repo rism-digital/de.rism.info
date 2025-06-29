@@ -33,3 +33,5 @@ Der Bestand wurde 2009 bis 2011 von Carmen Rosenthal erfasst.
 Literatur:
 
 Carmen Rosenthal: _Wiedergefunden im Robert-Schumann- Haus in Zwickau – Albumblätter aus dem Musikhistorischen Museum Wilhelm Heyer_, in: Forum Musikbibliothek, 33. Jahrgang, Heft 01/2012, S: 40-41
+
+(Carmen Rosenthal, 2011)
