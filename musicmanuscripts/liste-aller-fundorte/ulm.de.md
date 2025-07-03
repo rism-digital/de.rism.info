@@ -7,11 +7,17 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/ulm.html'
 ---
 
 
-# Ulm, Stadtbibliothek, Von Schermar`sche Familienstiftung (D-Usche)
+# Ulm, Stadtbibliothek, Von Schermar'sche Familienstiftung (D-Usche)
 
-Der Bestand ist nicht bei RISM nachgewiesen, ist aber in einem gedruckten Katalog erfaßt.
+Der Bestand ist nicht bei RISM nachgewiesen, aber in einem gedruckten Katalog erfasst.
 
- **Literatur**
+• Zuständig: RISM-Arbeitsstelle München
+
+• Website: [Schermar-Bibliothek Ulm](https://stadtbibliothek.ulm.de/angebote/musikabteilung/musikalische-nachlaesse "Opens external link in new window"){:blank}
+
+&nbsp;
+
+Literatur:
 
 Clytus Gottwald: _Katalog der Musikalien in der Schermar-Bibliothek Ulm_, Wiesbaden 1993 (Veröffentlichungen der Stadtbibliothek Ulm, Bd. 17)
 

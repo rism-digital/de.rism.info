@@ -11,7 +11,6 @@ Projektleiterin: Prof. Dr. Barbara Wiermann
 
 [Dr. Andrea Hartmann (Leitung)](mailto:andrea.hartmann@slub-dresden.de)\
 [Dr. Amrei Flechsig](mailto:amrei.flechsig@slub-dresden.de)\
-[Dr. Undine Wagner](mailto:undine.wagner@t-online.de)  \
 Tel.: +49 351 4677-398, -396\
 \
 **Arbeitsstelle München**
