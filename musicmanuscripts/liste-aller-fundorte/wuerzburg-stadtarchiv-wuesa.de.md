@@ -27,7 +27,7 @@ Als lokale Besonderheit verdient die Kopie der "Schlacht bei Würzburg" Beachtun
 
 Neben professionellen und semiprofessionellen Musikwerken sind schließlich auch Laienkompositionne im Archiv vertreten, meist mit Widmung versehen. Zu solchen Liebhaberarbeiten, oft schon an der unbeholfenen Notenschrift zu erkennen, gehören aus dem 19. Jahrhundert mehrere Bände mit Arrangements für Zither sowie einiges für Männerchor.
 
-Schließlich sind auch unter den Musikdrucken einige beachtenswerte Editionen aus der Wende des 18. zum 19. Jahrhundert. Im Bestand von Textdokumenten (23 Nummern) sind sowohl Dokumente zur städtischen Musikgeschichte als auch Texthefte enthalten. 
+Auch unter den Musikdrucken sind einige beachtenswerte Editionen aus der Wende des 18. zum 19. Jahrhundert. Im Bestand von Textdokumenten (23 Nummern) sind sowohl Dokumente zur städtischen Musikgeschichte als auch Texthefte enthalten. 
 
 • Zuständig: RISM-Arbeitsstelle München
 
