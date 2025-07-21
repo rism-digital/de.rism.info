@@ -10,7 +10,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/wuerzburg-stadtarchiv-wuesa.h
 
 # Würzburg, Stadtarchiv (D-WÜsa)
 
-Die Musikaliensammlung des Stadtarchivs Würzburg besteht aus Handschriften und Drucken unterschiedlicher Provenienz. In drei Katalogen wurden Handschriften, Musikdrucke und Texte erfasst, teilweise mit Unterstützung des Diözesanarchivs Würzburg.
+Die Musikaliensammlung des Stadtarchivs Würzburg besteht aus Handschriften und Drucken unterschiedlicher Provenienz. In drei Katalogen wurden Handschriften, Musikdrucke und Texte erfasst, in Kooperation mit dem Diözesanarchiv Würzburg.
 
 Unter den 76 Nummern befinden sich zwei autographe Partituren von Bühnenwerken des Bamberger Theaterdirektors Ernst Theodor Amadeus Hoffmann (1776-1822), denen das gesamte Aufführungsmaterial beiliegt. Dass sich Hoffmanns Oper "Aurora" und das Melodram "Saul" heute in Würzburg befinden, geht zweifellos auf Franz Ignaz von Holbein (1759-1855) zurück, der ab Februar 1812 für ein gutes Jahr als Theaterdirektor in der Residenzstadt fungierte und parallel dazu die Bamberger Bühne leitete. Zu den Arbeiten von professioneller Hand zählen weitere Autographe aus dem späten 19. und dem 20. Jahrhundert, meist mit Bezug zum traditionsreichen Würzburger Musikinstitut. 
 
