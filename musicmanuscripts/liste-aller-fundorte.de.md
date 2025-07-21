@@ -1228,7 +1228,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%"><a href="/projects/laufende-arbeiten.html#c1398" title="Opens internal link in current window" target="_top">München, Bayerische Staatsbibliothek</a>*</td>
+         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/muenchen-bsb.html" title="Opens internal link in current window" target="_top">München, Bayerische Staatsbibliothek</a>*</td>
          <td valign="top" width="13%">D-Mbs</td>
          <td valign="top" width="21%">RISM-OPAC / KBM 5</td>
       </tr>
