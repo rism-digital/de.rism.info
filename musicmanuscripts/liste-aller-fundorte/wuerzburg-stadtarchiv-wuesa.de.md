@@ -22,10 +22,9 @@ Besonders eng mit Würzburg verbunden ist ein Werk von Hermann Zilcher (1881-194
 
 Neben den Persönlichkeiten des Musikinstituts haben auch Tonsetzer mit auswärtiger Ausbildung den Musikalienbestand bereichert. Hierzu zählt der Generalintendant der Königlichen Münchner Hofoper und der Bayerischen Staatsoper, Clemens von Franckenstein (1875-1952). Der in Wien tätige Musikdirektor Ignaz Herbst (1877-1954) hat mit der "Würzburger Rhapsodie" seiner Heimatstadt seine Reverenz erwiesen. 
 
-Nicht nur professionelle Musiker haben dem Würzburger Stadtarchiv Materialien hinterlassen. Ein gewisser Beitrag wurde auch von semiprofessionellen Musikausübenden geleistet, Darunter sind in erster Linie Schul- und Musiklehrer zu rechnen, die eine mehr oder weniger intensive Ausbildung genossen hatten und sich hauptsächlich als Kopisten betätigten. 
 Als lokale Besonderheit verdient die Kopie der "Schlacht bei Würzburg" Beachtung, eine musikalische Darstellung der Gefechte vom September 1796 von Johann Baptist Vanhal (1733-1813), wie auch die Klavierfassung der Tänze einer "Würzburger Redoute", die einen klingenden Eindruck vom gehobenen Gesellschaftsleben in der Residenzstadt vermittelt.
 
-Neben professionellen und semiprofessionellen Musikwerken sind schließlich auch Laienkompositionne im Archiv vertreten, meist mit Widmung versehen. Zu solchen Liebhaberarbeiten, oft schon an der unbeholfenen Notenschrift zu erkennen, gehören aus dem 19. Jahrhundert mehrere Bände mit Arrangements für Zither sowie einiges für Männerchor.
+Ein Teil der Materialien geht auch auf semiprofessionelle Musikausübenden zurück. Darunter sind in erster Linie Schul- und Musiklehrer zu rechnen, die eine mehr oder weniger intensive Ausbildung genossen hatten und sich hauptsächlich als Kopisten betätigten. Neben professionellen und semiprofessionellen Musikwerken sind schließlich auch Laienkompositionen im Archiv vertreten, meist mit Widmung versehen. Zu solchen Liebhaberarbeiten, oft schon an der Notenschrift zu erkennen, gehören aus dem 19. Jahrhundert mehrere Bände mit Arrangements für Zither sowie einiges für Männerchor.
 
 Auch unter den Musikdrucken sind einige beachtenswerte Editionen aus der Wende des 18. zum 19. Jahrhundert. Im Bestand von Textdokumenten (23 Nummern) sind sowohl Dokumente zur städtischen Musikgeschichte als auch Texthefte enthalten. 
 
