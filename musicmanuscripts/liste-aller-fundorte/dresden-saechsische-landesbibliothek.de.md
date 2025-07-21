@@ -62,5 +62,5 @@ Wolfram Steude: _Die Musik-Sammelhandschriften des 16. und 17. Jahrhunderts in d
 
 &nbsp;
 
-(K. W. Geck, leicht gekürzte Fassung aus dem „Handbuch der historischen Buchbestände“).
+(K. W. Geck, leicht gekürzte und ergänzte Fassung aus dem „Handbuch der historischen Buchbestände“).
 
