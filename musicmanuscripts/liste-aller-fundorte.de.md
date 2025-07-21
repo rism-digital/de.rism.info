@@ -1233,7 +1233,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC / KBM 5</td>
       </tr>
       <tr>
-         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/muenchen-st-bonifaz-stiftsbibliothek-d-mb.html" title="Opens internal link in current window" target="_self">München, Siftsbibliothek der Benediktinerabtei St. Bonifaz, Bibliothek</a></td>
+         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/muenchen-st-bonifaz-stiftsbibliothek-d-mb.html" title="Opens internal link in current window" target="_self">München, Stiftsbibliothek der Benediktinerabtei St. Bonifaz, Bibliothek</a></td>
          <td valign="top" width="13%">D-Mb</td>
          <td valign="top" width="21%">RISM-OPAC und <b>3)</b></td>
       </tr>
