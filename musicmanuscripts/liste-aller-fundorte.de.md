@@ -1373,7 +1373,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/neuwied.html" title="Opens internal link in current window" target="_self">Neuwied, Archiv der Brüdergemeinde</td>
+         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/neuwied.html" title="Opens internal link in current window" target="_self">Neuwied, Archiv der Brüdergemeinde</a></td>
          <td valign="top" width="13%">D-NEUW</td>
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
