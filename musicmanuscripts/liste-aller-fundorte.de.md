@@ -1398,7 +1398,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/nuernberg-archiv-elk.html" title="Opens internal link in current window" target="_self">Nürnberg, Bibliothek beim Landeskirchlichen Archiv (Landeskirchliches Archiv)</a>*</td>
+         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/nuernberg-archiv-elk.html" title="Opens internal link in current window" target="_self">Nürnberg, Landeskirchliches Archiv</a></td>
          <td valign="top" width="13%">D-Nla*</td>
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
@@ -1428,7 +1428,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">(<a href="/musicmanuscripts/liste-aller-fundorte/oberschoenenfeld.html" title="Opens internal link in current window" target="_self">gedruckter Katalog</a>)</td>
       </tr>
       <tr>
-         <td valign="top" width="51%">Offenbach am Main, Verlagsarchiv André*</td>
+         <td valign="top" width="51%">Offenbach am Main, Verlagsarchiv André</td>
          <td valign="top" width="13%">D-OF</td>
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
