@@ -1399,7 +1399,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
       </tr>
       <tr>
          <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/nuernberg-archiv-elk.html" title="Opens internal link in current window" target="_self">Nürnberg, Landeskirchliches Archiv</a></td>
-         <td valign="top" width="13%">D-Nla*</td>
+         <td valign="top" width="13%">D-Nla</td>
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
@@ -1555,7 +1555,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1">Rostock, Universitätsbibliothek</td>
+         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/rostock.html" title="Opens internal link in current window" target="_self">Rostock, Universitätsbibliothek</a></td>
          <td valign="top" width="13%" rowspan="1">D-ROu</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
