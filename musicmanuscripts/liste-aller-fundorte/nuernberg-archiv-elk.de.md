@@ -31,4 +31,4 @@ Von hohem wissenschaftlichen Interesse sind auch die zeitgenössischen Quellen m
 
 • Website: [Landeskirchliches Archiv](https://www.archiv-elkb.de/ "Opens external link in new window"){:blank} in Nürnberg.
 
-(Helmut Lauterwasser, aktualisiert im Februar 2019)
+(Helmut Lauterwasser, Februar 2019)
