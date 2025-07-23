@@ -1228,12 +1228,12 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%"><a href="/projects/laufende-arbeiten.html#c1398" title="Opens internal link in current window" target="_top">München, Bayerische Staatsbibliothek</a>*</td>
+         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/muenchen-bsb.html" title="Opens internal link in current window" target="_top">München, Bayerische Staatsbibliothek</a>*</td>
          <td valign="top" width="13%">D-Mbs</td>
          <td valign="top" width="21%">RISM-OPAC / KBM 5</td>
       </tr>
       <tr>
-         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/muenchen-st-bonifaz-stiftsbibliothek-d-mb.html" title="Opens internal link in current window" target="_self">München, Siftsbibliothek der Benediktinerabtei St. Bonifaz, Bibliothek</a></td>
+         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/muenchen-st-bonifaz-stiftsbibliothek-d-mb.html" title="Opens internal link in current window" target="_self">München, Stiftsbibliothek der Benediktinerabtei St. Bonifaz, Bibliothek</a></td>
          <td valign="top" width="13%">D-Mb</td>
          <td valign="top" width="21%">RISM-OPAC und <b>3)</b></td>
       </tr>
@@ -1373,6 +1373,11 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
+         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/neuwied.html" title="Opens internal link in current window" target="_self">Neuwied, Archiv der Brüdergemeinde</a></td>
+         <td valign="top" width="13%">D-NEUW</td>
+         <td valign="top" width="21%">RISM-OPAC</td>
+      </tr>
+      <tr>
          <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/niederalteich-benediktinerabtei-st-mauritius.html" title="Opens internal link in current window" target="_self">Niederaltaich, Benediktinerabtei St. Mauritius Niederaltaich</a></td>
          <td valign="top" width="13%" rowspan="1">D-NATk</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
@@ -1393,8 +1398,8 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%"><a href="/projects/laufende-arbeiten.html#c3323" title="Opens internal link in current window" target="_self">Nürnberg, Bibliothek beim Landeskirchlichen Archiv (Landeskirchliches Archiv)</a>*</td>
-         <td valign="top" width="13%">D-Nla*</td>
+         <td valign="top" width="51%"><a href="/musicmanuscripts/liste-aller-fundorte/nuernberg-archiv-elk.html" title="Opens internal link in current window" target="_self">Nürnberg, Landeskirchliches Archiv</a></td>
+         <td valign="top" width="13%">D-Nla</td>
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
@@ -1423,7 +1428,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">(<a href="/musicmanuscripts/liste-aller-fundorte/oberschoenenfeld.html" title="Opens internal link in current window" target="_self">gedruckter Katalog</a>)</td>
       </tr>
       <tr>
-         <td valign="top" width="51%">Offenbach am Main, Verlagsarchiv André*</td>
+         <td valign="top" width="51%">Offenbach am Main, Verlagsarchiv André</td>
          <td valign="top" width="13%">D-OF</td>
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
@@ -1550,7 +1555,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
          <td valign="top" width="21%">RISM-OPAC</td>
       </tr>
       <tr>
-         <td valign="top" width="51%" rowspan="1">Rostock, Universitätsbibliothek</td>
+         <td valign="top" width="51%" rowspan="1"><a href="/musicmanuscripts/liste-aller-fundorte/rostock.html" title="Opens internal link in current window" target="_self">Rostock, Universitätsbibliothek</a></td>
          <td valign="top" width="13%" rowspan="1">D-ROu</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
       </tr>

@@ -10,9 +10,22 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/wuerzburg-dioezesanarchiv-wue
 # Würzburg, Diözesanarchiv (D-WÜd) mit Deposita
 
 
-Liste der im Diözesanarchiv vorhandenen Teilbestände, die als Deposita verwaltet und von Herrn Prof. Dr. Dieter Kirsch katalogisiert werden.
+In RISM sind aktuell 7.929 Musikalienhandschriften aus dem Diözesanarchiv Würzburg enthalten. Zur Liste der im Diözesanarchiv vorhandenen Teilbestände, die als Deposita verwaltet und von Prof. Dr. Dieter Kirsch katalogisiert wurden, siehe unten.
 
-Bestand Limbach liegt im dortigen &nbsp;Pfarrarchiv
+• Zuständig: RISM-Arbeitsstelle München
+
+• Website: [Musikalien des Diözesanarchivs Würzburg](https://abbw.bistum-wuerzburg.de/archiv/bestaendeuebersicht/musikalien/ "Opens external link in new window"){:blank}
+
+
+Literatur:
+
+Dieter Kirsch: _Katalog der Musikhandschriften des Diözesanarchivs Würzburg und seiner Deposita_, im Auftrag der Diözese Würzburg und in Zusammenarbeit mit der Arbeitsgemeinschaft Mainfränkische Musikgeschichte sowie dem Répertoire International des Sources Musicales (RISM), Würzburg 2014
+
+&nbsp;
+
+**Liste der Teilbestände**
+
+Bestand Limbach liegt im dortigen Pfarrarchiv.
 
 Sk = Sammelkarton, alte Bestände sind **fett** gedruckt.
 
