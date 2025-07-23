@@ -13,7 +13,7 @@ Die Musikhandschriften dieser bedeutenden Sammlung (überwiegend aus dem 16. Jah
 
 • Zuständig: RISM-Arbeitsstelle München
 
-• Website: [Stadtarchiv Heilbronn](https://stadtarchiv.heilbronn.de/startseite.html "Öffnet externen Link in neuem Fenster"):blank}
+• Website: [Stadtarchiv Heilbronn](https://stadtarchiv.heilbronn.de/startseite.html "Öffnet externen Link in neuem Fenster"){blank}
 
 &nbsp;
 
