@@ -25,7 +25,7 @@ Einzelheiten zum Stand der Erschließung der Musikhandschriften in den deutschen
 
 [__Verzeichnis der Fundorte und Bestände__](/musicmanuscripts/liste-aller-fundorte.html "Öffnet internen Link im aktuellen Fenster")
 
-Ab 2009 begann die Arbeitsgruppe Deutschland für ausgewählte Sammlungen [eigene Kataloge](/publications/musikhandschriften-in-deutschland.html "Öffnet internen Link im aktuellen Fenster") zu publizieren. Diese Kataloge sind zusammengefasste Auszüge aus dem RISM Catalog. Der aktuellste Stand der Daten ist allerdings nur im [RISM Catalog]https://opac.rism.info "Öffnet externen Link in neuem Fenster"){:blank} gewährleistet. 
+Ab 2009 begann die Arbeitsgruppe Deutschland für ausgewählte Sammlungen [eigene Kataloge](/publications/musikhandschriften-in-deutschland.html "Öffnet internen Link im aktuellen Fenster") zu publizieren. Diese Kataloge sind zusammengefasste Auszüge aus dem RISM Catalog. Der aktuellste Stand der Daten ist allerdings nur im [RISM Catalog](https://opac.rism.info "Öffnet externen Link in neuem Fenster"){:blank} gewährleistet. 
 
 [Musikhandschriften in Deutschland. Kataloge ausgewählter Sammlungen](/publications/musikhandschriften-in-deutschland.html "Öffnet internen Link im aktuellen Fenster")
 
