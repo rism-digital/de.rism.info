@@ -15,7 +15,7 @@ Details on the status of cataloguing music manuscripts in German libraries and a
 
 [__Index of locations and holdings__](de/musicmanuscripts/liste-aller-fundorte.html "Opens internal link in current window")
 
-In 2009, the German working group began publishing [its own catalogues](link) for selected collections. These catalogues are summarised excerpts from the RISM Catalog. However, the most up-to-date data is only available in the [RISM Catalog]https://opac.rism.info "Öffnet externen Link in neuem Fenster"){:blank}. 
+In 2009, the German working group began publishing [its own catalogues](link) for selected collections. These catalogues are summarised excerpts from the RISM Catalog. However, the most up-to-date data is only available in the [RISM Catalog](https://opac.rism.info "Öffnet externen Link in neuem Fenster"){:blank}. 
 
 
 [Musikhandschriften in Deutschland. Kataloge ausgewählter Sammlungen](publications/musikhandschriften-in-deutschland.html "Opens internal link in current window")
