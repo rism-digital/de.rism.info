@@ -4,13 +4,13 @@
     fr: "Accueil"
   link: /index.html
 - name:
-    en: "Projects"
-    de: "Projekte"
-    fr: "Projects"
+    en: "Project"
+    de: "Zum Projekt"
+    fr: "Project"
   link: /projects.html
 - name:
-    en: "Music Manuscripts"
-    de: "Musikhandschriften"
+    en: "Sources"
+    de: "Quellen"
     fr: "Manuscrits"
   link: /musicmanuscripts.html
 - name:
