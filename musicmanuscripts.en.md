@@ -10,6 +10,16 @@ permalink: /musicmanuscripts.html
 
 # Locations and holdings
 
+<div style="float: right; width: 44%">
+   <figure class="figure">
+      <div class="float-left">
+         <img src=" /images/old/fileadmin/csm_Mozart_Litanei_Titel_b7bd26355a.jpg">
+      </div>
+      <figcaption class="figcaption">
+         Abb. Kaufbeuren, Stadtpfarrkirche St. Martin (D-KFm) Mus. Ms. 63
+      </figcaption>
+   </figure>
+</div>
 
 Details on the status of cataloguing music manuscripts in German libraries and archives can be found in the overview linked below. It will be gradually supplemented with more detailed information on the individual locations and source holdings. 
 
