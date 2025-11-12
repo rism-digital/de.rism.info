@@ -29,6 +29,6 @@ The music sources relevant to RISM are mainly located in public and church archi
 
 Since June 2010, the database has been freely accessible via Internet as [RISM Catalog](https://opac.rism.info "Öffnet externen Link in neuem Fenster"){:blank}. Over the decades, the data underwent several steps on its way to digitisation: some holdings had been published in book form before the first electronic edition appeared and were gradually transferred to an electronic RISM database. The catalogue entries, which were initially created on index cards, were also transferred to the computer. Until 2008, the results were published on an annual CD-ROM; finally, the transition to the current online catalogue took place. In addition, individual catalogues were also published for selected collections.
 
-[__Search in the RISM OPAC__](https://opac.rism.info "Öffnet externen Link in neuem Fenster"){:blank}
+[__Search in the RISM Catalog__](https://opac.rism.info "Öffnet externen Link in neuem Fenster"){:blank}
 
 
