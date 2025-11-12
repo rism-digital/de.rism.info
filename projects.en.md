@@ -10,6 +10,17 @@ permalink: '/projects.html'
 
 # About the project
 
+<div style="float: left; width: 44%">
+   <figure class="figure">
+      <div class="float-left">
+         <img src="/images/old/fileadmin/csm_Abb._D-KA_Mus._Hs._213_ce73bd6f3e.jpg">
+      </div>
+      <figcaption class="figcaption">
+         Abb. D-KA Mus. Hs. 213
+      </figcaption>
+   </figure>
+</div>
+
 The Répertoire International des Sources Musicales (RISM) - International Inventory of Musical Sources - is an international, non-profit organization that aims to comprehensively document extant musical sources worldwide: manuscripts, printed music editions, writings on music theory, and libretti that are found in libraries, archives, churches, schools, and private collections. RISM’s over 1.5 million records can be searched at no cost through the RISM. RISM was founded in Paris in 1952 and is the largest and only global organization that documents written musical sources. 
 
 For over 70 years now, two German offices in Dresden and Munich have been working as part of more than 35 country groups worldwide to record sources that are important for music research. The cataloguing of music manuscripts of polyphonic music from around 1600 to the mid-19th century is the focus of the work of both German research centres.
