@@ -16,5 +16,5 @@ Darüber hinaus sind die Mitarbeiterinnen und Mitarbeiter der beiden deutschen R
 
 - [Musikhandschriften in Deutschland. Kataloge ausgewählter Sammlungen](publications/musikhandschriften-in-deutschland.html)
 - [In anderen Reihen veröffentlichte Kataloge](/publications/andere-reihen.html)
-- [Aufsätze](publications/aufsaetze.html)
+- [Berichte und Aufsätze](publications/aufsaetze.html)
 - [Jahresberichte](/publications/jahresberichte.html)
