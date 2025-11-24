@@ -17,8 +17,6 @@ permalink: /team.html
 ## Arbeitsstelle München
 - [Dr. Gottfried Heinz-Kronberger](team/dr-gottfried-heinz-kronberger.html "Opens internal link in current window") (Head)
 - [Dr. Steffen Voss](team/dr-steffen-voss.html#c3002 "Opens internal link in current window")
-- [Alan Dergal Rautenberg](mailto:alan.dergal-rautenberg@sbb.spk-berlin.de "Opens window for sending email")
-
 - [Dr. Helmut Lauterwasser](team/dr-helmut-lauterwasser.html#c2982 "Opens internal link in current window") (Retired)
 
 ## RIdIM (Répertoire International d'Iconographie Musicale)
