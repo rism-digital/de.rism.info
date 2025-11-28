@@ -15,7 +15,7 @@ Im ersten Halbjahr 2004 fand eine Bestandsbearbeitung durch RISM auf der Basis d
 
 • Zuständig: RISM-Arbeitsstelle München
 
-• Website: [Hochschul- und Landesbibliothek Fulda] (https://www.hs-fulda.de/hlb/ "Opens external link in new window"){:blank}
+• Website: [Hochschul- und Landesbibliothek Fulda](https://www.hs-fulda.de/hlb/ "Opens external link in new window"){:blank}
 
 &nbsp;
 
