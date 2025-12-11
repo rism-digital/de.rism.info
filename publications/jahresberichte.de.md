@@ -13,6 +13,8 @@ Die Jahresberichte der RISM Arbeitsgruppe Deutschland werden von der Union der d
 
 Sie finden die Jahresberichte von RISM Deutschland auch direkt hier:
 
+[2025](/fileadmin/RISM-D-Jahresbericht_2025.pdf "Leitet Herunterladen der Datei ein")
+
 [2024](/fileadmin/RISM-D-Jahresbericht_2024.pdf "Leitet Herunterladen der Datei ein")
 
 [2023](/fileadmin/RISM-D-Jahresbericht-2023.pdf "Leitet Herunterladen der Datei ein")
