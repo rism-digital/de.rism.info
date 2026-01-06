@@ -1,6 +1,6 @@
 # CONTACT
 
-**Dresden office**
+**Dresden**
 
 Répertoire International des Sources Musicales, Arbeitsgruppe Deutschland e.V.\
 Arbeitsstelle Dresden\
@@ -12,7 +12,7 @@ Project leader: Prof. Dr. Barbara Wiermann
 [Dr. Andrea Hartmann](mailto:andrea.hartmann@slub-dresden.de)\
 Phone: +49 351 4677-398\
 \
-**Munich office**
+**Munich**
 
 Répertoire International des Sources Musicales\
 Editorial Network\
