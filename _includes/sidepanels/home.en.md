@@ -13,7 +13,7 @@ Project leader: Prof. Dr. Barbara Wiermann\
 Phone: +49 351 4677-398\
 \
 **Munich**
-\
+
 Répertoire International des Sources Musicales\
 Editorial Network\
 Bayerische Staatsbibliothek\
