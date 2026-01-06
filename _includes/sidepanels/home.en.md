@@ -18,7 +18,6 @@ Répertoire International des Sources Musicales\
 Editorial Network\
 Bayerische Staatsbibliothek\
 D-80328 München\
-\
 
 [Dr. Steffen Voss](mailto:Steffen.Voss@bsb-muenchen.de)\
 [Dr. Dagmar Schnell](mailto:dagmar.schnell@bsb-muenchen.de)\
