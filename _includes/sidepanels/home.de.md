@@ -1,6 +1,6 @@
 # Kontakt
 
-**Arbeitsstelle Dresden**
+**Dresden**
 
 Répertoire International des Sources Musicales, Arbeitsgruppe Deutschland e.V.\
 Arbeitsstelle Dresden\
@@ -9,25 +9,20 @@ D-01054 Dresden\
 \
 Projektleiterin: Prof. Dr. Barbara Wiermann
 
-[Dr. Andrea Hartmann (Leitung)](mailto:andrea.hartmann@slub-dresden.de)\
-[Dr. Amrei Flechsig](mailto:amrei.flechsig@slub-dresden.de)\
-Tel.: +49 351 4677-398, -396\
+[Dr. Andrea Hartmann](mailto:andrea.hartmann@slub-dresden.de)\
+Tel.: +49 351 4677-398\
 \
-**Arbeitsstelle München**
+**München**
 
-Répertoire International des Sources Musicales, Arbeitsgruppe Deutschland\
-Arbeitsstelle München\
+Répertoire International des Sources Musicales\
+Editorial Network\
 Bayerische Staatsbibliothek\
 D-80328 München\
 \
-Projektleiter: Dr. Reiner Nägele
 
-[Dr. Gottfried Heinz-Kronberger (Leitung)](mailto:Gottfried.Heinz-Kronberger@bsb-muenchen.de)\
 [Dr. Steffen Voss](mailto:Steffen.Voss@bsb-muenchen.de)\
-Tel.: +49 89 28638-2110, -2395\
+[Dr. Dagmar Schnell](mailto:dagmar.schnell@bsb-muenchen.de)\
+Tel.: +49 89 28638-2395, 2927\
 Fax: +49 89 28638-2479\
 \
-Für RIdIM (Répertoire International d'Iconographie Musicale):\
-[Dr. Dagmar Schnell](mailto:dagmar.schnell@bsb-muenchen.de)\
-Tel.: +49 89 28638-2927\
-Fax: +49 89 28638-2479
+
