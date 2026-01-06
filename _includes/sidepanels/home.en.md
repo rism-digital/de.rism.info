@@ -9,25 +9,19 @@ D-01054 Dresden\
 \
 Project leader: Prof. Dr. Barbara Wiermann
 
-[Dr. Andrea Hartmann (Head)](mailto:andrea.hartmann@slub-dresden.de)\
-[Dr. Amrei Flechsig](mailto:amrei.flechsig@slub-dresden.de)\
-Phone: +49 351 4677-398, -396\
+[Dr. Andrea Hartmann](mailto:andrea.hartmann@slub-dresden.de)\
+Phone: +49 351 4677-398\
 \
 **Munich office**
 
-Répertoire International des Sources Musicales, Arbeitsgruppe Deutschland\
-Arbeitsstelle München\
+Répertoire International des Sources Musicales\
+Editorial Network\
 Bayerische Staatsbibliothek\
 D-80328 München\
 \
-Project leader: Dr. Reiner Nägele
 
-[Dr. Gottfried Heinz-Kronberger (Head)](mailto:Gottfried.Heinz-Kronberger@bsb-muenchen.de)\
 [Dr. Steffen Voss](mailto:Steffen.Voss@bsb-muenchen.de)\
-Phone: +49 89 28638-2110, -2395\
-Fax: +49 89 28638-2479\
-\
-For RIdIM (Répertoire International d'Iconographie Musicale):\
 [Dr. Dagmar Schnell](mailto:dagmar.schnell@bsb-muenchen.de)\
-Phone: +49 89 28638-2927\
-Fax: +49 89 28638-2479\
+Phone: +49 89 28638-2395, -2927\
+
+
