@@ -5,12 +5,12 @@ lang: de
 permalink: /index.html
 ---
 
-<iframe src="https://www.google.com/maps/d/embed?mid=13ubpiW-IJ5y8mxTRJ0RvBpnmuFo" width="100%" height="480"></iframe>
 
-<br>
+Die Finanzierung der deutschen RISM-Arbeitsstellen durch die Union der Akademien der Wissenschaften unter Federführung der Akademie der Wissenschaften und Literatur in Mainz läuft aktuell aus. 
 
-Die Überblickskarte zeigt die Lage der Bestände an. Über das Kontextmenü kann man die Titelanzahl sowie den Bearbeitungsstatus erkennen. Grün sind bereits bearbeitete Bestände gekennzeichnet, gelb diejenigen, die sich zur Zeit in Arbeit befinden, bzw. von denen eine Bearbeitung geplant ist. Rot gekennzeichnet sind neue noch unbearbeitete Bestände, die in der langjährigen Planung von RISM nicht enthalten sind, deren Besitzer oder Eigentümer aber ein konkretes Interesse an der Erfassung durch RISM geäußert haben. Wie überhaupt der Umstand, dass regelmäßig neue Bestände gemeldet werden (vor allem neu erworbene Bestände bereits erfasster Bibliotheken und Institutionen aber auch von Privatsammlungen), die 2015 anvisierte Anzahl der noch zu bearbeitenden Bestände von etwa 250, sich nur langsam reduzieren lässt.
+Noch bis Ende 2026 ist die Arbeitsstelle Dresden aktiv. Die Arbeitsstelle München wird 2026 umstrukturiert und übernimmt im neu geschaffenen RISM Editorial Network nach und nach Aufgaben des Editorial Centers. Die Mitarbeiterinnen und Mitarbeiter in München stehen der internationalen RISM-Community für Beratungen über Quellen und quellenkundliche Fragen zur Verfügung. An der SLUB Dresden und der SBB Berlin werden im Rahmen des Editorial Network weitere Aufgaben übernommen. 
 
-Stand der RISM-Deutschlandkarte: März 2024
+Die RIdIM-Datenbank wird von der Bayerischen Staatsbibliothek weiterhin unterhalten.
+
 
 
