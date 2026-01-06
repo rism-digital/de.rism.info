@@ -9,10 +9,8 @@ permalink: '/publications.html'
 
 # Publications
 
-Die Arbeitsergebnisse der RISM-Arbeitsgruppe Deutschland werden derzeit in erster Linie als Datenbank, die durch den RISM-OPAC (opac.rism.info) frei zugänglich ist, veröffentlicht.
-Zusätzlich werden zu ausgewählten Beständen aus der Datenbank generierte Katalogausdrucke hergestellt, die ursprünglich vor allem für die besitzenden Institutionen gedacht waren. Seit 2009 werden einige dieser Kataloge in der Reihe "Musikhandschriften in Deutschland. Kataloge ausgewählter Sammlungen" auf dem sächsischen Dokumenten- und Publikationsserver "Qucosa" als pdf-Dateien zur Verfügung gestellt.
-Einige wenige aus der Arbeit von RISM hervorgegangene Kataloge sind auch als Bände anderer Reihen in Buchform erhältlich (s.u.).
-Darüber hinaus sind die Mitarbeiterinnen und Mitarbeiter der beiden deutschen RISM Arbeitsstellen in Dresden und München bemüht, ihre bei der Arbeit für die Quellendatenbank anfallenden Erkenntnisse in Aufsätzen und Vorträgen in der Fachwelt bekannt zu machen. Dabei können z.B. interessante Querverbindungen, die in der Datenbank sonst kaum wahrgenommen würden, oder über die reine Katalogisierung hinausgehende Forschungen angemessen publik gemacht werden.
+The results of the work of the RISM Working Group Germany are freely accessible in the RISM Catalogue (opac.rism.info).
+In addition, catalogue printouts generated from the database were produced for selected holdings, which were originally intended primarily for the institutions that own them. Since 2009, some of these catalogues have been made available as PDF files in the series ‘Musikhandschriften in Deutschland. Kataloge ausgewählter Sammlungen’ (Music Manuscripts in Germany. Catalogues of Selected Collections) on the Saxon document and publication server ‘Qucosa’. Individual catalogues are also available in book form as volumes of other series (see below). 
 
 - [Musikhandschriften in Deutschland. Kataloge ausgewählter Sammlungen](publications/musikhandschriften-in-deutschland.html)
 - [In anderen Reihen veröffentlichte Kataloge](/publications/andere-reihen.html)
