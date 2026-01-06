@@ -22,5 +22,3 @@ D-80328 München\
 [Dr. Steffen Voss](mailto:Steffen.Voss@bsb-muenchen.de)\
 [Dr. Dagmar Schnell](mailto:dagmar.schnell@bsb-muenchen.de)\
 Tel.: +49 89 28638-2395, 2927\
-
-
