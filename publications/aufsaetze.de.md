@@ -10,7 +10,7 @@ permalink: 'publications/aufsaetze.html'
 
 Nicole Schwindt (Hrsg.): Musikquellen des 19. Jahrhunderts in Deutschland. Herausforderungen und Chancen, Online-Publikation, [DOI: https://doi.org/10.25366/2025.35](https://doi.org/10.25366/2025.35 "Opens external link in new window"){:blank}, 2025 (Bericht der Tagung der RISM-Arbeitsgruppe Deutschland im November 2023 in München)
 
-Gottfried Heinz-Kronberger: [Die Musikhandschriftenerschließung des Répertoire International des Sources Musicales an der Bayerischen Staatsbibliothek](/fileadmin/BuW_55_Heinz-Kronberger.pdf "Opens internal link in same window"), in: Bibliothek und Wissenschaft: BuW 55 (2022), S. 121-134
+Gottfried Heinz-Kronberger: [Die Musikhandschriftenerschließung des Répertoire International des Sources Musicales an der Bayerischen Staatsbibliothek](/fileadmin/BuW_55_Heinz-Kronberger.pdf "Leitet Herunterladen der Datei ein"), in: Bibliothek und Wissenschaft: BuW 55 (2022), S. 121-134
 
 Helmut Lauterwasser: Johann Michael Closner (1786–1860) und die historischen Musikhandschriften und Musikdrucke im Stadtmuseum Trostberg, Online-Publikation, [DOI: https://doi.org/10.25366/2021.23](https://doi.org/10.25366/2021.23 "Opens external link in new window"){:blank}, 12.04.2021
 
