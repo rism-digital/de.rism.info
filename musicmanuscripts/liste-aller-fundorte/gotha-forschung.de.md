@@ -1,13 +1,13 @@
 ---
 layout: liste-aller-fundorte
-title: 'Gotha, Forschungs- und Landesbibliothek (D-GOl)'
+title: 'Gotha, Forschungs- und Landesbibliothek der Universität Erfurt (D-GOl)'
 lang: de
 image: '/images/old/fileadmin/csm_zimmers_002_a63137e7db.jpg'
 old_url: 'http://de.rism.info/de/liste-aller-fundorte/aachen-domarchiv.html'
 permalink: '/musicmanuscripts/liste-aller-fundorte/gotha-forschung.html'
 ---
 
-# Gotha, Forschungs- und Landesbibliothek (D-GOl)
+# Gotha, Forschungs- und Landesbibliothek der Universität Erfurt (D-GOl)
 
 Einen Überblick zum Musikalienbestand der Forschungs- und Landesbibliothek gibt das Handbuch der historischen Buchbestände in Deutschland. Die den  Mitgliedern der Bach-Familie zugeschriebenen 130 Musikhandschriften sind katalogisiert. Die Angaben in der RISM-Datenbank stützen sich auf den Katalog von Ulrich Leisinger.
 
