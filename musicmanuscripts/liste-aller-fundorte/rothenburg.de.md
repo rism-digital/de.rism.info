@@ -1,3 +1,4 @@
+---
 layout: liste-aller-fundorte
 title: 'Rothenburg ob der Tauber, Stadtarchiv (D-RB)'
 lang: de
