@@ -658,7 +658,7 @@ permalink: '/musicmanuscripts/liste-aller-fundorte.html'
       </tr>
       <tr>
          <td valign="top" width="51%" rowspan="1">
-            <p class="bodytext"><a href="/musicmanuscripts/liste-aller-fundorte/gotha-forschung.html#c863" title="Opens internal link in current window" target="_top">Gotha, Forschungs- u. Landesbibliothek</a>*</p>
+            <p class="bodytext"><a href="/musicmanuscripts/liste-aller-fundorte/gotha-forschung.html#c863" title="Opens internal link in current window" target="_top">Gotha, Forschungs- u. Landesbibliothek der Universität Erfurt</a>*</p>
          </td>
          <td valign="top" width="13%" rowspan="1">D-GOl</td>
          <td valign="top" width="21%" rowspan="1">RISM-OPAC</td>
