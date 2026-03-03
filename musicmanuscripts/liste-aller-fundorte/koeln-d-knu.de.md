@@ -10,9 +10,11 @@ permalink: '/musicmanuscripts/liste-aller-fundorte/koeln-d-knu.html'
 
 # Universitäts- und Stadtbibliothek Köln (D-KNu)
 
-Die Bibliothek verwahrt den Nachlass von Ernst Bücken (1884-1949), des Gründers des Instituts für Musikwissenschaft an der Universität Köln. Bückens ca. 100 Musikhandschriften umfassende Sammlung geht auf Teile des 1924 in Köln versteigerten Nachlasses des Bonner Musikforschers Erich Prieger (1849-1913) zurück. Die Bücken-Sammlung enthält Abschriften von Oratorien, Vokal- und Instrumentalwerken des 18.-19. Jahrhunderts sowie Kirchenmusik des späten 17.&nbsp;Jahrhunderts. Sie befindet sich seit 1950 im Besitz der Bibliothek.
+Die Bibliothek verwahrt den Nachlass von Ernst Bücken (1884-1949), dem Gründer des Instituts für Musikwissenschaft an der Universität zu Köln. Die gut 1.600 Bände umfassende musikwissenschaftliche Bibliothek Bückens enthält auch etwa 100 Musikhandschriften, die größtenteils auf Teile des 1924 in Köln versteigerten Nachlasses des Bonner Musikforschers Erich Prieger (1849-1913) zurückgehen.
 
-2014 wurde die vollständige Sammlung digitalisiert und für RISM katalogisiert. Weitere Teile der Bücken-Sammlung befinden sich heute in der Bibliothek des Musikwissenschaftlichen Instituts der Universität Köln (D-KNmi), deren Handschriftenbestände ebenfalls bereits vollständig für RISM katalogisiert wurden.
+Die Handschriften umfassen Abschriften von Oratorien, Vokal- und Instrumentalwerken des 18. und 19. Jahrhunderts sowie Kirchenmusik des späten 17. Jahrhunderts. Seit 1950 befinden sie sich im Besitz der Universitäts- und Stadtbibliothek.
+
+Der Handschriftenbestand wurde digitalisiert und für RISM (Répertoire International des Sources Musicales) katalogisiert. Weitere Teile der Bücken-Sammlung sind heute in der Bibliothek des Musikwissenschaftlichen Instituts der Universität Köln (D-KNmi) zu finden, deren Handschriftenbestände ebenfalls bereits vollständig für RISM erfasst wurden.
 
 • Zuständig: RISM-Arbeitsstelle München
 
