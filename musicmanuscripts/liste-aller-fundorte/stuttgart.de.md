@@ -28,7 +28,7 @@ Clytus Gottwald: _HB XVII 29-480. Die Handschriften der Württembergischen Lande
 
 Clytus Gottwald: _HB XVII 481-946. Die Handschriften der Württembergischen Landesbibliothek, II. Reihe, 6. Band, Teil 3. Die Handschriften der ehemaligen Königlichen Hofbibliothek. Codices musici_, Wiesbaden 2004.
 
-Helmut Lauterwasser: _Katalog der „Musikhandschriften Der Zweiten Reihe“ in der Württembergischen Landesbibliothek: Thematischer Katalog._, Frankfurt/München 2026 online verfügbar (abgerufen am 16.06.2026): regiopen.books. https://doi.org/10.53458/ttz7gg03
+Helmut Lauterwasser: _Katalog der „Musikhandschriften Der Zweiten Reihe“ in der Württembergischen Landesbibliothek: Thematischer Katalog._, Frankfurt/München 2026 online verfügbar (abgerufen am 16.06.2026): regiopen.books. [https://doi.org/10.53458/ttz7gg03](https://doi.org/10.53458/ttz7gg03){:blank}
 
 (Armin Brinzing, April 2011)
 (Update: Steffen Voss, Juni 2026)
