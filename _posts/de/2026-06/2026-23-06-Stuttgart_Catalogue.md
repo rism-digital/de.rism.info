@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Württembergische Landesbibliothek Stuttgart (D-Sl): Musikhandschriften der 'zweiten Reihe' erschlossen'
+title: 'Württembergische Landesbibliothek Stuttgart (D-Sl): Musikhandschriften der zweiten Reihe (Codices musici II) erschlossen'
 date: 2026-23-06
 lang: de
 post: true
