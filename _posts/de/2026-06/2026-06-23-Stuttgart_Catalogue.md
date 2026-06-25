@@ -5,7 +5,7 @@ date: 2026-06-23
 lang: de
 post: true
 category: library_collections
-image: "images/old/schmetterling.jpg"
+image: "/images/old/schmetterling.jpg"
 email: ''
 author: "Steffen Voss"
 ---
