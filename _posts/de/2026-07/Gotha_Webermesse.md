@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Carl Maria von Weber: Widmungsexemplar der Es-Dur Messe (WeV A.2) wieder aufgetaucht'
-date: 2026-07-14
+date: 2026-07-13
 lang: de
 post: true
 category: rediscovered
