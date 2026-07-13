@@ -4,7 +4,7 @@ title: 'Carl Maria von Weber: Widmungsexemplar der Es-Dur Messe (WeV A.2) wieder
 date: 2026-07-13
 lang: de
 post: true
-category: rediscovered
+category: library_collections
 image: "/images/old/6138520-klein.jpg"
 email: ''
 author: "Andrea Hartmann"
