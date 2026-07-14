@@ -4,7 +4,7 @@ title: 'Carl Maria von Weber: A dedication copy of his Mass in E-flat major has 
 date: 2026-07-14
 lang: en
 post: true
-category: library_collections
+category: rediscovered
 image: "/images/old/webermesse.jpg"
 email: ''
 author: "Andrea Hartmann"
