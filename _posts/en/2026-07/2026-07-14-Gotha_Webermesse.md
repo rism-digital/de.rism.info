@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Carl Maria von Weber: Widmungsexemplar der Es-Dur Messe (WeV A.2) wieder aufgetaucht'
+title: 'Carl Maria von Weber: A dedication copy of his Mass in E-flat major has resurfaced'
 date: 2026-07-14
 lang: de
 post: true
