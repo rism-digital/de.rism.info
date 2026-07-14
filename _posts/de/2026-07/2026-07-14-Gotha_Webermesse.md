@@ -5,7 +5,7 @@ date: 2026-07-14
 lang: de
 post: true
 category: library_collections
-image: "/images/old/6138520-klein.jpg"
+image: "/images/old/webermesse.jpg"
 email: ''
 author: "Andrea Hartmann"
 ---
