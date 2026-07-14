@@ -2,7 +2,7 @@
 layout: post
 title: 'Carl Maria von Weber: A dedication copy of his Mass in E-flat major has resurfaced'
 date: 2026-07-14
-lang: de
+lang: en
 post: true
 category: library_collections
 image: "/images/old/webermesse.jpg"
