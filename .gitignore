@@ -3,3 +3,7 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 /node_modules
+vendor/bundle
+wg0.conf
+_posts/.DS_Store
+.DS_Store
